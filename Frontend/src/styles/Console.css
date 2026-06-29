@@ -1,0 +1,336 @@
+/* .console-container {
+  height: 100%;
+  background: var(--bg-primary);
+  border-top: 1px solid var(--border-primary);
+  display: flex;
+  flex-direction: column;
+}
+
+.console-header {
+  padding: 10px 15px;
+  background: var(--bg-secondary);
+  color: var(--primary-purple);
+  font-weight: 600;
+  font-size: 14px;
+  border-bottom: 1px solid var(--border-primary);
+}
+
+.console-content {
+  flex: 1;
+  padding: 15px;
+  overflow-y: auto;
+  color: var(--text-secondary);
+  font-family: 'Courier New', monospace;
+  font-size: 13px;
+}
+
+.console-content.empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-dim);
+  font-style: italic;
+}
+
+.verdict-badge {
+  display: inline-block;
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  font-size: 14px;
+}
+
+.verdict-badge.success {
+  background: var(--success-border);
+  color: #fff;
+}
+
+.verdict-badge.error {
+  background: var(--error-border);
+  color: #fff;
+}
+
+.verdict-badge.warning {
+  background: var(--warning-border);
+  color: #000;
+}
+
+.test-summary {
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 12px;
+}
+
+.test-summary.success {
+  background: var(--success-bg);
+  border-left: 3px solid var(--success-border);
+  color: var(--success-text);
+}
+
+.test-summary.error {
+  background: var(--error-bg);
+  border-left: 3px solid var(--error-border);
+  color: var(--error-text);
+}
+
+.stats-row {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 15px;
+  color: var(--text-muted);
+}
+
+.failed-test {
+  background: var(--bg-secondary);
+  padding: 15px;
+  border-radius: 4px;
+  margin-bottom: 15px;
+}
+
+.failed-header {
+  color: var(--error-text);
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.test-detail {
+  margin-bottom: 8px;
+  line-height: 1.6;
+}
+
+.test-detail code {
+  background: var(--code-bg);
+  padding: 3px 8px;
+  border-radius: 3px;
+  color: var(--text-secondary);
+}
+
+.test-detail code.expected {
+  color: var(--success-text);
+}
+
+.test-detail code.actual {
+  color: var(--error-text);
+}
+
+.error-message {
+  background: var(--error-bg);
+  border-left: 3px solid var(--error-border);
+  padding: 15px;
+  border-radius: 4px;
+  margin-bottom: 15px;
+}
+
+.error-message pre {
+  margin-top: 8px;
+  color: var(--error-text);
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.output-section {
+  margin-top: 15px;
+}
+
+.output-text {
+  background: var(--bg-secondary);
+  padding: 12px;
+  border-radius: 4px;
+  margin-top: 8px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  color: var(--text-secondary);
+} */
+
+.console-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-primary);
+  border-top: 2px solid var(--border-primary);
+}
+
+.console-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 16px;
+  background: var(--bg-secondary);
+  border-bottom: 1px solid var(--border-primary);
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.console-type {
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 10px;
+  background: var(--bg-primary);
+  border: 1px solid var(--border-primary);
+  color: var(--text-muted);
+  font-weight: 500;
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+.console-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.console-content.empty {
+  align-items: center;
+  justify-content: center;
+  color: var(--text-muted);
+  font-size: 14px;
+}
+
+/* ── VERDICT BADGE ── */
+.verdict-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-size: 15px;
+  font-weight: 700;
+  width: fit-content;
+}
+
+.verdict-badge.success {
+  background: rgba(0, 179, 0, 0.12);
+  color: #00b300;
+  border: 1px solid rgba(0, 179, 0, 0.3);
+}
+
+.verdict-badge.error {
+  background: rgba(255, 55, 95, 0.12);
+  color: #ff375f;
+  border: 1px solid rgba(255, 55, 95, 0.3);
+}
+
+.verdict-badge.warning {
+  background: rgba(255, 165, 0, 0.12);
+  color: #ffa500;
+  border: 1px solid rgba(255, 165, 0, 0.3);
+}
+
+/* ── TEST SUMMARY LINE ── */
+.test-summary {
+  font-size: 14px;
+  color: var(--text-muted);
+}
+
+.test-summary.success { color: #00b300; }
+.test-summary.error   { color: #ff375f; }
+.test-summary.warning { color: #ffa500; }
+
+/* ── STATS ROW (accepted) ── */
+.stats-row {
+  display: flex;
+  gap: 20px;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+/* ── FAILED TEST BOX ── */
+.failed-test {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-primary);
+  border-left: 3px solid #ff375f;
+  border-radius: 6px;
+  padding: 12px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.failed-header {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  color: var(--text-muted);
+  margin-bottom: 2px;
+}
+
+.test-detail {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.test-detail strong {
+  color: var(--text-primary);
+  font-size: 12px;
+}
+
+.test-code {
+  margin: 0;
+  padding: 6px 10px;
+  background: var(--bg-primary);
+  border: 1px solid var(--border-primary);
+  border-radius: 4px;
+  font-family: 'Courier New', monospace;
+  font-size: 13px;
+  color: var(--text-primary);
+  white-space: pre-wrap;
+  word-break: break-all;
+}
+
+.test-code.expected { border-color: rgba(0, 179, 0, 0.4); }
+.test-code.actual   { border-color: rgba(255, 55, 95, 0.4); }
+
+.error-block {
+  background: rgba(255, 55, 95, 0.06);
+  border: 1px solid rgba(255, 55, 95, 0.25);
+  border-radius: 6px;
+  padding: 12px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.error-block.warning {
+  background: rgba(255, 165, 0, 0.06);
+  border-color: rgba(255, 165, 0, 0.25);
+}
+
+.error-block-title {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  color: #ff375f;
+}
+
+.error-block.warning .error-block-title {
+  color: #ffa500;
+}
+
+.error-pre {
+  margin: 0;
+  font-family: 'Courier New', monospace;
+  font-size: 13px;
+  color: var(--text-primary);
+  white-space: pre-wrap;
+  word-break: break-word;
+  line-height: 1.6;
+}
+
+.error-hint {
+  margin: 0;
+  font-size: 13px;
+  color: var(--text-muted);
+  line-height: 1.6;
+}

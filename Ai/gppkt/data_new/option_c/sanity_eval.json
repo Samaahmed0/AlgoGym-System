@@ -1,0 +1,299 @@
+{
+  "min_attempts": 3,
+  "old": {
+    "label": "old_last_step",
+    "n_rows_min_attempts": 83784,
+    "n_weak_flags": 6088,
+    "n_students_with_weak": 1016,
+    "avg_mastery_weak": 0.3388,
+    "avg_mastery_not_weak": 0.5721,
+    "avg_solve_rate_weak": 0.4877,
+    "avg_solve_rate_not_weak": 0.5739,
+    "corr_mastery_vs_solve_rate": 0.2244,
+    "weak_with_solve_rate_lte_0.4": 2231,
+    "weak_with_solve_rate_gte_0.7": 913,
+    "pct_false_weak": 15.0,
+    "pct_good_weak": 36.65,
+    "not_weak_but_solve_lte_0.4": 18581,
+    "mastery_buckets": [
+      {
+        "mastery_lo": 0.0,
+        "mastery_hi": 0.35,
+        "n": 2917,
+        "avg_solve_rate": 0.4738
+      },
+      {
+        "mastery_lo": 0.35,
+        "mastery_hi": 0.4,
+        "n": 3171,
+        "avg_solve_rate": 0.5005
+      },
+      {
+        "mastery_lo": 0.4,
+        "mastery_hi": 0.5,
+        "n": 16687,
+        "avg_solve_rate": 0.5174
+      },
+      {
+        "mastery_lo": 0.5,
+        "mastery_hi": 0.65,
+        "n": 46850,
+        "avg_solve_rate": 0.5701
+      },
+      {
+        "mastery_lo": 0.65,
+        "mastery_hi": 1.01,
+        "n": 14159,
+        "avg_solve_rate": 0.653
+      }
+    ],
+    "examples_false_weak": [
+      {
+        "student_id": "user9916",
+        "kc": "graph matchings",
+        "mastery": 0.3383,
+        "solve": "20/20=100%"
+      },
+      {
+        "student_id": "user13575",
+        "kc": "Orientation Test",
+        "mastery": 0.2606,
+        "solve": "18/18=100%"
+      },
+      {
+        "student_id": "user3780",
+        "kc": "Knapsack",
+        "mastery": 0.3951,
+        "solve": "18/18=100%"
+      },
+      {
+        "student_id": "user482",
+        "kc": "divide and conquer",
+        "mastery": 0.3982,
+        "solve": "18/18=100%"
+      },
+      {
+        "student_id": "user11628",
+        "kc": "Distance Between Points",
+        "mastery": 0.3948,
+        "solve": "16/16=100%"
+      },
+      {
+        "student_id": "user13575",
+        "kc": "Convex Hull",
+        "mastery": 0.2994,
+        "solve": "14/14=100%"
+      },
+      {
+        "student_id": "user4331",
+        "kc": "Convex Hull",
+        "mastery": 0.364,
+        "solve": "12/12=100%"
+      },
+      {
+        "student_id": "user5666",
+        "kc": "Orientation Test",
+        "mastery": 0.2781,
+        "solve": "12/12=100%"
+      }
+    ],
+    "examples_good_weak": [
+      {
+        "student_id": "user4619",
+        "kc": "Prime Factorization",
+        "mastery": 0.1786,
+        "solve": "0/141=0%"
+      },
+      {
+        "student_id": "user13098",
+        "kc": "flows",
+        "mastery": 0.3503,
+        "solve": "0/21=0%"
+      },
+      {
+        "student_id": "user9615",
+        "kc": "Max Flow",
+        "mastery": 0.3061,
+        "solve": "0/18=0%"
+      },
+      {
+        "student_id": "user9615",
+        "kc": "flows",
+        "mastery": 0.3222,
+        "solve": "0/18=0%"
+      },
+      {
+        "student_id": "user9615",
+        "kc": "graph matchings",
+        "mastery": 0.3588,
+        "solve": "0/18=0%"
+      },
+      {
+        "student_id": "user7446",
+        "kc": "ternary search",
+        "mastery": 0.3695,
+        "solve": "0/16=0%"
+      },
+      {
+        "student_id": "user3486",
+        "kc": "Line Intersection",
+        "mastery": 0.2038,
+        "solve": "0/15=0%"
+      },
+      {
+        "student_id": "user9916",
+        "kc": "Line Intersection",
+        "mastery": 0.2266,
+        "solve": "0/13=0%"
+      }
+    ]
+  },
+  "infer_option_c": {
+    "label": "infer_active_step",
+    "n_rows_min_attempts": 83784,
+    "n_weak_flags": 6512,
+    "n_students_with_weak": 1364,
+    "avg_mastery_weak": 0.3555,
+    "avg_mastery_not_weak": 0.5413,
+    "avg_solve_rate_weak": 0.3451,
+    "avg_solve_rate_not_weak": 0.5864,
+    "corr_mastery_vs_solve_rate": 0.5538,
+    "weak_with_solve_rate_lte_0.4": 4545,
+    "weak_with_solve_rate_gte_0.7": 519,
+    "pct_false_weak": 7.97,
+    "pct_good_weak": 69.79,
+    "not_weak_but_solve_lte_0.4": 16267,
+    "mastery_buckets": [
+      {
+        "mastery_lo": 0.0,
+        "mastery_hi": 0.35,
+        "n": 2270,
+        "avg_solve_rate": 0.3111
+      },
+      {
+        "mastery_lo": 0.35,
+        "mastery_hi": 0.4,
+        "n": 4242,
+        "avg_solve_rate": 0.3633
+      },
+      {
+        "mastery_lo": 0.4,
+        "mastery_hi": 0.5,
+        "n": 24075,
+        "avg_solve_rate": 0.4555
+      },
+      {
+        "mastery_lo": 0.5,
+        "mastery_hi": 0.65,
+        "n": 47594,
+        "avg_solve_rate": 0.6297
+      },
+      {
+        "mastery_lo": 0.65,
+        "mastery_hi": 1.01,
+        "n": 5603,
+        "avg_solve_rate": 0.7802
+      }
+    ],
+    "examples_false_weak": [
+      {
+        "student_id": "user9916",
+        "kc": "graph matchings",
+        "mastery": 0.3394,
+        "solve": "20/20=100%"
+      },
+      {
+        "student_id": "user13575",
+        "kc": "Orientation Test",
+        "mastery": 0.2654,
+        "solve": "18/18=100%"
+      },
+      {
+        "student_id": "user13575",
+        "kc": "Convex Hull",
+        "mastery": 0.3163,
+        "solve": "14/14=100%"
+      },
+      {
+        "student_id": "user4331",
+        "kc": "Convex Hull",
+        "mastery": 0.376,
+        "solve": "12/12=100%"
+      },
+      {
+        "student_id": "user5666",
+        "kc": "Orientation Test",
+        "mastery": 0.3326,
+        "solve": "12/12=100%"
+      },
+      {
+        "student_id": "user2684",
+        "kc": "geometry",
+        "mastery": 0.2785,
+        "solve": "11/11=100%"
+      },
+      {
+        "student_id": "user9322",
+        "kc": "geometry",
+        "mastery": 0.2969,
+        "solve": "11/11=100%"
+      },
+      {
+        "student_id": "user4331",
+        "kc": "Orientation Test",
+        "mastery": 0.3302,
+        "solve": "10/10=100%"
+      }
+    ],
+    "examples_good_weak": [
+      {
+        "student_id": "user4619",
+        "kc": "Prime Factorization",
+        "mastery": 0.2202,
+        "solve": "0/141=0%"
+      },
+      {
+        "student_id": "user7206",
+        "kc": "Max Flow",
+        "mastery": 0.2114,
+        "solve": "0/39=0%"
+      },
+      {
+        "student_id": "user7206",
+        "kc": "flows",
+        "mastery": 0.198,
+        "solve": "0/39=0%"
+      },
+      {
+        "student_id": "user12231",
+        "kc": "chinese remainder theorem",
+        "mastery": 0.3373,
+        "solve": "0/34=0%"
+      },
+      {
+        "student_id": "user14158",
+        "kc": "Interval DP",
+        "mastery": 0.2998,
+        "solve": "0/24=0%"
+      },
+      {
+        "student_id": "user8522",
+        "kc": "Dijkstra",
+        "mastery": 0.2823,
+        "solve": "0/24=0%"
+      },
+      {
+        "student_id": "user13098",
+        "kc": "flows",
+        "mastery": 0.2515,
+        "solve": "0/21=0%"
+      },
+      {
+        "student_id": "user13098",
+        "kc": "graph matchings",
+        "mastery": 0.2973,
+        "solve": "0/21=0%"
+      }
+    ]
+  }
+}

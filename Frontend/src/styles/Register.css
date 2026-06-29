@@ -1,0 +1,255 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=JetBrains+Mono:wght@600&display=swap');
+@import './theme-purple.css';
+
+/* Reset for full-page centering */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+/* Full page background */
+.login-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: var(--bg-primary);
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+/* White container */
+.login-container {
+  background-color: white;
+  padding: 2.5rem;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+  width: 380px;
+  text-align: center;
+}
+
+/* Logo */
+.logo-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+  margin-top: -10px;
+}
+
+.logo-icon {
+  width: 40px;
+  height: 40px;
+  background-color:var(--primary-purple-dark);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  color: white;
+  font-size: 1.2rem;
+
+  /* Animation */
+  animation: logo-entrance 0.8s cubic-bezier(0.34, 1.56, 0.64, 1);
+  animation-fill-mode: forwards; /* keeps the logo in final state */
+}
+
+.logo-text {
+  font-weight: 900;
+  font-size: 1.3rem;
+
+}
+
+.logo-text .algo {
+  color: black;
+}
+
+.logo-text .gym {
+  color: var(--primary-purple-dark);
+}
+
+/* Heading */
+h2 {
+  margin: 0;
+  font-size: 1.75rem;
+  font-weight: 600;
+}
+
+.subheading {
+  font-size: 0.95rem;
+  color: #6b7280;
+  margin: 0.25rem 0 1.5rem 0;
+  margin-bottom: 1.8rem;
+}
+
+/* Form */
+.login-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.login-form label {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+  color: #374151;
+  margin-bottom: 0.25rem;
+}
+
+.forgot {
+  font-size: 0.8rem;
+  color: var(--primary-purple-dark);
+  cursor: pointer;
+}
+
+.login-form input {
+  border-radius: 8px;
+  border: 1px solid #d1d5db;
+  outline: none;
+  font-size: 0.9rem;
+  width: 100%;
+  padding: 0.75rem 1rem 0.75rem 2.2rem; /* default padding for email and full name */
+  cursor: text;
+  caret-color: var(--primary-purple-darker);
+}
+
+.login-form button {
+  margin-top: 0.5rem;
+  background-color: var(--primary-purple-dark);
+  color: white;
+  padding: 0.75rem;
+  border-radius: 8px;
+  border: none;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.login-form button:hover {
+  background-color:var(--primary-purple-darker);
+  transform: translateY(-1px);
+  transition: all 0.2s ease;
+}
+
+/* Focus effect */
+.login-form input:focus {
+  border-color: var(--primary-purple-darker);
+  box-shadow: 0 0 0 2px rgba(124, 58, 237, 0.2);
+}
+
+/* Error message */
+.error {
+  color: #ef4444;
+  font-size: 0.85rem;
+  text-align: left;
+}
+
+/* Footer */
+.footer {
+  margin-top: 1.4rem;
+  font-size: 0.85rem;
+  color: #6b7280;
+}
+
+.footer .create {
+  color: var(--primary-purple-dark);
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.footer .create:hover {
+  text-decoration: underline;
+  color: var(--primary-purple-darker);
+}
+
+/* Password wrapper */
+.password-wrapper {
+  position: relative;
+  width: 100%;
+}
+
+.input-group.password-wrapper input {
+  padding: 0.75rem 2.5rem 0.6rem 2.2rem;
+  line-height: 1.4;
+}
+
+.toggle-password {
+  position: absolute;
+  right: 0.75rem;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  font-size: 1rem;
+  color: var(--primary-purple-dark);
+  display: flex;
+  align-items: center;
+}
+
+.toggle-password:hover {
+  opacity: 0.8;
+}
+
+/* Input group */
+.input-group {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.input-icon {
+  position: absolute;
+  left: 12px;
+  color: #9ca3af;
+  font-size: 1rem;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 400px) {
+  .login-container {
+    width: 90%;
+    padding: 2rem;
+  }
+}
+
+.login-form label:last-of-type {
+  margin-top: 0.65rem;
+}
+
+
+.password-checklist {
+  text-align: left;
+  font-size: 0.8rem;
+  margin-top: 0.4rem;
+}
+
+.password-checklist p {
+  margin: 3px 0;
+}
+
+.valid {
+  color: #16a34a;
+}
+
+.invalid {
+  color: #ef4444;
+}
+
+.success {
+  color: #16a34a;
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+}
+
+@keyframes logo-entrance {
+  from {
+    transform: scale(0.5) rotate(-15deg);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1) rotate(0deg);
+    opacity: 1;
+  }
+}
+

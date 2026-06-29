@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\AlgoGym",
+    "\\src\\main\\java\\com\\AlgoGym\\backend",
+    "\\src\\main\\java\\com\\AlgoGym\\backend\\controller",
+    "\\src\\test",
+    "\\src\\test\\java",
+    "\\src\\test\\java\\com",
+    "\\src\\test\\java\\com\\AlgoGym",
+    "\\src\\test\\java\\com\\AlgoGym\\backend"
+  ],
+  "SelectedNode": "\\src\\main\\java\\com\\AlgoGym\\backend\\model\\AIFeedback.java",
+  "PreviewInSolutionExplorer": false
+}

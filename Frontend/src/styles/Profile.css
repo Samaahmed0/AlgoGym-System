@@ -1,0 +1,304 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=JetBrains+Mono:wght@500;700;800&display=swap');
+@import './theme-purple.css';
+
+/* Page shell — aligned with .dashboard-page-root + .mesh-gradient */
+.profile-page {
+  display: flex;
+  flex: 1;
+  min-height: 100vh;
+  overflow: hidden;
+  position: relative;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  background: #f8fafc;
+}
+
+.profile-content {
+  flex: 1;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 40px 4%;
+  overflow-y: auto;
+  scroll-behavior: smooth;
+}
+
+/* Mesh overlay (same treatment as dashboard .mesh-gradient) */
+.profile-content::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background-color: #f8fafc;
+  background-image:
+    radial-gradient(at 0% 0%, rgba(214, 154, 246, 0.15) 0px, transparent 50%),
+    radial-gradient(at 100% 0%, rgba(168, 85, 247, 0.15) 0px, transparent 50%),
+    radial-gradient(at 100% 100%, rgba(143, 59, 246, 0.1) 0px, transparent 50%),
+    radial-gradient(at 0% 100%, rgba(168, 85, 247, 0.1) 0px, transparent 50%);
+}
+
+.profile-content > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* Glass card — similar to .chart-card-glass / .glass-panel */
+.profile-card {
+  width: 100%;
+  max-width: 720px;
+  background: rgba(255, 255, 255, 0.88);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-radius: 32px;
+  border: 1px solid rgba(255, 255, 255, 0.65);
+  box-shadow:
+    0 10px 40px -12px rgba(15, 23, 42, 0.12),
+    0 4px 24px rgba(139, 92, 246, 0.08);
+  overflow: hidden;
+  transition: 0.35s cubic-bezier(0.175, 0.885, 0.32, 1.2);
+}
+
+.profile-card:hover {
+  box-shadow:
+    0 16px 48px -12px rgba(15, 23, 42, 0.14),
+    0 8px 32px rgba(139, 92, 246, 0.12);
+}
+
+.profile-header {
+  width: 100%;
+  height: 152px;
+  position: relative;
+  background: linear-gradient(135deg, #411b4b 0%, var(--primary-purple-dark) 45%, #a855f7 100%);
+}
+
+.avatar {
+  width: 104px;
+  height: 104px;
+  border-radius: 50%;
+  border: 4px solid #fff;
+  display: block;
+  background-color: #e2e8f0;
+  object-fit: cover;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15), 0 4px 12px rgba(124, 58, 237, 0.2);
+}
+
+.profile-info {
+  margin-top: 60px;
+  padding: 0 2rem 0.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.profile-info h2 {
+  margin: 0;
+  font-size: clamp(1.5rem, 3vw, 1.85rem);
+  font-weight: 800;
+  letter-spacing: -0.04em;
+  color: var(--text-main);
+  background: linear-gradient(135deg, #411b4b 0%, var(--primary-purple-darker) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.username {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  margin-top: 0.35rem;
+  font-weight: 500;
+}
+
+.profile-form {
+  margin-top: 0.25rem;
+  padding: 0 2rem 2.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  align-items: stretch;
+}
+
+.profile-form input,
+.profile-form textarea {
+  box-sizing: border-box;
+}
+
+.form-row {
+  display: flex;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-width: 240px;
+}
+
+/* Labels — dashboard-style mono caps (.detail-label) */
+.profile-form label {
+  display: block;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #94a3b8;
+  margin-bottom: 8px;
+  text-align: left;
+}
+
+.profile-form input,
+.profile-form textarea {
+  width: 100%;
+  padding: 14px 16px 14px 44px;
+  border-radius: 14px;
+  border: 1px solid var(--border-light);
+  background: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  line-height: 1.5;
+  color: var(--text-main);
+  caret-color: var(--primary-purple-darker);
+  cursor: text;
+  outline: none;
+  resize: vertical;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.profile-form textarea {
+  padding-left: 16px;
+  min-height: 96px;
+  max-height: 200px;
+}
+
+.input-group {
+  position: relative;
+}
+
+.input-group .input-icon {
+  position: absolute;
+  left: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--text-muted);
+  pointer-events: none;
+}
+
+.profile-form input:focus,
+.profile-form textarea:focus {
+  border-color: var(--primary);
+  box-shadow: 0 0 0 4px var(--primary-soft);
+}
+
+.profile-form input::placeholder,
+.profile-form textarea::placeholder {
+  color: var(--text-muted);
+  opacity: 0.75;
+}
+
+/* Primary action — cohesive with dashboard pills / CTAs */
+.save-btn {
+  align-self: flex-start;
+  margin-top: 0.5rem;
+  background: var(--primary-purple-dark);
+  color: #fff;
+  padding: 14px 28px;
+  border-radius: 14px;
+  border: none;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 4px 18px rgba(124, 58, 237, 0.35);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+}
+
+.save-btn:hover {
+  background: var(--primary-purple-darker);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 28px rgba(124, 58, 237, 0.4);
+}
+
+.save-btn:active {
+  transform: translateY(0);
+}
+
+.bio-group {
+  flex: 1;
+  min-width: 250px;
+  max-width: 100%;
+}
+
+.avatar-label {
+  cursor: pointer;
+  display: block;
+  position: absolute;
+  bottom: -52px;
+  left: 2rem;
+  width: 104px;
+  height: 104px;
+}
+
+.avatar-label-busy {
+  cursor: wait;
+}
+
+.avatar-upload-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.45);
+  color: white;
+  font-size: 11px;
+  font-weight: 700;
+  text-align: center;
+  padding: 0 8px;
+}
+
+.avatar-label:hover .avatar {
+  opacity: 0.92;
+  transition: opacity 0.2s ease;
+}
+
+/* Loading — match dashboard .loading-screen / .loader-ring */
+.profile-content .loader-container {
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 48px 24px;
+}
+
+.profile-content .loader-container p {
+  margin: 0;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text-muted);
+  letter-spacing: 0.05em;
+}
+
+.profile-content .modern-spinner {
+  width: 50px;
+  height: 50px;
+  border: 4px solid #e2e8f0;
+  border-top: 4px solid var(--primary);
+  border-radius: 50%;
+  animation: profile-spin 1s linear infinite;
+}
+
+@keyframes profile-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}

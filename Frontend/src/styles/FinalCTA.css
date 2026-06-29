@@ -1,0 +1,112 @@
+.fcta-section {
+  position: relative;
+  padding: 90px 5% 100px;
+  background: #ffffff;
+  overflow: hidden;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+}
+
+.fcta-bg-blob {
+  position: absolute;
+  width: 480px;
+  height: 480px;
+  border-radius: 50%;
+  filter: blur(80px);
+  pointer-events: none;
+}
+
+.fcta-bg-blob--left {
+  left: -160px;
+  top: -100px;
+  background: radial-gradient(circle, rgba(93, 63, 211, 0.1), transparent 70%);
+}
+
+.fcta-bg-blob--right {
+  right: -160px;
+  bottom: -100px;
+  background: radial-gradient(circle, rgba(168, 85, 247, 0.08), transparent 70%);
+}
+
+.fcta-inner {
+  position: relative;
+  z-index: 1;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+
+
+@keyframes pulseDot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.4; transform: scale(0.7); }
+}
+
+/* ── Title ── */
+.fcta-title {
+  font-size: clamp(2rem, 4.5vw, 3.2rem);
+  font-weight: 800;
+  color: #1a1a1a;
+  letter-spacing: -0.04em;
+  line-height: 1.15;
+  margin-bottom: 20px;
+}
+
+.fcta-title-highlight {
+  color: #5d3fd3;
+}
+
+/* ── Sub ── */
+.fcta-sub {
+  font-size: 1.05rem;
+  color: #6b7280;
+  line-height: 1.65;
+  margin-bottom: 40px;
+
+}
+.fcta-actions {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin-bottom: 24px;
+}
+ 
+.fcta-btn-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background-color: #5d3fd3;
+  color: white;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 15px 30px;
+  border-radius: 12px;
+  text-decoration: none;
+  box-shadow: 0 4px 20px rgba(93, 63, 211, 0.35);
+  transition: background-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+  font-family: 'Inter', sans-serif;
+}
+ 
+.fcta-btn-primary svg {
+  width: 18px;
+  height: 18px;
+  transition: transform 0.2s ease;
+}
+ 
+.fcta-btn-primary:hover {
+  background-color: #4b32b3;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 30px rgba(93, 63, 211, 0.4);
+}
+ 
+.fcta-btn-primary:hover svg {
+  transform: translateX(3px);
+}
+
+
+
+
+
+

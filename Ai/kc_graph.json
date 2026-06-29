@@ -1,0 +1,932 @@
+[
+  {
+    "from_kc": "graphs",
+    "to_kc": "shortest paths",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "graphs",
+    "to_kc": "trees",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "data structures",
+    "to_kc": "trees",
+    "weight": 0.7
+  },
+  {
+    "from_kc": "Recursion",
+    "to_kc": "dp",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "data structures",
+    "to_kc": "dp",
+    "weight": 0.7
+  },
+  {
+    "from_kc": "brute force",
+    "to_kc": "dp",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "sortings",
+    "to_kc": "greedy",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "brute force",
+    "to_kc": "greedy",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "sortings",
+    "to_kc": "binary search",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "data structures",
+    "to_kc": "two pointers",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "data structures",
+    "to_kc": "strings",
+    "weight": 0.8
+  },
+  {
+    "from_kc": "math",
+    "to_kc": "number theory",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "math",
+    "to_kc": "combinatorics",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "math",
+    "to_kc": "bitmasks",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "brute force",
+    "to_kc": "bitmasks",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "combinatorics",
+    "to_kc": "probabilities",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "graphs",
+    "to_kc": "flows",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "shortest paths",
+    "to_kc": "flows",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "strings",
+    "to_kc": "string suffix structures",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "sortings",
+    "to_kc": "string suffix structures",
+    "weight": 0.8
+  },
+  {
+    "from_kc": "binary search",
+    "to_kc": "string suffix structures",
+    "weight": 0.75
+  },
+  {
+    "from_kc": "data structures",
+    "to_kc": "advanced queries",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "two pointers",
+    "to_kc": "advanced queries",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "sortings",
+    "to_kc": "advanced queries",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "dp",
+    "to_kc": "divide and conquer",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "graphs",
+    "to_kc": "divide and conquer",
+    "weight": 0.7
+  },
+  {
+    "from_kc": "implementation",
+    "to_kc": "constructive algorithms",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "combinatorics",
+    "to_kc": "games",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "math",
+    "to_kc": "games",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "implementation",
+    "to_kc": "brute force",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "math",
+    "to_kc": "brute force",
+    "weight": 0.7
+  },
+  {
+    "from_kc": "Graph Representation",
+    "to_kc": "BFS",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "Graph Representation",
+    "to_kc": "DFS",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "BFS",
+    "to_kc": "Connected Components",
+    "weight": 0.92
+  },
+  {
+    "from_kc": "DFS",
+    "to_kc": "Connected Components",
+    "weight": 0.92
+  },
+  {
+    "from_kc": "BFS",
+    "to_kc": "Cycle Detection",
+    "weight": 0.88
+  },
+  {
+    "from_kc": "DFS",
+    "to_kc": "Cycle Detection",
+    "weight": 0.92
+  },
+  {
+    "from_kc": "DFS",
+    "to_kc": "Topological Sort",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "Connected Components",
+    "to_kc": "Topological Sort",
+    "weight": 0.8
+  },
+  {
+    "from_kc": "BFS",
+    "to_kc": "Strongly Connected Components",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "BFS",
+    "to_kc": "Bipartite Graph Check",
+    "weight": 0.88
+  },
+  {
+    "from_kc": "DFS",
+    "to_kc": "Bipartite Graph Check",
+    "weight": 0.88
+  },
+  {
+    "from_kc": "Strongly Connected Components",
+    "to_kc": "2-sat",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "Bipartite Graph Check",
+    "to_kc": "graphs matching",
+    "weight": 0.92
+  },
+  {
+    "from_kc": "Bipartite Matching",
+    "to_kc": "graphs matching",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "Graph Representation",
+    "to_kc": "Dijkstra",
+    "weight": 0.8
+  },
+  {
+    "from_kc": "Priority Queue",
+    "to_kc": "Dijkstra",
+    "weight": 0.8
+  },
+  {
+    "from_kc": "Graph Representation",
+    "to_kc": "Bellman-Ford",
+    "weight": 0.8
+  },
+  {
+    "from_kc": "1D DP",
+    "to_kc": "Bellman-Ford",
+    "weight": 0.65
+  },
+  {
+    "from_kc": "dp",
+    "to_kc": "Floyd-Warshall",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "graphs",
+    "to_kc": "Floyd-Warshall",
+    "weight": 0.8
+  },
+  {
+    "from_kc": "BFS",
+    "to_kc": "0-1 BFS",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "Deque",
+    "to_kc": "0-1 BFS",
+    "weight": 0.92
+  },
+  {
+    "from_kc": "Topological Sort",
+    "to_kc": "Shortest Path in DAG",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "DFS",
+    "to_kc": "Tree DFS",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "dp",
+    "to_kc": "Tree DP",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "Tree DFS",
+    "to_kc": "Tree DP",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "Tree DFS",
+    "to_kc": "Lowest Common Ancestor",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "Tree DFS",
+    "to_kc": "Binary Lifting",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "Sparse Table",
+    "to_kc": "Binary Lifting",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "Tree DFS",
+    "to_kc": "Tree Diameter",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "data structures",
+    "to_kc": "1D DP",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "Recursion",
+    "to_kc": "1D DP",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "1D DP",
+    "to_kc": "2D DP",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "2D DP",
+    "to_kc": "Knapsack",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "1D DP",
+    "to_kc": "Longest Increasing Subsequence",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "1D DP",
+    "to_kc": "Longest Common Subsequence",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "Longest Common Subsequence",
+    "to_kc": "Edit Distance",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "2D DP",
+    "to_kc": "Edit Distance",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "bitmasks",
+    "to_kc": "Bitmask DP",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "1D DP",
+    "to_kc": "Bitmask DP",
+    "weight": 0.92
+  },
+  {
+    "from_kc": "1D DP",
+    "to_kc": "Digit DP",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "dp",
+    "to_kc": "Tree DP",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "Tree DFS",
+    "to_kc": "Tree DP",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "2D DP",
+    "to_kc": "Interval DP",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "dp",
+    "to_kc": "DP on DAG",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "Topological Sort",
+    "to_kc": "DP on DAG",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "sortings",
+    "to_kc": "Activity Selection",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "sortings",
+    "to_kc": "Interval Scheduling",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "sortings",
+    "to_kc": "Greedy Sorting",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "sortings",
+    "to_kc": "Binary Search on Array",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "Binary Search on Array",
+    "to_kc": "Binary Search on Answer",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "Binary Search on Answer",
+    "to_kc": "ternary search",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "sortings",
+    "to_kc": "Sliding Window",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "sortings",
+    "to_kc": "Two Pointers on Sorted Array",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "data structures",
+    "to_kc": "String Matching",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "String Matching",
+    "to_kc": "KMP",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "Prefix Function",
+    "to_kc": "KMP",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "String Matching",
+    "to_kc": "Z Algorithm",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "String Matching",
+    "to_kc": "Prefix Function",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "String Matching",
+    "to_kc": "Trie",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "String Matching",
+    "to_kc": "Palindrome Detection",
+    "weight": 0.92
+  },
+  {
+    "from_kc": "Hash Map",
+    "to_kc": "hashing",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "strings",
+    "to_kc": "hashing",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "sortings",
+    "to_kc": "Custom Comparator Sorting",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "sortings",
+    "to_kc": "Coordinate Compression",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "Stack",
+    "to_kc": "Queue",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "Queue",
+    "to_kc": "Deque",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "Stack",
+    "to_kc": "Deque",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "Stack",
+    "to_kc": "Priority Queue",
+    "weight": 0.88
+  },
+  {
+    "from_kc": "Queue",
+    "to_kc": "Priority Queue",
+    "weight": 0.88
+  },
+  {
+    "from_kc": "Stack",
+    "to_kc": "dsu",
+    "weight": 0.7
+  },
+  {
+    "from_kc": "Queue",
+    "to_kc": "dsu",
+    "weight": 0.7
+  },
+  {
+    "from_kc": "data structures",
+    "to_kc": "Fenwick Tree",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "sortings",
+    "to_kc": "Fenwick Tree",
+    "weight": 0.8
+  },
+  {
+    "from_kc": "data structures",
+    "to_kc": "Segment Tree",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "Recursion",
+    "to_kc": "Segment Tree",
+    "weight": 0.88
+  },
+  {
+    "from_kc": "Segment Tree",
+    "to_kc": "Lazy Segment Tree",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "data structures",
+    "to_kc": "Sparse Table",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "data structures",
+    "to_kc": "Ordered Set",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "data structures",
+    "to_kc": "Hash Map",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "data structures",
+    "to_kc": "Multiset",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "Hash Map",
+    "to_kc": "Multiset",
+    "weight": 0.8
+  },
+  {
+    "from_kc": "Stack",
+    "to_kc": "Monotonic Stack",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "Queue",
+    "to_kc": "Monotonic Queue",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "Deque",
+    "to_kc": "Monotonic Queue",
+    "weight": 0.92
+  },
+  {
+    "from_kc": "Segment Tree",
+    "to_kc": "Sqrt Decomposition",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "Sliding Window",
+    "to_kc": "Sqrt Decomposition",
+    "weight": 0.88
+  },
+  {
+    "from_kc": "GCD",
+    "to_kc": "LCM",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "GCD",
+    "to_kc": "Modular Arithmetic",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "Modular Arithmetic",
+    "to_kc": "Modular Inverse",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "math",
+    "to_kc": "Fast Exponentiation",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "Prime Factorization",
+    "to_kc": "Divisors",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "GCD",
+    "to_kc": "Divisors",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "Stack",
+    "to_kc": "Difference Array",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "Modular Arithmetic",
+    "to_kc": "Complex Numbers",
+    "weight": 0.92
+  },
+  {
+    "from_kc": "Modular Arithmetic",
+    "to_kc": "matrices",
+    "weight": 0.88
+  },
+  {
+    "from_kc": "1D DP",
+    "to_kc": "matrices",
+    "weight": 0.75
+  },
+  {
+    "from_kc": "math",
+    "to_kc": "Prime Sieve",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "Prime Sieve",
+    "to_kc": "Prime Factorization",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "Modular Arithmetic",
+    "to_kc": "chinese remainder theorem",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "Modular Inverse",
+    "to_kc": "chinese remainder theorem",
+    "weight": 0.92
+  },
+  {
+    "from_kc": "math",
+    "to_kc": "Permutations",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "math",
+    "to_kc": "Combinations",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "Combinations",
+    "to_kc": "Pascal Triangle",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "Permutations",
+    "to_kc": "Inclusion-Exclusion",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "Combinations",
+    "to_kc": "Inclusion-Exclusion",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "Combinations",
+    "to_kc": "Modular Combinations",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "Modular Arithmetic",
+    "to_kc": "Modular Combinations",
+    "weight": 0.92
+  },
+  {
+    "from_kc": "Modular Inverse",
+    "to_kc": "Modular Combinations",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "math",
+    "to_kc": "Bitmask Enumeration",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "Bitmask Enumeration",
+    "to_kc": "Submask Enumeration",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "math",
+    "to_kc": "Distance Between Points",
+    "weight": 0.8
+  },
+  {
+    "from_kc": "Distance Between Points",
+    "to_kc": "Orientation Test",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "Orientation Test",
+    "to_kc": "Line Intersection",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "Distance Between Points",
+    "to_kc": "Line Intersection",
+    "weight": 0.88
+  },
+  {
+    "from_kc": "Distance Between Points",
+    "to_kc": "Polygon Area",
+    "weight": 0.88
+  },
+  {
+    "from_kc": "Orientation Test",
+    "to_kc": "Convex Hull",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "Distance Between Points",
+    "to_kc": "Convex Hull",
+    "weight": 0.92
+  },
+  {
+    "from_kc": "sortings",
+    "to_kc": "Convex Hull",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "Convex Hull",
+    "to_kc": "Rotating Calipers",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "sortings",
+    "to_kc": "Sweep Line",
+    "weight": 0.92
+  },
+  {
+    "from_kc": "Coordinate Compression",
+    "to_kc": "Sweep Line",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "combinatorics",
+    "to_kc": "Expected Value",
+    "weight": 0.92
+  },
+  {
+    "from_kc": "Expected Value",
+    "to_kc": "Conditional Probability",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "combinatorics",
+    "to_kc": "Conditional Probability",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "graphs",
+    "to_kc": "Max Flow",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "Priority Queue",
+    "to_kc": "Max Flow",
+    "weight": 0.92
+  },
+  {
+    "from_kc": "Max Flow",
+    "to_kc": "Min Cut",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "Max Flow",
+    "to_kc": "Bipartite Matching",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "Bipartite Graph Check",
+    "to_kc": "Bipartite Matching",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "Max Flow",
+    "to_kc": "Min Cost Max Flow",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "data structures",
+    "to_kc": "Simulation",
+    "weight": 0.75
+  },
+  {
+    "from_kc": "data structures",
+    "to_kc": "Brute Force Enumeration",
+    "weight": 0.7
+  },
+  {
+    "from_kc": "data structures",
+    "to_kc": "Recursion",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "Recursion",
+    "to_kc": "Backtracking",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "Recursion",
+    "to_kc": "State Simulation",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "Stack",
+    "to_kc": "Prefix Sum",
+    "weight": 0.92
+  },
+  {
+    "from_kc": "String Matching",
+    "to_kc": "Suffix Array",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "sortings",
+    "to_kc": "Suffix Array",
+    "weight": 0.92
+  },
+  {
+    "from_kc": "String Matching",
+    "to_kc": "Suffix Automaton",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "Z Algorithm",
+    "to_kc": "Suffix Automaton",
+    "weight": 0.92
+  },
+  {
+    "from_kc": "Sqrt Decomposition",
+    "to_kc": "Mo's Algorithm",
+    "weight": 0.98
+  },
+  {
+    "from_kc": "Sliding Window",
+    "to_kc": "Mo's Algorithm",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "sortings",
+    "to_kc": "Mo's Algorithm",
+    "weight": 0.92
+  },
+  {
+    "from_kc": "dp",
+    "to_kc": "Meet-in-the-middle",
+    "weight": 0.88
+  },
+  {
+    "from_kc": "brute force",
+    "to_kc": "Meet-in-the-middle",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "dp",
+    "to_kc": "fft",
+    "weight": 0.8
+  },
+  {
+    "from_kc": "implementation",
+    "to_kc": "Constructive Techniques",
+    "weight": 0.9
+  },
+  {
+    "from_kc": "Activity Selection",
+    "to_kc": "Schedules",
+    "weight": 0.92
+  },
+  {
+    "from_kc": "Interval Scheduling",
+    "to_kc": "Schedules",
+    "weight": 0.92
+  },
+  {
+    "from_kc": "String Matching",
+    "to_kc": "expression parsing",
+    "weight": 0.95
+  },
+  {
+    "from_kc": "Stack",
+    "to_kc": "expression parsing",
+    "weight": 0.85
+  },
+  {
+    "from_kc": "Simulation",
+    "to_kc": "interactive",
+    "weight": 0.92
+  },
+  {
+    "from_kc": "combinatorics",
+    "to_kc": "Game Theory Basics",
+    "weight": 0.92
+  },
+  {
+    "from_kc": "math",
+    "to_kc": "Game Theory Basics",
+    "weight": 0.85
+  }
+]

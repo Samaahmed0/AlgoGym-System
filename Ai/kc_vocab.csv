@@ -1,0 +1,138 @@
+kc_name,entity_id
+graphs,1
+shortest paths,2
+trees,3
+dp,4
+greedy,5
+binary search,6
+two pointers,7
+strings,8
+sortings,9
+data structures,10
+math,11
+number theory,12
+combinatorics,13
+bitmasks,14
+geometry,15
+probabilities,16
+flows,17
+implementation,18
+string suffix structures,19
+advanced queries,20
+divide and conquer,21
+constructive algorithms,22
+games,23
+brute force,24
+Graph Representation,101
+BFS,102
+DFS,103
+Connected Components,104
+Cycle Detection,105
+Topological Sort,106
+Strongly Connected Components,107
+Bipartite Graph Check,108
+2-sat,109
+graphs matching,110
+graph matchings,110
+Dijkstra,201
+Bellman-Ford,202
+Floyd-Warshall,203
+0-1 BFS,204
+Shortest Path in DAG,205
+Tree DFS,301
+Tree DP,302
+Lowest Common Ancestor,303
+Binary Lifting,304
+Tree Diameter,305
+1D DP,401
+2D DP,402
+Knapsack,403
+Longest Increasing Subsequence,404
+Longest Common Subsequence,405
+Edit Distance,406
+Bitmask DP,407
+Digit DP,408
+Tree DP,409
+Interval DP,410
+DP on DAG,411
+Activity Selection,501
+Interval Scheduling,502
+Greedy Sorting,503
+Binary Search on Array,601
+Binary Search on Answer,602
+ternary search,603
+Sliding Window,701
+Two Pointers on Sorted Array,702
+String Matching,801
+KMP,802
+Z Algorithm,803
+Prefix Function,804
+Trie,805
+Palindrome Detection,806
+hashing,807
+String Hashing,807
+Custom Comparator Sorting,901
+Coordinate Compression,902
+Stack,1001
+Queue,1002
+Deque,1003
+Priority Queue,1004
+dsu,1005
+Fenwick Tree,1006
+Segment Tree,1007
+Lazy Segment Tree,1008
+Sparse Table,1009
+Ordered Set,1010
+Hash Map,1011
+Multiset,1012
+Monotonic Stack,1013
+Monotonic Queue,1014
+Sqrt Decomposition,1015
+GCD,1101
+LCM,1102
+Modular Arithmetic,1103
+Modular Inverse,1104
+Fast Exponentiation,1105
+Divisors,1106
+Difference Array,1107
+Complex Numbers,1110
+matrices,1111
+Prime Sieve,1201
+Prime Factorization,1202
+chinese remainder theorem,1203
+Permutations,1301
+Combinations,1302
+Pascal Triangle,1303
+Inclusion-Exclusion,1304
+Modular Combinations,1305
+Bitmask Enumeration,1401
+Submask Enumeration,1402
+Distance Between Points,1501
+Orientation Test,1502
+Line Intersection,1503
+Polygon Area,1504
+Convex Hull,1505
+Rotating Calipers,1506
+Sweep Line,1507
+Expected Value,1601
+Conditional Probability,1602
+Max Flow,1701
+Min Cut,1702
+Bipartite Matching,1703
+Min Cost Max Flow,1704
+Simulation,1801
+Brute Force Enumeration,1802
+Recursion,1803
+Backtracking,1804
+State Simulation,1805
+Prefix Sum,1806
+Suffix Array,1901
+Suffix Automaton,1902
+Mo's Algorithm,2001
+fft,2101
+Meet-in-the-middle,2102
+Constructive Techniques,2201
+Schedules,2202
+expression parsing,2203
+interactive,2204
+Game Theory Basics,2301

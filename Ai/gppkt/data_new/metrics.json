@@ -1,0 +1,63 @@
+{
+  "checkpoint": "D:\\AlgoGym\\Ai\\gppkt\\data_new\\gppkt_kc_best.pt",
+  "npz": "D:\\AlgoGym\\Ai\\gppkt\\data_new\\gppkt_sequences.npz",
+  "exercise_vectors": "D:\\AlgoGym\\Ai\\gppkt\\data_new\\exercise_vectors.npy",
+  "kc_embeddings": "D:\\AlgoGym\\Ai\\gppkt\\data_new\\kc_embeddings.npy",
+  "checkpoint_epoch": 5,
+  "checkpoint_val_kc_auc": 0.6472380291597278,
+  "checkpoint_val_problem_auc": 0.7340864955186447,
+  "S": 1664,
+  "T": 200,
+  "K": 3062,
+  "C": 136,
+  "train_students": 1331,
+  "val_students": 333,
+  "problem": {
+    "train": {
+      "n_labels": 220013,
+      "positive_rate": 0.5613395572079831,
+      "threshold": 0.5,
+      "auc": 0.7727563464603491,
+      "accuracy": 0.7017948939380855,
+      "precision": 0.7304309061527317,
+      "recall": 0.7429515311492931,
+      "f1": 0.7366380192757737,
+      "bce_log_loss": 0.5630953107895926
+    },
+    "validation": {
+      "n_labels": 54774,
+      "positive_rate": 0.5652681929382554,
+      "threshold": 0.5,
+      "auc": 0.7340864955186447,
+      "accuracy": 0.6746083908423705,
+      "precision": 0.7032076463855981,
+      "recall": 0.7342548930947613,
+      "f1": 0.718395980471157,
+      "bce_log_loss": 0.598685944433957
+    }
+  },
+  "kc": {
+    "train": {
+      "n_labels": 935758,
+      "positive_rate": 0.541299139307385,
+      "threshold": 0.5,
+      "auc": 0.6502397774020735,
+      "accuracy": 0.616183885149793,
+      "precision": 0.6428801352729698,
+      "recall": 0.6545224816149252,
+      "f1": 0.6486490716800541,
+      "bce_log_loss": 0.6564591568125633
+    },
+    "validation": {
+      "n_labels": 233011,
+      "positive_rate": 0.5457296007484626,
+      "threshold": 0.5,
+      "auc": 0.6472380291597278,
+      "accuracy": 0.6138980563149379,
+      "precision": 0.644710734155546,
+      "recall": 0.6515755616895117,
+      "f1": 0.6481249706659992,
+      "bce_log_loss": 0.6576748114660932
+    }
+  }
+}

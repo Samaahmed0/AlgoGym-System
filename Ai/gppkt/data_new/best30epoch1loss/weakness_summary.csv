@@ -1,0 +1,1665 @@
+student_id,weak_kcs,n_weak,weakest_5
+user0,,0,flows;geometry;Bipartite Graph Check;shortest paths;Interval DP
+user10004,Distance Between Points;flows;geometry;graph matchings,4,Orientation Test;geometry;Polygon Area;Max Flow;graph matchings
+user10019,,0,geometry;Distance Between Points;2D DP;Tree DFS;dp
+user10028,geometry,1,geometry;graph matchings;flows;Interval DP;Lazy Segment Tree
+user10031,Orientation Test;geometry,2,geometry;Orientation Test;Priority Queue;Binary Lifting;ternary search
+user10036,flows,1,Max Flow;flows;graph matchings;Shortest Path in DAG;geometry
+user10047,,0,trees;divide and conquer;flows;shortest paths;probabilities
+user10052,geometry,1,geometry;graph matchings;Distance Between Points;flows;Priority Queue
+user10059,flows,1,flows;shortest paths;Topological Sort;graphs;ternary search
+user10073,Max Flow;flows,2,Max Flow;flows;geometry;Priority Queue;Shortest Path in DAG
+user10074,Distance Between Points;geometry;graph matchings,3,Polygon Area;geometry;Distance Between Points;graph matchings;flows
+user10077,2D DP;dp,2,dp;2D DP;Interval DP;brute force;geometry
+user10080,,0,Priority Queue;Dijkstra;dsu;shortest paths;graphs
+user10086,,0,Binary Lifting;flows;Inclusion-Exclusion;Conditional Probability;Max Flow
+user10090,,0,geometry;graph matchings;Max Flow;Distance Between Points;flows
+user10094,,0,geometry;Binary Search on Answer;Polygon Area;Distance Between Points;Binary Search on Array
+user10103,,0,geometry;Max Flow;graph matchings;flows;2-sat
+user10119,,0,2D DP;graphs;Tree DP;hashing;dsu
+user10149,Distance Between Points;Max Flow;flows;geometry,4,Max Flow;geometry;Distance Between Points;flows;2-sat
+user10153,Max Flow;flows,2,Max Flow;geometry;flows;Distance Between Points;Binary Lifting
+user10155,geometry,1,geometry;flows;Distance Between Points;graph matchings;Multiset
+user10159,Activity Selection;Binary Search on Answer;Binary Search on Array;Bitmask Enumeration;Brute Force Enumeration;Fast Exponentiation;Greedy Sorting;Meet-in-the-middle;Prime Sieve;Recursion;Simulation;binary search;bitmasks;brute force;combinatorics;constructive algorithms;data structures;games;greedy;implementation;math;number theory;probabilities;sortings;ternary search;trees;two pointers,27,brute force;bitmasks;greedy;implementation;Binary Search on Array
+user10183,flows,1,flows;dsu;graphs;2D DP;Connected Components
+user10206,,0,2D DP;hashing;graphs;KMP;Binary Search on Answer
+user10219,,0,ternary search;Binary Search on Answer;geometry;flows;binary search
+user10224,,0,Ordered Set;Monotonic Queue;Dijkstra;Tree DFS;hashing
+user10234,1D DP;Bitmask Enumeration;Brute Force Enumeration;Hash Map;Meet-in-the-middle;Segment Tree;bitmasks;brute force;data structures;divide and conquer;dp;two pointers,12,brute force;dp;data structures;Meet-in-the-middle;divide and conquer
+user1024,flows;graph matchings,2,flows;graph matchings;geometry;Priority Queue;2-sat
+user10245,,0,geometry;Distance Between Points;ternary search;Binary Search on Answer;Priority Queue
+user10254,brute force;combinatorics;constructive algorithms;data structures;dsu;graphs;greedy;implementation;math;number theory;shortest paths;trees;two pointers,13,graphs;brute force;number theory;math;bitmasks
+user10270,,0,geometry;Hash Map;dsu;Connected Components;BFS
+user10273,Line Intersection,1,Line Intersection;geometry;Max Flow;graph matchings;flows
+user10285,,0,ternary search;Binary Search on Answer;graph matchings;flows;2-sat
+user10287,,0,geometry;Interval DP;Connected Components;graphs;shortest paths
+user10307,Max Flow;flows;geometry;graph matchings,4,Polygon Area;geometry;Distance Between Points;graph matchings;Max Flow
+user10314,,0,geometry;Topological Sort;graphs;2D DP;Binary Search on Answer
+user10357,geometry,1,Line Intersection;geometry;Distance Between Points;2D DP;Connected Components
+user1037,,0,geometry;flows;Max Flow;graph matchings;Expected Value
+user10371,,0,dsu;trees;graphs;Binary Search on Array;binary search
+user10373,,0,geometry;dsu;graphs;Graph Representation;interactive
+user10381,,0,flows;graph matchings;Priority Queue;Bipartite Graph Check;Dijkstra
+user10383,,0,flows;graph matchings;graphs;2-sat;geometry
+user10384,,0,geometry;Distance Between Points;Cycle Detection;Strongly Connected Components;2D DP
+user10403,Binary Search on Array;Bitmask Enumeration;Brute Force Enumeration;Expected Value;binary search;bitmasks;brute force;combinatorics;constructive algorithms;data structures;divide and conquer;dp;games;greedy;implementation;math;number theory;probabilities;sortings;trees;two pointers,21,brute force;probabilities;bitmasks;games;greedy
+user10411,Bipartite Graph Check;geometry,2,graph matchings;Orientation Test;geometry;Bipartite Graph Check;Strongly Connected Components
+user10421,,0,Priority Queue;dsu;graphs;Hash Map;geometry
+user10423,,0,dp;hashing;Combinations;binary search;combinatorics
+user10426,Distance Between Points;flows;geometry;graph matchings,4,graph matchings;geometry;flows;Distance Between Points;Bipartite Graph Check
+user10428,Activity Selection;Binary Search on Answer;Binary Search on Array;Bitmask Enumeration;Brute Force Enumeration;Greedy Sorting;Prime Sieve;Simulation;binary search;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;dp;games;graphs;greedy;implementation;math;number theory;probabilities;shortest paths;sortings;ternary search;trees;two pointers,27,brute force;implementation;binary search;greedy;bitmasks
+user10442,,0,Strongly Connected Components;2D DP;Topological Sort;graphs;dsu
+user10464,Brute Force Enumeration;Lowest Common Ancestor;Monotonic Stack;Multiset;Simulation;Tree DFS;bitmasks;brute force;constructive algorithms;data structures;dsu;implementation;trees,13,trees;constructive algorithms;interactive;Simulation;brute force
+user10468,geometry,1,geometry;Convex Hull;Orientation Test;Multiset;Ordered Set
+user10484,Bitmask Enumeration;Difference Array;Monotonic Stack;Priority Queue;Stack;dsu,6,dsu;Monotonic Stack;Priority Queue;Difference Array;Stack
+user10493,Convex Hull;Max Flow;geometry;graph matchings,4,Min Cut;Orientation Test;Polygon Area;geometry;Convex Hull
+user10504,Distance Between Points;Line Intersection;geometry,3,Line Intersection;Polygon Area;geometry;Distance Between Points;2D DP
+user1051,Binary Search on Answer;Binary Search on Array;Bitmask Enumeration;Fast Exponentiation;Fenwick Tree;binary search;bitmasks;games;greedy;math;number theory;two pointers,12,Bitmask Enumeration;bitmasks;binary search;math;Fast Exponentiation
+user10512,Difference Array;Monotonic Stack;Stack;dsu;math;number theory,6,dsu;Difference Array;number theory;Stack;Queue
+user10526,geometry;graph matchings,2,Polygon Area;geometry;flows;graph matchings;Distance Between Points
+user10534,geometry,1,geometry;Polygon Area;Distance Between Points;Interval DP;Knapsack
+user10539,Min Cut;geometry,2,Min Cut;geometry;graph matchings;flows;2-sat
+user10560,trees,1,trees;binary search;divide and conquer;data structures;two pointers
+user10563,Max Flow;Orientation Test;geometry;graph matchings,4,Orientation Test;geometry;graph matchings;Max Flow;flows
+user10569,flows;graph matchings,2,Max Flow;flows;graph matchings;shortest paths;Dijkstra
+user10571,geometry,1,Polygon Area;geometry;Distance Between Points;2-sat;Bipartite Graph Check
+user10578,Distance Between Points;geometry,2,geometry;Polygon Area;Distance Between Points;graph matchings;Bipartite Graph Check
+user10589,Tree DP;brute force;dp;trees,4,divide and conquer;dp;brute force;trees;Tree DP
+user10604,geometry,1,geometry;Polygon Area;Ordered Set;Multiset;Hash Map
+user10608,Binary Search on Answer;Binary Search on Array;Bitmask Enumeration;binary search;bitmasks;brute force;combinatorics;data structures;divide and conquer;games;greedy;implementation;math;number theory;sortings;ternary search;trees;two pointers,18,binary search;bitmasks;two pointers;brute force;data structures
+user10624,Bitmask Enumeration;Brute Force Enumeration;Monotonic Stack;Prefix Sum;Simulation;Stack;binary search;bitmasks;brute force;combinatorics;constructive algorithms;data structures;divide and conquer;games;graphs;greedy;implementation;math;number theory;shortest paths;trees;two pointers,22,brute force;number theory;math;implementation;games
+user10631,Max Flow;geometry;graph matchings,3,Orientation Test;graph matchings;geometry;Max Flow;Distance Between Points
+user10632,,0,flows;geometry;graphs;Binary Search on Answer;trees
+user10639,,0,Max Flow;flows;shortest paths;dsu;graphs
+user10641,,0,Max Flow;graph matchings;flows;geometry;Polygon Area
+user10653,1D DP;Bitmask Enumeration;Combinations;Longest Increasing Subsequence;bitmasks;brute force;dp;trees,8,Bitmask Enumeration;bitmasks;Longest Increasing Subsequence;dp;Knapsack
+user1066,geometry,1,geometry;Distance Between Points;Binary Lifting;Lazy Segment Tree;Knapsack
+user10660,DFS;Graph Representation;divide and conquer;graphs;shortest paths,5,shortest paths;graphs;divide and conquer;DFS;Graph Representation
+user1067,,0,flows;hashing;Binary Lifting;Max Flow;trees
+user10682,Binary Search on Answer;Binary Search on Array;Greedy Sorting;binary search;bitmasks;brute force;data structures;divide and conquer;geometry;graphs;greedy;implementation;sortings;trees;two pointers,15,binary search;two pointers;greedy;brute force;sortings
+user10684,ternary search,1,ternary search;games;Binary Search on Answer;binary search;bitmasks
+user10687,geometry,1,geometry;Dijkstra;shortest paths;Interval DP;Edit Distance
+user10688,,0,graph matchings;Max Flow;ternary search;Bipartite Graph Check;flows
+user10693,1D DP;Bitmask DP;Bitmask Enumeration;Brute Force Enumeration;Digit DP;Fenwick Tree;Segment Tree;bitmasks;brute force;data structures;divide and conquer;dp,12,brute force;dp;Bitmask DP;bitmasks;data structures
+user10694,Divisors;Modular Arithmetic;Prefix Sum;Prime Factorization;Prime Sieve;Priority Queue;dsu;interactive;number theory,9,Prime Factorization;Divisors;Difference Array;number theory;Modular Arithmetic
+user10696,flows,1,geometry;flows;2D DP;Priority Queue;Knapsack
+user10697,,0,flows;geometry;Polygon Area;Distance Between Points;Interval DP
+user1070,graph matchings,1,Line Intersection;graph matchings;Max Flow;geometry;Bipartite Graph Check
+user10702,,0,hashing;geometry;Polygon Area;Hash Map;graphs
+user10706,,0,Bipartite Graph Check;shortest paths;Dijkstra;graphs;Line Intersection
+user1075,Max Flow;Orientation Test;geometry,3,Max Flow;Orientation Test;graph matchings;geometry;Polygon Area
+user10753,Activity Selection;Binary Search on Answer;Binary Search on Array;Bitmask Enumeration;Coordinate Compression;Custom Comparator Sorting;Fenwick Tree;Greedy Sorting;Hash Map;Ordered Set;Priority Queue;Queue;Sliding Window;Two Pointers on Sorted Array;binary search;bitmasks;brute force;data structures;divide and conquer;dsu;flows;graphs;greedy;implementation;shortest paths;sortings;string suffix structures;ternary search;trees;two pointers,30,two pointers;binary search;greedy;Fenwick Tree;sortings
+user10767,,0,graphs;trees;Tree DFS;binary search;data structures
+user1077,graph matchings,1,graph matchings;flows;Line Intersection;Orientation Test;geometry
+user1080,geometry,1,geometry;Expected Value;Distance Between Points;graph matchings;Combinations
+user10805,,0,trees;ternary search;Tree DFS;dsu;Binary Search on Answer
+user10806,,0,interactive;constructive algorithms;Simulation;trees;graphs
+user10811,Distance Between Points;geometry,2,geometry;Distance Between Points;graph matchings;Interval DP;2D DP
+user10819,flows;graph matchings,2,graph matchings;geometry;Max Flow;Distance Between Points;flows
+user1082,Convex Hull;Max Flow;geometry;graph matchings,4,Line Intersection;geometry;Polygon Area;Convex Hull;graph matchings
+user10845,flows;geometry;graph matchings,3,graph matchings;geometry;flows;Distance Between Points;Priority Queue
+user10851,Binary Search on Array;binary search;bitmasks;brute force;data structures;divide and conquer;dp;graphs;greedy;shortest paths;trees;two pointers,12,divide and conquer;brute force;binary search;bitmasks;two pointers
+user10868,,0,Hash Map;graphs;dsu;Combinations;Coordinate Compression
+user10870,Convex Hull;Line Intersection;geometry,3,Line Intersection;geometry;Distance Between Points;Convex Hull;graph matchings
+user10881,,0,graphs;trees;binary search;dp;dsu
+user1089,BFS;Difference Array;Prefix Sum;Priority Queue;data structures;divide and conquer;dsu;graphs;shortest paths,9,Priority Queue;shortest paths;dsu;BFS;Stack
+user10899,,0,flows;ternary search;shortest paths;trees;Tree DFS
+user10902,Distance Between Points;Max Flow;geometry;graph matchings,4,geometry;Max Flow;graph matchings;Distance Between Points;Priority Queue
+user10913,Priority Queue;Stack;Tree DFS;data structures;divide and conquer;dsu;shortest paths;trees;two pointers,9,dsu;Priority Queue;data structures;Stack;trees
+user10915,,0,geometry;Convex Hull;Distance Between Points;graph matchings;Interval DP
+user10919,Max Flow;geometry,2,Max Flow;geometry;flows;Polygon Area;Priority Queue
+user10922,geometry;graph matchings,2,geometry;Convex Hull;graph matchings;Max Flow;flows
+user10946,Tree DFS;trees,2,trees;Tree DFS;ternary search;data structures;Tree DP
+user10947,,0,Edit Distance;2D DP;Cycle Detection;Binary Lifting;Knapsack
+user1095,geometry,1,flows;geometry;Polygon Area;Distance Between Points;Priority Queue
+user10955,2D DP;dp,2,2D DP;dp;DP on DAG;geometry;Polygon Area
+user10961,geometry;graph matchings,2,Line Intersection;geometry;Max Flow;graph matchings;Distance Between Points
+user10982,Max Flow;geometry,2,Polygon Area;geometry;Distance Between Points;Max Flow;flows
+user10998,,0,flows;Max Flow;graph matchings;Ordered Set;graphs
+user11003,,0,geometry;Hash Map;flows;hashing;ternary search
+user11020,,0,geometry;Distance Between Points;Interval DP;graph matchings;flows
+user11030,Binary Search on Array;Bitmask Enumeration;Meet-in-the-middle;binary search;bitmasks;brute force;combinatorics;constructive algorithms;dp;games;geometry;greedy;implementation;math;sortings;trees;two pointers,17,brute force;greedy;bitmasks;games;divide and conquer
+user11062,,0,flows;graph matchings;geometry;Priority Queue;shortest paths
+user1108,geometry,1,flows;geometry;dsu;graphs;Connected Components
+user11089,,0,ternary search;graph matchings;Divisors;Binary Search on Answer;number theory
+user11110,,0,Max Flow;flows;graph matchings;Ordered Set;Hash Map
+user11137,,0,Hash Map;dsu;Interval DP;geometry;hashing
+user11138,Combinations;combinatorics;games;math;number theory;probabilities,6,number theory;combinatorics;Permutations;Prime Factorization;math
+user11139,,0,geometry;Max Flow;flows;Dijkstra;Interval DP
+user11149,bitmasks;brute force,2,brute force;bitmasks;binary search;number theory;ternary search
+user11153,Tree DFS;Tree DP;brute force;data structures;divide and conquer;dp;graphs;shortest paths;trees,9,trees;divide and conquer;Tree Diameter;Tree DFS;Lowest Common Ancestor
+user11154,,0,graph matchings;geometry;flows;2D DP;Priority Queue
+user11164,,0,ternary search;Binary Lifting;Multiset;Max Flow;Ordered Set
+user1118,Modular Combinations;Permutations;combinatorics;dsu;number theory,5,number theory;chinese remainder theorem;Difference Array;dsu;Permutations
+user11185,Bitmask Enumeration;Combinations;Expected Value;Modular Combinations;Prime Factorization;Simulation;bitmasks;brute force;chinese remainder theorem;combinatorics;constructive algorithms;games;hashing;interactive;math;number theory;probabilities;strings,18,combinatorics;games;probabilities;Expected Value;Permutations
+user11188,geometry,1,geometry;Polygon Area;Distance Between Points;Ordered Set;Multiset
+user11189,Distance Between Points;Orientation Test;geometry;graph matchings,4,Orientation Test;Polygon Area;geometry;Convex Hull;Distance Between Points
+user11192,Bitmask Enumeration;Brute Force Enumeration;bitmasks;brute force;data structures;divide and conquer;dp;games;graphs;implementation;math;number theory;shortest paths;trees;two pointers,15,brute force;bitmasks;implementation;divide and conquer;Bitmask Enumeration
+user11199,,0,Connected Components;graphs;Graph Representation;Binary Search on Array;Tree DP
+user112,geometry,1,geometry;graph matchings;flows;Binary Lifting;Interval DP
+user1120,,0,trees;dp;graphs;Binary Search on Answer;dsu
+user11215,Max Flow;flows;graph matchings,3,Max Flow;graph matchings;flows;Priority Queue;geometry
+user11218,,0,Orientation Test;geometry;Bipartite Graph Check;2D DP;Knapsack
+user11225,,0,flows;geometry;Distance Between Points;Priority Queue;Hash Map
+user1124,geometry,1,geometry;Convex Hull;graph matchings;2-sat;ternary search
+user11249,,0,ternary search;dsu;Priority Queue;Max Flow;Monotonic Stack
+user11250,geometry;graph matchings,2,Polygon Area;geometry;graph matchings;Max Flow;flows
+user11253,,0,ternary search;Ordered Set;Binary Search on Answer;Binary Lifting;Hash Map
+user11267,Convex Hull;Distance Between Points;Max Flow;Orientation Test;geometry;graph matchings,6,Min Cut;Line Intersection;Orientation Test;Polygon Area;geometry
+user11268,,0,graph matchings;flows;Interval DP;2D DP;Hash Map
+user1128,Line Intersection;Max Flow;flows;geometry;graph matchings,5,graph matchings;Max Flow;Line Intersection;flows;geometry
+user11287,Max Flow;Min Cut;flows;graph matchings,4,Min Cut;Max Flow;graph matchings;Line Intersection;flows
+user1129,flows;geometry,2,Polygon Area;geometry;Distance Between Points;flows;Bipartite Graph Check
+user11301,,0,flows;2D DP;trees;Tree DP;interactive
+user11305,Binary Search on Array;Bitmask Enumeration;Fast Exponentiation;Ordered Set;binary search;bitmasks;brute force;combinatorics;data structures;divide and conquer;games;geometry;graphs;greedy;implementation;math;number theory;probabilities;shortest paths;sortings;trees;two pointers,22,trees;brute force;games;bitmasks;two pointers
+user11312,geometry,1,Orientation Test;geometry;Distance Between Points;graph matchings;Priority Queue
+user11313,,0,geometry;dsu;Interval DP;ternary search;shortest paths
+user11319,Max Flow;Orientation Test;flows;geometry;graph matchings,5,Orientation Test;geometry;graph matchings;Max Flow;flows
+user11338,flows;geometry;graph matchings,3,Polygon Area;geometry;graph matchings;Distance Between Points;flows
+user1134,Tree DP;bitmasks;brute force;divide and conquer;dp;shortest paths;trees,7,trees;divide and conquer;dp;Meet-in-the-middle;bitmasks
+user1136,,0,graphs;dsu;trees;DFS;Interval DP
+user11371,,0,Dijkstra;Connected Components;shortest paths;String Hashing;hashing
+user11382,Distance Between Points;flows;geometry;graph matchings,4,Min Cut;geometry;Distance Between Points;graph matchings;flows
+user11397,,0,graphs;trees;bitmasks;Bitmask Enumeration;brute force
+user11411,,0,geometry;Max Flow;flows;Hash Map;Multiset
+user11418,Orientation Test;geometry;graph matchings,3,Orientation Test;graph matchings;geometry;Distance Between Points;flows
+user11423,,0,graph matchings;geometry;flows;Polygon Area;Distance Between Points
+user11427,BFS;Connected Components;DFS;Dijkstra;Strongly Connected Components;Topological Sort;Tree DFS;brute force;data structures;divide and conquer;dp;graphs;shortest paths;trees,14,graphs;shortest paths;divide and conquer;DFS;trees
+user11446,,0,graphs;dsu;trees;binary search;Binary Search on Array
+user1145,Binary Search on Answer;Binary Search on Array;Bitmask Enumeration;Fenwick Tree;binary search;bitmasks;brute force;data structures;greedy;sortings;two pointers,11,binary search;two pointers;data structures;Fenwick Tree;Binary Search on Array
+user11469,Bitmask Enumeration;Brute Force Enumeration;DFS;Tree DFS;binary search;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;dp;flows;games;graphs;greedy;implementation;math;number theory;probabilities;shortest paths;trees;two pointers,22,trees;divide and conquer;brute force;graphs;implementation
+user11476,Binary Search on Array;Bitmask Enumeration;Convex Hull;Distance Between Points;binary search;bitmasks;brute force;combinatorics;data structures;divide and conquer;games;geometry;greedy;math;number theory;sortings;trees;two pointers,18,geometry;Distance Between Points;two pointers;Convex Hull;sortings
+user11485,Max Flow;flows;geometry;graph matchings,4,Min Cut;graph matchings;Orientation Test;Max Flow;geometry
+user11488,Convex Hull;geometry,2,geometry;Convex Hull;graph matchings;flows;Interval DP
+user1149,,0,flows;graph matchings;geometry;Binary Lifting;Bipartite Graph Check
+user11507,,0,trees;ternary search;Priority Queue;graphs;dsu
+user11510,,0,graph matchings;flows;Interval DP;Tree DFS;Tree DP
+user11523,flows;geometry;graph matchings,3,Polygon Area;geometry;graph matchings;Max Flow;flows
+user11526,Simulation;binary search;brute force;constructive algorithms;data structures;greedy;implementation;sortings;two pointers,9,two pointers;binary search;data structures;greedy;sortings
+user11534,,0,hashing;graphs;shortest paths;1D DP;Binary Search on Array
+user11536,,0,geometry;Max Flow;graph matchings;flows;Strongly Connected Components
+user11552,shortest paths,1,shortest paths;graphs;divide and conquer;trees;dsu
+user11574,Binary Lifting;bitmasks;brute force;data structures;dp;graphs;trees,7,brute force;bitmasks;trees;data structures;graphs
+user11589,,0,Knapsack;Connected Components;DFS;dsu;ternary search
+user11593,,0,Bitmask DP;2D DP;bitmasks;dp;Knapsack
+user11596,flows;graph matchings,2,graph matchings;flows;Line Intersection;Orientation Test;Bipartite Graph Check
+user11598,,0,2D DP;DFS;Tree DP;graphs;hashing
+user11601,Bitmask DP;Tree DP;dp,3,dp;Bitmask DP;Tree DP;Interval DP;2D DP
+user11628,Bipartite Graph Check;Connected Components;DFS;Distance Between Points;Strongly Connected Components;Topological Sort;flows;geometry;graph matchings,9,Min Cut;graph matchings;Max Flow;Line Intersection;flows
+user11638,,0,graphs;Modular Combinations;Hash Map;Custom Comparator Sorting;Greedy Sorting
+user11639,,0,graph matchings;Interval DP;trees;graphs;dsu
+user11642,,0,graphs;trees;Priority Queue;Binary Search on Answer;dsu
+user11646,Line Intersection;geometry,2,Line Intersection;geometry;Max Flow;graph matchings;flows
+user1165,,0,ternary search;Fenwick Tree;data structures;Binary Search on Answer;dsu
+user11661,Binary Search on Answer;Binary Search on Array;Bitmask Enumeration;Fast Exponentiation;Permutations;binary search;bitmasks;brute force;combinatorics;data structures;divide and conquer;games;greedy;math;number theory;probabilities;sortings;string suffix structures;trees;two pointers,20,binary search;games;two pointers;brute force;bitmasks
+user11665,geometry,1,flows;geometry;Priority Queue;shortest paths;graphs
+user11673,Binary Search on Answer;Binary Search on Array;Custom Comparator Sorting;Fenwick Tree;Greedy Sorting;Two Pointers on Sorted Array;binary search;data structures;geometry;greedy;sortings;trees;two pointers,13,Fenwick Tree;two pointers;sortings;Two Pointers on Sorted Array;Sliding Window
+user11684,geometry,1,geometry;Max Flow;graph matchings;flows;Bipartite Graph Check
+user11685,,0,geometry;Orientation Test;Hash Map;graph matchings;2D DP
+user11694,,0,flows;graph matchings;shortest paths;ternary search;graphs
+user11703,,0,dsu;graphs;2D DP;Tree DP;trees
+user11706,,0,Ordered Set;Max Flow;geometry;flows;Sqrt Decomposition
+user11716,Distance Between Points;flows;geometry;graph matchings,4,Polygon Area;geometry;Distance Between Points;graph matchings;flows
+user11717,Hash Map;data structures;two pointers,3,data structures;Hash Map;two pointers;Ordered Set;trees
+user1172,BFS;Graph Representation;graphs;shortest paths;trees,5,DFS;graphs;Connected Components;shortest paths;BFS
+user11721,Distance Between Points;Line Intersection;Max Flow;flows;geometry;graph matchings,6,Line Intersection;geometry;Distance Between Points;Max Flow;graph matchings
+user11731,Binary Lifting;Bitmask Enumeration;Prime Factorization;Sparse Table;bitmasks;brute force;data structures;math;number theory;trees,10,number theory;trees;data structures;Sparse Table;bitmasks
+user11732,,0,Max Flow;graph matchings;flows;Bipartite Graph Check;2-sat
+user11735,BFS;Binary Search on Array;DFS;Graph Representation;binary search;bitmasks;brute force;data structures;divide and conquer;dp;flows;graphs;greedy;implementation;shortest paths;trees;two pointers,17,divide and conquer;graphs;shortest paths;brute force;trees
+user11737,,0,shortest paths;dsu;graphs;ternary search;DFS
+user11745,,0,shortest paths;trees;graphs;Binary Search on Answer;dsu
+user11750,,0,Binary Lifting;Hash Map;graphs;trees;data structures
+user11761,Max Flow;Orientation Test;flows;geometry;graph matchings,5,Orientation Test;geometry;Convex Hull;graph matchings;Max Flow
+user11764,Binary Search on Array;binary search;brute force;combinatorics;data structures;dp;graphs;greedy;implementation;math;number theory;sortings;two pointers,13,brute force;bitmasks;binary search;two pointers;greedy
+user11766,Max Flow;flows;geometry;graph matchings,4,Polygon Area;geometry;graph matchings;Max Flow;flows
+user11771,2-sat;Max Flow;flows;geometry;graph matchings,5,Polygon Area;geometry;graph matchings;Max Flow;flows
+user1181,flows;geometry,2,geometry;flows;graph matchings;Dijkstra;Shortest Path in DAG
+user11869,geometry,1,geometry;Max Flow;flows;Interval DP;2D DP
+user11875,Binary Search on Answer;Brute Force Enumeration;Greedy Sorting;Simulation;binary search;constructive algorithms;data structures;divide and conquer;dsu;greedy;hashing;implementation;strings;trees;two pointers,15,binary search;constructive algorithms;Binary Search on Answer;greedy;divide and conquer
+user11885,Distance Between Points;geometry,2,geometry;Distance Between Points;Interval DP;2D DP;Binary Lifting
+user1189,Binary Search on Answer;Greedy Sorting;binary search;brute force;constructive algorithms;data structures;divide and conquer;graphs;greedy;implementation;shortest paths;sortings;trees,13,binary search;trees;greedy;divide and conquer;graphs
+user11891,flows;geometry;graph matchings,3,Min Cut;Polygon Area;geometry;graph matchings;flows
+user11908,,0,Tree DFS;trees;Hash Map;graphs;dp
+user11917,2-sat;Floyd-Warshall;flows;graphs;shortest paths,5,Max Flow;flows;graphs;shortest paths;2-sat
+user11918,2-sat;Bipartite Graph Check;Convex Hull;Distance Between Points;Line Intersection;Max Flow;Orientation Test;Polygon Area;Priority Queue;flows;geometry;graph matchings,12,Line Intersection;Orientation Test;Polygon Area;Distance Between Points;geometry
+user11947,data structures;dp;graphs;trees,4,trees;data structures;graphs;dp;brute force
+user1198,Line Intersection;Orientation Test;geometry,3,Line Intersection;Orientation Test;geometry;Polygon Area;Convex Hull
+user11989,geometry,1,geometry;Distance Between Points;2D DP;Hash Map;dsu
+user12014,,0,geometry;Binary Lifting;flows;trees;Max Flow
+user12015,,0,dp;data structures;bitmasks;Bitmask Enumeration;1D DP
+user12018,Binary Lifting;Brute Force Enumeration;Dijkstra;Fenwick Tree;Graph Representation;Hash Map;Priority Queue;Segment Tree;Sparse Table;Stack;Tree DFS;data structures;divide and conquer;dsu;flows;geometry;graphs;greedy;shortest paths;sortings;trees;two pointers,22,Fenwick Tree;shortest paths;two pointers;data structures;graphs
+user12032,binary search;divide and conquer;shortest paths;trees,4,trees;divide and conquer;binary search;shortest paths;ternary search
+user12047,,0,shortest paths;dsu;trees;binary search;graphs
+user12062,Bitmask DP;Brute Force Enumeration;Difference Array;Hash Map;Prefix Sum;Priority Queue;Recursion;Simulation;Stack;State Simulation;String Matching;Suffix Automaton;Tree DP;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;dp;dsu;hashing;implementation;interactive;string suffix structures;strings;trees,26,interactive;constructive algorithms;Simulation;dsu;Prefix Sum
+user12089,,0,Polygon Area;geometry;graph matchings;Max Flow;flows
+user12107,,0,geometry;Distance Between Points;Interval DP;Priority Queue;2D DP
+user12110,,0,binary search;two pointers;Binary Search on Array;Binary Search on Answer;trees
+user12119,Meet-in-the-middle;Tree DFS;Tree DP;binary search;brute force;constructive algorithms;divide and conquer;dp;trees,9,trees;divide and conquer;brute force;Tree DFS;Meet-in-the-middle
+user12135,,0,geometry;flows;Priority Queue;Dijkstra;Strongly Connected Components
+user12142,Bitmask DP;Bitmask Enumeration;Brute Force Enumeration;Connected Components;Meet-in-the-middle;Topological Sort;Tree DFS;Tree DP;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;dp;fft;flows;graphs;greedy;implementation;shortest paths;trees,21,divide and conquer;trees;fft;Meet-in-the-middle;dp
+user12148,flows;graph matchings,2,graph matchings;flows;geometry;Orientation Test;Polygon Area
+user12153,,0,geometry;shortest paths;Polygon Area;graphs;Tree DFS
+user12163,Max Flow;flows;geometry;graph matchings,4,geometry;Distance Between Points;Max Flow;flows;graph matchings
+user12180,Bitmask DP;bitmasks;brute force;data structures;dp,5,dp;brute force;bitmasks;Bitmask DP;data structures
+user12183,,0,geometry;Distance Between Points;2D DP;Binary Lifting;Knapsack
+user12184,,0,graph matchings;shortest paths;graphs;DFS;trees
+user12198,Brute Force Enumeration;brute force;constructive algorithms;data structures;divide and conquer;greedy;two pointers,7,brute force;data structures;two pointers;constructive algorithms;divide and conquer
+user12215,Distance Between Points;geometry,2,Line Intersection;Polygon Area;geometry;Distance Between Points;Bipartite Graph Check
+user12216,,0,shortest paths;graphs;dsu;trees;Binary Search on Answer
+user12226,,0,binary search;Binary Search on Answer;brute force;bitmasks;games
+user12228,Hash Map;Ordered Set;Priority Queue;Stack;bitmasks;data structures;dsu;math;number theory,9,dsu;Priority Queue;Stack;Bitmask Enumeration;data structures
+user12231,,0,ternary search;flows;Tree DFS;Topological Sort;2D DP
+user12246,,0,geometry;shortest paths;graphs;Distance Between Points;Tree DFS
+user12255,Brute Force Enumeration;Hash Map;Priority Queue;Simulation;Tree DFS;Tree DP;Two Pointers on Sorted Array;brute force;constructive algorithms;data structures;divide and conquer;dp;dsu;graphs;greedy;implementation;trees;two pointers,18,shortest paths;flows;graphs;divide and conquer;Max Flow
+user12264,brute force;divide and conquer,2,brute force;divide and conquer;two pointers;binary search;dp
+user12266,,0,geometry;Bitmask Enumeration;bitmasks;Line Intersection;Polygon Area
+user12277,,0,geometry;Distance Between Points;graphs;Hash Map;Binary Search on Array
+user12289,geometry,1,geometry;Distance Between Points;flows;2-sat;Strongly Connected Components
+user1229,Distance Between Points;flows;geometry;graph matchings,4,graph matchings;flows;Polygon Area;geometry;Distance Between Points
+user12299,Bitmask Enumeration;Brute Force Enumeration;Expected Value;Simulation;String Matching;Suffix Automaton;binary search;bitmasks;brute force;combinatorics;constructive algorithms;data structures;games;greedy;hashing;implementation;interactive;math;number theory;probabilities;string suffix structures;strings;trees,23,strings;constructive algorithms;number theory;probabilities;games
+user12323,Binary Lifting,1,Binary Lifting;Lowest Common Ancestor;Tree Diameter;ternary search;Tree DFS
+user12324,,0,geometry;flows;graph matchings;Distance Between Points;2-sat
+user12336,flows;graph matchings,2,flows;graph matchings;shortest paths;Dijkstra;Bipartite Graph Check
+user12338,,0,Max Flow;graph matchings;geometry;flows;Distance Between Points
+user12346,geometry,1,flows;Polygon Area;geometry;Distance Between Points;Bipartite Graph Check
+user1239,,0,shortest paths;geometry;graphs;Strongly Connected Components;dsu
+user12393,Binary Lifting;Brute Force Enumeration;Difference Array;Hash Map;Prefix Sum;Priority Queue;Simulation;State Simulation;String Matching;Tree DP;brute force;constructive algorithms;data structures;dsu;hashing;implementation;interactive;ternary search,18,interactive;constructive algorithms;Simulation;Prefix Sum;Schedules
+user12399,flows;geometry;graph matchings,3,Max Flow;flows;geometry;graph matchings;Polygon Area
+user12412,geometry;graph matchings,2,Min Cut;Orientation Test;geometry;Polygon Area;graph matchings
+user12415,flows,1,geometry;flows;graphs;Hash Map;dp
+user12416,,0,geometry;Orientation Test;shortest paths;Bipartite Graph Check;graphs
+user1242,flows;geometry;graph matchings,3,Max Flow;graph matchings;Polygon Area;geometry;flows
+user12422,Bitmask Enumeration;Brute Force Enumeration;Graph Representation;Prime Factorization;Prime Sieve;Priority Queue;Queue;Simulation;Stack;bitmasks;brute force;combinatorics;constructive algorithms;data structures;divide and conquer;dsu;flows;games;graphs;implementation;math;number theory;probabilities;shortest paths;trees,25,number theory;math;brute force;bitmasks;graphs
+user12423,2-sat;Bipartite Graph Check;Convex Hull;Distance Between Points;Line Intersection;Max Flow;Orientation Test;Polygon Area;flows;geometry;graph matchings,11,Min Cut;Line Intersection;Orientation Test;Polygon Area;Convex Hull
+user12428,,0,divide and conquer;trees;dp;shortest paths;Tree DFS
+user12434,Orientation Test;geometry,2,graph matchings;flows;Orientation Test;geometry;Bipartite Graph Check
+user12440,Bitmask Enumeration;Brute Force Enumeration;Fast Exponentiation;Fenwick Tree;Monotonic Stack;Segment Tree;Stack;binary search;bitmasks;brute force;data structures;divide and conquer;dsu;games;graphs;greedy;implementation;math;number theory;shortest paths;two pointers,21,brute force;bitmasks;data structures;Bitmask Enumeration;two pointers
+user12443,,0,Max Flow;graph matchings;geometry;flows;Polygon Area
+user12459,Binary Search on Answer;Binary Search on Array;Hash Map;String Matching;Suffix Array;binary search;brute force;divide and conquer;dp;greedy;hashing;string suffix structures;strings;trees;two pointers,15,string suffix structures;strings;binary search;String Hashing;hashing
+user12469,,0,Tree Diameter;ternary search;hashing;graphs;dsu
+user12479,1D DP;2D DP;Bitmask DP;DP on DAG;Digit DP;Edit Distance;Fenwick Tree;Hash Map;Interval DP;Knapsack;Meet-in-the-middle;Multiset;Tree DP;binary search;brute force;data structures;divide and conquer;dp;fft;shortest paths;trees;two pointers,22,dp;divide and conquer;fft;Meet-in-the-middle;brute force
+user12484,flows;geometry;graph matchings,3,graph matchings;geometry;Max Flow;flows;Distance Between Points
+user12487,Max Flow;flows;geometry;graph matchings,4,Orientation Test;geometry;Distance Between Points;graph matchings;Max Flow
+user12498,Convex Hull;Distance Between Points;geometry;graph matchings,4,geometry;Convex Hull;Distance Between Points;Max Flow;graph matchings
+user12520,,0,graph matchings;flows;2D DP;Strongly Connected Components;Ordered Set
+user12527,,0,geometry;2D DP;Hash Map;BFS;Monotonic Stack
+user12538,graph matchings,1,geometry;graph matchings;flows;2D DP;Knapsack
+user12546,BFS;DFS;Sparse Table;Tree DFS;brute force;constructive algorithms;data structures;divide and conquer;dp;graphs;greedy;shortest paths;trees,13,divide and conquer;shortest paths;trees;graphs;flows
+user12548,Binary Search on Answer;Binary Search on Array;Brute Force Enumeration;Cycle Detection;Greedy Sorting;Interval Scheduling;Max Flow;Priority Queue;Sliding Window;Two Pointers on Sorted Array;binary search;brute force;constructive algorithms;data structures;divide and conquer;flows;graphs;greedy;implementation;shortest paths;sortings;trees;two pointers,23,graphs;greedy;two pointers;binary search;sortings
+user12549,flows,1,flows;Max Flow;hashing;graphs;Suffix Automaton
+user12586,divide and conquer;ternary search;trees,3,trees;Tree DFS;divide and conquer;ternary search;dsu
+user1259,,0,trees;graphs;shortest paths;Priority Queue;divide and conquer
+user12592,,0,flows;shortest paths;ternary search;graph matchings;trees
+user12594,,0,flows;Connected Components;DP on DAG;graphs;dsu
+user12599,,0,graphs;Hash Map;Priority Queue;shortest paths;trees
+user12601,Bipartite Graph Check;flows;graph matchings,3,Max Flow;graph matchings;flows;Shortest Path in DAG;Bipartite Graph Check
+user12604,,0,ternary search;binary search;Binary Search on Answer;trees;Binary Search on Array
+user12618,flows;geometry;graph matchings,3,graph matchings;flows;geometry;Bipartite Graph Check;2-sat
+user12625,,0,dsu;Max Flow;Monotonic Stack;shortest paths;flows
+user12643,,0,geometry;flows;Orientation Test;shortest paths;Hash Map
+user12647,Tree DFS;Tree DP;brute force;data structures;divide and conquer;dp;shortest paths;trees,8,trees;dp;divide and conquer;brute force;data structures
+user12663,,0,Min Cut;dsu;Monotonic Stack;graph matchings;flows
+user12671,Line Intersection,1,Line Intersection;Orientation Test;Polygon Area;geometry;Max Flow
+user12672,,0,dsu;geometry;shortest paths;Monotonic Stack;Distance Between Points
+user1268,Max Flow;Polygon Area;flows;geometry;graph matchings,5,Max Flow;graph matchings;geometry;Polygon Area;flows
+user12686,geometry;graph matchings,2,geometry;Distance Between Points;graph matchings;flows;2-sat
+user12689,,0,Polygon Area;geometry;flows;dsu;Tree Diameter
+user12697,2-sat;flows;graph matchings,3,graph matchings;flows;2-sat;Bipartite Graph Check;Priority Queue
+user12701,1D DP;Bitmask DP;Bitmask Enumeration;Digit DP;Tree DP;bitmasks;brute force;divide and conquer;dp;trees,10,dp;divide and conquer;Bitmask DP;bitmasks;Tree DP
+user12709,flows;graph matchings,2,Polygon Area;geometry;Max Flow;graph matchings;Distance Between Points
+user12712,Bitmask DP;DFS;Tree DP;data structures;divide and conquer;dp;graphs;shortest paths;trees,9,dp;shortest paths;divide and conquer;graphs;fft
+user12720,Distance Between Points;flows;geometry;graph matchings,4,geometry;Distance Between Points;graph matchings;flows;Priority Queue
+user12730,2D DP;brute force;dp,3,dp;2D DP;brute force;Bitmask DP;Knapsack
+user12739,,0,flows;Meet-in-the-middle;dp;trees;Tree DP
+user12744,flows,1,geometry;flows;2D DP;Priority Queue;Ordered Set
+user12745,Bitmask Enumeration;bitmasks;brute force;data structures;greedy;math;number theory;sortings;two pointers,9,binary search;two pointers;sortings;greedy;bitmasks
+user1275,,0,dsu;Max Flow;Dijkstra;Stack;graph matchings
+user12761,Orientation Test;geometry,2,geometry;Orientation Test;Polygon Area;Max Flow;Convex Hull
+user12767,,0,binary search;Binary Search on Array;graphs;trees;data structures
+user12776,Distance Between Points;geometry;graph matchings,3,Polygon Area;geometry;Distance Between Points;graph matchings;flows
+user12798,Bitmask Enumeration;Simulation;bitmasks;brute force;constructive algorithms;data structures;implementation;trees,8,data structures;brute force;trees;dsu;bitmasks
+user12831,Distance Between Points;Line Intersection;Max Flow;Polygon Area;geometry;graph matchings,6,Line Intersection;Orientation Test;Polygon Area;geometry;graph matchings
+user12834,,0,flows;graphs;hashing;Tree DP;trees
+user12842,Line Intersection;geometry;graph matchings,3,Line Intersection;Orientation Test;geometry;graph matchings;Max Flow
+user12844,Max Flow;geometry,2,Line Intersection;Max Flow;graph matchings;geometry;flows
+user12852,geometry;graph matchings,2,Min Cut;flows;graph matchings;geometry;graphs
+user12856,geometry,1,geometry;Polygon Area;Max Flow;Convex Hull;graph matchings
+user1286,data structures;trees,2,data structures;Hash Map;trees;divide and conquer;dp
+user12860,bitmasks;brute force;divide and conquer;dp,4,brute force;divide and conquer;bitmasks;dp;Meet-in-the-middle
+user12867,dsu;trees,2,trees;dsu;constructive algorithms;ternary search;interactive
+user12878,Distance Between Points;Max Flow;geometry;graph matchings,4,geometry;Distance Between Points;Max Flow;graph matchings;flows
+user12881,,0,geometry;Max Flow;flows;graph matchings;Priority Queue
+user12889,,0,flows;Hash Map;graph matchings;trees;shortest paths
+user12891,Binary Search on Answer;Binary Search on Array;Bitmask Enumeration;Difference Array;Fast Exponentiation;Hash Map;Monotonic Stack;Ordered Set;Permutations;Prime Sieve;Stack;binary search;bitmasks;brute force;combinatorics;data structures;dsu;games;greedy;implementation;math;number theory;probabilities;sortings;string suffix structures;trees;two pointers,27,bitmasks;two pointers;Bitmask Enumeration;data structures;binary search
+user12892,1D DP;2D DP;DP on DAG;binary search;bitmasks;brute force;divide and conquer;dp;geometry;greedy;trees,11,dp;divide and conquer;Meet-in-the-middle;brute force;Bitmask DP
+user12898,Activity Selection;BFS;Binary Search on Answer;Binary Search on Array;DFS;Dijkstra;Greedy Sorting;Sliding Window;Stack;binary search;constructive algorithms;data structures;divide and conquer;dsu;graphs;greedy;shortest paths;sortings;trees;two pointers,20,binary search;shortest paths;graphs;greedy;flows
+user1290,,0,flows;Max Flow;Multiset;ternary search;graph matchings
+user12900,flows;geometry;graph matchings,3,flows;geometry;Polygon Area;graph matchings;Priority Queue
+user12905,,0,graphs;dsu;dp;combinatorics;data structures
+user12936,0-1 BFS;DFS;Dijkstra;Max Flow;flows;graph matchings;graphs;shortest paths,8,Max Flow;graph matchings;flows;Bipartite Graph Check;Dijkstra
+user12939,geometry,1,geometry;flows;graph matchings;Distance Between Points;Hash Map
+user12947,,0,probabilities;constructive algorithms;games;Expected Value;flows
+user12961,Distance Between Points;geometry;graph matchings,3,Polygon Area;geometry;Distance Between Points;graph matchings;Max Flow
+user12970,,0,Binary Search on Answer;binary search;Binary Search on Array;Bitmask Enumeration;dsu
+user12983,,0,bitmasks;Bitmask Enumeration;brute force;graphs;divide and conquer
+user12998,Max Flow;flows;geometry;graph matchings,4,Line Intersection;Max Flow;graph matchings;geometry;flows
+user1300,,0,Priority Queue;geometry;shortest paths;Topological Sort;Interval DP
+user13004,Max Flow;flows;geometry,3,Max Flow;geometry;graph matchings;flows;Priority Queue
+user13007,constructive algorithms;dsu;greedy;interactive;trees,5,Binary Lifting;constructive algorithms;interactive;dsu;trees
+user13014,,0,ternary search;graph matchings;Max Flow;Binary Search on Answer;flows
+user13020,,0,2D DP;dsu;dp;Permutations;combinatorics
+user13021,,0,2-sat;ternary search;graphs;shortest paths;Dijkstra
+user13028,,0,shortest paths;Hash Map;Tree DFS;trees;graphs
+user13034,,0,graph matchings;2-sat;Interval DP;2D DP;Bipartite Graph Check
+user13078,Binary Search on Answer;Binary Search on Array;Priority Queue;Tree Diameter;binary search;dsu;flows;greedy;trees,9,trees;Tree Diameter;binary search;ternary search;Tree DFS
+user13086,,0,ternary search;geometry;Binary Search on Answer;Knapsack;Polygon Area
+user13098,Simulation;binary search;bitmasks;brute force;constructive algorithms;data structures;flows;games;graphs;greedy;implementation;interactive;math;number theory;trees,15,brute force;implementation;graphs;constructive algorithms;greedy
+user13102,Binary Search on Answer;Binary Search on Array;Brute Force Enumeration;Fenwick Tree;Greedy Sorting;Ordered Set;Recursion;Segment Tree;Simulation;String Matching;Suffix Automaton;binary search;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;dp;greedy;hashing;implementation;interactive;sortings;string suffix structures;strings;ternary search;trees;two pointers,28,string suffix structures;binary search;strings;data structures;Multiset
+user13106,Bitmask DP;Bitmask Enumeration;Combinations;Expected Value;Modular Combinations;Prime Factorization;bitmasks;combinatorics;games;math;number theory;probabilities;ternary search,13,bitmasks;combinatorics;Modular Combinations;ternary search;games
+user1311,,0,graphs;dsu;Digit DP;1D DP;Hash Map
+user13113,Binary Search on Answer;binary search;ternary search;trees,4,ternary search;trees;Binary Search on Answer;binary search;Tree DFS
+user13114,,0,geometry;graph matchings;Max Flow;flows;Distance Between Points
+user13121,Line Intersection;Polygon Area;geometry,3,Line Intersection;Polygon Area;geometry;Distance Between Points;graph matchings
+user13125,BFS;Binary Lifting;Bipartite Graph Check;Brute Force Enumeration;Connected Components;Cycle Detection;DFS;Dijkstra;Graph Representation;Lowest Common Ancestor;Max Flow;Meet-in-the-middle;Simulation;Tree DFS;Tree DP;Tree Diameter;binary search;brute force;constructive algorithms;data structures;divide and conquer;dp;fft;flows;graph matchings;graphs;greedy;implementation;shortest paths;string suffix structures;trees;two pointers,32,divide and conquer;graphs;trees;shortest paths;flows
+user13135,Convex Hull;Max Flow;Orientation Test;geometry,4,Orientation Test;geometry;Convex Hull;Max Flow;flows
+user13153,geometry,1,geometry;Convex Hull;DP on DAG;Dijkstra;Ordered Set
+user13155,,0,geometry;Ordered Set;Knapsack;Lowest Common Ancestor;Priority Queue
+user13169,geometry,1,geometry;Distance Between Points;Max Flow;graph matchings;flows
+user13172,Activity Selection;Binary Search on Answer;Binary Search on Array;Greedy Sorting;Interval Scheduling;Stack;binary search;constructive algorithms;dsu;greedy;interactive,11,ternary search;dsu;Binary Search on Answer;binary search;Greedy Sorting
+user13174,greedy;implementation;sortings,3,Binary Search on Array;greedy;brute force;implementation;sortings
+user13180,Binary Search on Array;binary search;two pointers,3,binary search;Binary Search on Array;two pointers;brute force;Binary Search on Answer
+user13184,,0,binary search;divide and conquer;greedy;Binary Search on Array;geometry
+user1319,,0,graph matchings;flows;2-sat;Ordered Set;Tree DFS
+user13193,,0,divide and conquer;shortest paths;dp;geometry;graphs
+user13223,,0,geometry;flows;Priority Queue;BFS;dsu
+user13234,binary search;brute force;divide and conquer;ternary search;trees,5,trees;ternary search;brute force;binary search;divide and conquer
+user13246,flows;graph matchings,2,graph matchings;flows;Bipartite Graph Check;Priority Queue;geometry
+user13266,,0,flows;graph matchings;Monotonic Queue;Priority Queue;ternary search
+user13285,,0,Min Cut;graph matchings;Interval DP;geometry;flows
+user13287,Binary Search on Array;Convex Hull;Distance Between Points;Line Intersection;geometry;trees,6,geometry;Orientation Test;Polygon Area;Line Intersection;Distance Between Points
+user13296,Min Cut;flows,2,Min Cut;Max Flow;flows;geometry;graph matchings
+user13299,Hash Map;Stack;Two Pointers on Sorted Array;binary search;bitmasks;brute force;data structures;dsu;graphs;greedy;math;sortings;trees;two pointers,14,data structures;two pointers;graphs;brute force;bitmasks
+user13305,,0,flows;graph matchings;ternary search;Priority Queue;shortest paths
+user13310,Bipartite Graph Check;Max Flow;flows;graph matchings,4,graph matchings;Max Flow;2-sat;Bipartite Graph Check;flows
+user13311,,0,dsu;Monotonic Queue;Priority Queue;trees;Hash Map
+user13323,Binary Search on Answer;Binary Search on Array;Brute Force Enumeration;Custom Comparator Sorting;Greedy Sorting;Tree DFS;binary search;brute force;constructive algorithms;data structures;divide and conquer;dp;graphs;greedy;implementation;shortest paths;sortings;string suffix structures;trees;two pointers,20,divide and conquer;greedy;binary search;two pointers;sortings
+user13331,Distance Between Points;geometry;graph matchings,3,geometry;Distance Between Points;graph matchings;Max Flow;flows
+user13332,,0,geometry;hashing;graphs;Hash Map;Priority Queue
+user13333,Line Intersection;Max Flow;geometry;graph matchings,4,Line Intersection;geometry;Distance Between Points;graph matchings;Max Flow
+user13348,Binary Search on Answer;Binary Search on Array;Bitmask Enumeration;Prime Factorization;binary search;bitmasks;brute force;constructive algorithms;greedy;math;number theory;string suffix structures,12,binary search;Binary Search on Answer;Bitmask Enumeration;bitmasks;Binary Search on Array
+user13349,,0,graph matchings;Interval DP;Tree Diameter;graphs;2D DP
+user13353,,0,2-sat;Strongly Connected Components;2D DP;hashing;ternary search
+user13361,,0,Hash Map;ternary search;trees;hashing;Tree Diameter
+user13382,1D DP;2D DP;Bitmask DP;DP on DAG;Digit DP;Hash Map;Recursion;Segment Tree;Tree DP;binary search;bitmasks;brute force;data structures;divide and conquer;dp;greedy;shortest paths;sortings;string suffix structures;trees;two pointers,21,dp;divide and conquer;Meet-in-the-middle;Tree DP;data structures
+user13384,Bipartite Graph Check;Convex Hull;geometry;graph matchings,4,graph matchings;2-sat;geometry;Bipartite Graph Check;Convex Hull
+user13405,binary search;brute force;divide and conquer;dp;trees,5,trees;divide and conquer;binary search;brute force;dp
+user13411,,0,graph matchings;flows;geometry;Polygon Area;Dijkstra
+user13412,Distance Between Points;Min Cut;geometry;graph matchings,4,Min Cut;Orientation Test;geometry;Convex Hull;Distance Between Points
+user13417,,0,Hash Map;flows;trees;hashing;geometry
+user1342,,0,Priority Queue;dsu;Max Flow;Monotonic Stack;Dijkstra
+user13424,flows,1,flows;graph matchings;ternary search;geometry;Dijkstra
+user13425,,0,flows;geometry;graph matchings;Binary Lifting;Binary Search on Answer
+user13449,,0,ternary search;data structures;Binary Search on Answer;dsu;number theory
+user13460,,0,dsu;Binary Search on Answer;Fenwick Tree;data structures;interactive
+user13466,,0,Max Flow;ternary search;2-sat;flows;shortest paths
+user13467,,0,divide and conquer;graphs;trees;dp;binary search
+user13469,Hash Map;Segment Tree;Sliding Window;Two Pointers on Sorted Array;data structures;sortings;two pointers,7,Fenwick Tree;two pointers;Sqrt Decomposition;data structures;Sliding Window
+user13478,geometry,1,flows;geometry;ternary search;dsu;graphs
+user13482,Binary Search on Answer;Binary Search on Array;Bitmask Enumeration;Two Pointers on Sorted Array;binary search;bitmasks;brute force;combinatorics;constructive algorithms;data structures;divide and conquer;games;graphs;greedy;implementation;math;number theory;probabilities;sortings;trees;two pointers,21,brute force;bitmasks;binary search;two pointers;greedy
+user13485,flows;geometry;graph matchings,3,Orientation Test;geometry;Distance Between Points;graph matchings;Max Flow
+user13487,Binary Search on Array;Bitmask Enumeration;binary search;bitmasks;brute force;data structures;games;greedy;implementation;math;number theory;sortings;string suffix structures;trees;two pointers,15,binary search;brute force;two pointers;greedy;bitmasks
+user13491,,0,Binary Lifting;Binary Search on Answer;Bitmask Enumeration;dsu;Dijkstra
+user13504,Max Flow;geometry;graph matchings,3,geometry;graph matchings;Max Flow;Distance Between Points;flows
+user13506,,0,Edit Distance;Longest Common Subsequence;graphs;shortest paths;Binary Search on Array
+user13510,,0,ternary search;Priority Queue;dsu;trees;Binary Search on Answer
+user13519,Max Flow;geometry,2,geometry;Max Flow;flows;2-sat;Bipartite Graph Check
+user13532,geometry;graph matchings,2,graph matchings;geometry;flows;Distance Between Points;Binary Lifting
+user13533,geometry,1,geometry;Distance Between Points;Interval DP;2D DP;Dijkstra
+user13541,,0,2D DP;graphs;hashing;dsu;Custom Comparator Sorting
+user13544,Bitmask Enumeration;Combinations;Divisors;Expected Value;Fast Exponentiation;Inclusion-Exclusion;Modular Arithmetic;Modular Combinations;Permutations;Prime Factorization;Prime Sieve;bitmasks;brute force;chinese remainder theorem;combinatorics;games;math;matrices;number theory;probabilities;ternary search;trees,22,combinatorics;games;number theory;probabilities;Permutations
+user13545,,0,trees;binary search;ternary search;divide and conquer;Binary Search on Answer
+user13556,geometry,1,Polygon Area;geometry;graph matchings;Distance Between Points;2-sat
+user13562,Binary Lifting;trees,2,trees;Binary Lifting;flows;shortest paths;Tree Diameter
+user13575,Convex Hull;Distance Between Points;Line Intersection;Max Flow;Min Cut;Orientation Test;Polygon Area;geometry;graph matchings,9,Min Cut;Line Intersection;Orientation Test;Polygon Area;geometry
+user13584,geometry,1,geometry;flows;2-sat;2D DP;Dijkstra
+user13591,,0,graph matchings;geometry;Priority Queue;shortest paths;Polygon Area
+user13596,Distance Between Points;geometry,2,geometry;Distance Between Points;graph matchings;Max Flow;flows
+user13604,1D DP;Brute Force Enumeration;Connected Components;Graph Representation;Longest Increasing Subsequence;Tree DFS;Tree DP;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;dp;graphs;implementation;shortest paths;trees,17,divide and conquer;dp;brute force;shortest paths;DP on DAG
+user13611,1D DP;Binary Lifting;DFS;Knapsack;Longest Increasing Subsequence;Tree DFS;Tree DP;divide and conquer;dp;trees,10,Tree DP;dp;fft;Interval DP;Knapsack
+user13614,,0,flows;geometry;graphs;shortest paths;Hash Map
+user13625,,0,ternary search;graphs;binary search;dp;interactive
+user13631,,0,geometry;flows;dsu;graphs;trees
+user13643,,0,Min Cut;Line Intersection;geometry;Orientation Test;flows
+user13651,Distance Between Points;Orientation Test;geometry;graph matchings,4,Orientation Test;geometry;graph matchings;Distance Between Points;Bipartite Graph Check
+user13676,,0,trees;Monotonic Stack;interactive;constructive algorithms;dsu
+user13678,,0,geometry;Polygon Area;Tree DFS;trees;graphs
+user13679,brute force;constructive algorithms;divide and conquer;flows;graphs;shortest paths;trees,7,divide and conquer;trees;graphs;flows;shortest paths
+user13692,,0,geometry;Polygon Area;2-sat;Bipartite Graph Check;2D DP
+user13694,,0,Priority Queue;geometry;DFS;Connected Components;dsu
+user1371,,0,graph matchings;flows;Shortest Path in DAG;Dijkstra;BFS
+user13718,Binary Search on Answer;Binary Search on Array;binary search;bitmasks;brute force;divide and conquer;dp;fft;greedy;string suffix structures;two pointers,11,binary search;divide and conquer;dp;Binary Search on Array;brute force
+user13720,1D DP;2D DP;Binary Lifting;Bitmask DP;Fenwick Tree;Multiset;Ordered Set;Segment Tree;Tree DP;brute force;data structures;divide and conquer;dp,13,dp;Multiset;Fenwick Tree;data structures;Bitmask DP
+user13733,geometry,1,Line Intersection;geometry;Distance Between Points;graph matchings;Max Flow
+user13736,Convex Hull;Max Flow;geometry,3,Orientation Test;geometry;Convex Hull;graph matchings;Max Flow
+user13744,,0,geometry;flows;Min Cut;graphs;Binary Lifting
+user13770,Line Intersection;Max Flow;geometry;graph matchings,4,Line Intersection;geometry;graph matchings;Max Flow;flows
+user13773,binary search;brute force;data structures;divide and conquer;dp;trees,6,divide and conquer;trees;brute force;dp;data structures
+user13779,,0,ternary search;Multiset;shortest paths;trees;Binary Search on Answer
+user13780,flows,1,flows;Max Flow;graph matchings;geometry;Polygon Area
+user13784,,0,Hash Map;Multiset;Ordered Set;graph matchings;graphs
+user13788,trees,1,trees;Binary Lifting;shortest paths;graphs;Hash Map
+user13797,Distance Between Points;geometry;graph matchings,3,Polygon Area;geometry;graph matchings;flows;Distance Between Points
+user13804,,0,graph matchings;graphs;Binary Lifting;Bipartite Graph Check;shortest paths
+user13809,divide and conquer;games;graphs;trees,4,trees;graphs;divide and conquer;games;shortest paths
+user1381,,0,binary search;Fenwick Tree;Binary Search on Array;two pointers;ternary search
+user13816,geometry,1,geometry;flows;2D DP;Hash Map;Monotonic Stack
+user13819,Orientation Test;geometry;graph matchings,3,Line Intersection;graph matchings;Orientation Test;geometry;Distance Between Points
+user13822,,0,geometry;Polygon Area;Distance Between Points;Priority Queue;Strongly Connected Components
+user13831,Distance Between Points;geometry,2,geometry;Distance Between Points;graph matchings;Interval DP;2D DP
+user13847,ternary search,1,ternary search;dsu;Multiset;Hash Map;Monotonic Stack
+user13855,,0,ternary search;shortest paths;Multiset;Binary Search on Answer;DP on DAG
+user13856,Distance Between Points;Line Intersection;Max Flow;geometry;graph matchings,5,Line Intersection;Polygon Area;geometry;Distance Between Points;graph matchings
+user13858,Line Intersection;Orientation Test;geometry,3,Line Intersection;geometry;Orientation Test;flows;graph matchings
+user13888,,0,flows;Priority Queue;dsu;Cycle Detection;geometry
+user13898,flows;graph matchings,2,Max Flow;flows;graph matchings;geometry;Priority Queue
+user13911,Activity Selection;Binary Search on Answer;Binary Search on Array;Brute Force Enumeration;Greedy Sorting;Prime Sieve;Two Pointers on Sorted Array;binary search;bitmasks;brute force;combinatorics;constructive algorithms;data structures;divide and conquer;games;greedy;implementation;math;number theory;probabilities;sortings;strings;trees;two pointers,24,binary search;brute force;bitmasks;greedy;games
+user13924,geometry,1,geometry;Max Flow;flows;2D DP;Knapsack
+user13925,Convex Hull;Distance Between Points;Max Flow;geometry;graph matchings,5,Min Cut;Convex Hull;geometry;Distance Between Points;Max Flow
+user13931,Max Flow;flows;graph matchings,3,Max Flow;flows;graph matchings;Priority Queue;shortest paths
+user13937,Bitmask Enumeration;Brute Force Enumeration;Difference Array;Fast Exponentiation;Monotonic Stack;Permutations;Prefix Sum;Priority Queue;Segment Tree;Simulation;State Simulation;binary search;bitmasks;brute force;combinatorics;constructive algorithms;data structures;dsu;games;greedy;implementation;interactive;math;number theory;probabilities;trees;two pointers,27,data structures;implementation;brute force;bitmasks;math
+user13941,,0,flows;Max Flow;Interval DP;2D DP;hashing
+user13958,Tree DFS;bitmasks;brute force;divide and conquer;trees,5,trees;brute force;bitmasks;Tree DFS;divide and conquer
+user13969,graphs;shortest paths;ternary search,3,shortest paths;graphs;ternary search;flows;divide and conquer
+user13976,,0,graph matchings;Max Flow;flows;geometry;hashing
+user13982,,0,Polygon Area;geometry;ternary search;1D DP;Palindrome Detection
+user13989,geometry;graph matchings,2,geometry;graph matchings;Max Flow;flows;2-sat
+user13990,,0,dp;games;Binary Search on Array;binary search;Schedules
+user14002,,0,games;Permutations;combinatorics;number theory;Ordered Set
+user14025,,0,geometry;flows;Priority Queue;Interval DP;dsu
+user14034,Max Flow;flows,2,Max Flow;graph matchings;flows;Bipartite Graph Check;2-sat
+user14035,geometry,1,geometry;graph matchings;Shortest Path in DAG;Interval DP;Knapsack
+user14038,Distance Between Points;geometry,2,geometry;Distance Between Points;Bipartite Graph Check;Shortest Path in DAG;Priority Queue
+user14045,flows,1,flows;graphs;shortest paths;graph matchings;2-sat
+user14047,,0,flows;graph matchings;graphs;shortest paths;Tree Diameter
+user14052,,0,ternary search;dsu;Priority Queue;Hash Map;Binary Search on Answer
+user14059,,0,constructive algorithms;trees;dp;ternary search;brute force
+user14066,,0,dsu;hashing;graphs;Binary Search on Answer;dp
+user14071,Brute Force Enumeration;Simulation;Tree DFS;Tree DP;binary search;brute force;constructive algorithms;data structures;divide and conquer;dp;implementation;trees;two pointers,13,trees;divide and conquer;data structures;brute force;dp
+user14074,geometry,1,geometry;flows;Priority Queue;Interval DP;2D DP
+user14086,Max Flow;flows;geometry,3,Min Cut;geometry;Distance Between Points;graph matchings;Max Flow
+user14089,,0,binary search;Binary Search on Answer;shortest paths;trees;constructive algorithms
+user14099,Bitmask Enumeration;Brute Force Enumeration;Difference Array;Multiset;Prefix Sum;Simulation;Stack;bitmasks;constructive algorithms;data structures;dsu;implementation;interactive,13,data structures;dsu;Multiset;Monotonic Stack;Stack
+user14115,graphs,1,graphs;Binary Search on Array;shortest paths;divide and conquer;binary search
+user14122,flows;geometry;graph matchings,3,Polygon Area;geometry;Distance Between Points;graph matchings;Max Flow
+user14127,Binary Lifting;Brute Force Enumeration;Dijkstra;Meet-in-the-middle;Monotonic Queue;Prefix Sum;Priority Queue;Simulation;Stack;Tree DFS;brute force;constructive algorithms;data structures;divide and conquer;dp;dsu;interactive;ternary search;trees,19,Binary Lifting;trees;Monotonic Queue;dsu;interactive
+user14130,,0,geometry;Interval DP;Ordered Set;Strongly Connected Components;Hash Map
+user14138,flows;graph matchings,2,Min Cut;graph matchings;flows;Bipartite Graph Check;Cycle Detection
+user14147,Distance Between Points;Max Flow;geometry;graph matchings,4,Line Intersection;geometry;Distance Between Points;graph matchings;Max Flow
+user14149,geometry,1,geometry;Polygon Area;graph matchings;Distance Between Points;Max Flow
+user1415,Bitmask Enumeration;bitmasks;brute force;divide and conquer;geometry,5,geometry;bitmasks;brute force;divide and conquer;Bitmask Enumeration
+user14150,divide and conquer;dsu;shortest paths;trees,4,trees;dsu;shortest paths;divide and conquer;Priority Queue
+user14152,Binary Search on Answer;Binary Search on Array;Bitmask Enumeration;Hash Map;Ordered Set;Permutations;binary search;bitmasks;brute force;combinatorics;data structures;games;greedy;implementation;math;number theory;probabilities;sortings;trees;two pointers,20,two pointers;brute force;binary search;bitmasks;data structures
+user14158,Max Flow;flows;geometry;graph matchings,4,graph matchings;Max Flow;flows;2-sat;Bipartite Graph Check
+user14167,,0,Knapsack;DP on DAG;dp;trees;1D DP
+user14168,flows;geometry,2,geometry;flows;graph matchings;Distance Between Points;2-sat
+user14188,1D DP;Bitmask Enumeration;Brute Force Enumeration;DP on DAG;Hash Map;Longest Increasing Subsequence;Segment Tree;Two Pointers on Sorted Array;bitmasks;brute force;data structures;divide and conquer;dp;dsu;greedy;shortest paths;trees;two pointers,18,dp;data structures;brute force;divide and conquer;Hash Map
+user14189,,0,ternary search;trees;Binary Lifting;binary search;graphs
+user14205,Binary Search on Array;Bitmask Enumeration;Brute Force Enumeration;Hash Map;Meet-in-the-middle;binary search;bitmasks;brute force;combinatorics;constructive algorithms;data structures;divide and conquer;games;graphs;greedy;implementation;math;number theory;probabilities;shortest paths;sortings;trees;two pointers,23,brute force;two pointers;data structures;bitmasks;games
+user14209,,0,geometry;2-sat;Strongly Connected Components;2D DP;DP on DAG
+user1421,geometry,1,geometry;flows;Priority Queue;Multiset;Hash Map
+user14232,Max Flow;Priority Queue;Simulation;Tree DFS;data structures;flows;graphs;trees,8,Priority Queue;Dijkstra;Max Flow;shortest paths;flows
+user14239,Max Flow;flows,2,flows;Max Flow;graphs;shortest paths;Dijkstra
+user14243,,0,Binary Lifting;trees;Tree Diameter;Tree DFS;graphs
+user14246,,0,bitmasks;trees;brute force;data structures;Binary Lifting
+user14266,,0,graphs;interactive;Binary Search on Answer;Trie;trees
+user14278,flows;graph matchings,2,flows;graph matchings;Dijkstra;Shortest Path in DAG;Priority Queue
+user14285,Distance Between Points;Max Flow;Polygon Area;flows;geometry;graph matchings,6,Orientation Test;Polygon Area;graph matchings;Convex Hull;Max Flow
+user14287,,0,geometry;Polygon Area;Binary Lifting;hashing;Sparse Table
+user14298,Convex Hull;Distance Between Points;Line Intersection;Orientation Test;geometry,5,Line Intersection;Orientation Test;geometry;Convex Hull;Distance Between Points
+user14302,binary search,1,binary search;games;bitmasks;ternary search;brute force
+user14305,Activity Selection;Binary Search on Array;Brute Force Enumeration;Greedy Sorting;Hash Map;Interval Scheduling;Mo's Algorithm;Segment Tree;Simulation;Tree DFS;Two Pointers on Sorted Array;binary search;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;dp;greedy;implementation;sortings;strings;trees;two pointers,24,binary search;two pointers;greedy;data structures;trees
+user14308,1D DP;2D DP;Bitmask DP;Hash Map;Longest Increasing Subsequence;Tree DFS;Tree DP;bitmasks;brute force;data structures;dp;hashing;strings;trees,14,dp;divide and conquer;brute force;Tree DP;trees
+user14328,,0,geometry;dp;Segment Tree;data structures;binary search
+user14336,Brute Force Enumeration;Simulation;String Matching;Tree DFS;Tree DP;binary search;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;dp;hashing;implementation;interactive;string suffix structures;strings;ternary search;trees,19,strings;hashing;constructive algorithms;string suffix structures;String Matching
+user14342,,0,geometry;Max Flow;flows;2-sat;2D DP
+user14346,2-sat;Min Cut;Strongly Connected Components;flows;graph matchings;graphs,6,Min Cut;graph matchings;flows;2-sat;Bipartite Graph Check
+user14349,,0,dsu;graphs;trees;binary search;Binary Search on Array
+user14360,,0,Max Flow;flows;geometry;graph matchings;Priority Queue
+user14361,1D DP;Bitmask DP;Interval DP;Knapsack;Longest Common Subsequence;Longest Increasing Subsequence;Tree DP;Tree Diameter;bitmasks;brute force;divide and conquer;dp;trees,13,dp;divide and conquer;Meet-in-the-middle;fft;Tree DP
+user14369,Max Flow;flows;graph matchings,3,Max Flow;graph matchings;flows;Line Intersection;geometry
+user14377,,0,graphs;Combinations;interactive;dp;Modular Combinations
+user14393,,0,Line Intersection;Max Flow;geometry;flows;Monotonic Stack
+user14395,,0,data structures;trees;two pointers;Binary Search on Array;graphs
+user14403,Convex Hull;Distance Between Points;Max Flow;geometry,4,geometry;Distance Between Points;Convex Hull;Max Flow;graph matchings
+user14404,geometry,1,Line Intersection;geometry;Orientation Test;graph matchings;Distance Between Points
+user14406,geometry,1,geometry;graph matchings;flows;2-sat;Bipartite Graph Check
+user14411,Distance Between Points;geometry,2,Orientation Test;geometry;Distance Between Points;graph matchings;flows
+user14423,Connected Components;DFS;Max Flow;graphs;shortest paths,5,shortest paths;graphs;DFS;2-sat;Connected Components
+user14435,,0,Strongly Connected Components;Topological Sort;Ordered Set;dsu;Lowest Common Ancestor
+user14442,,0,flows;Multiset;Hash Map;trees;divide and conquer
+user14450,,0,shortest paths;graphs;Priority Queue;ternary search;trees
+user14454,,0,Max Flow;geometry;graph matchings;flows;Distance Between Points
+user14477,,0,Max Flow;flows;ternary search;graph matchings;Binary Search on Answer
+user14479,,0,graphs;Hash Map;ternary search;2D DP;data structures
+user14488,,0,shortest paths;Bipartite Graph Check;graphs;dsu;Monotonic Stack
+user1449,Bipartite Graph Check;Distance Between Points;Max Flow;flows;geometry;graph matchings,6,Polygon Area;graph matchings;Max Flow;geometry;Distance Between Points
+user1450,,0,Multiset;Hash Map;hashing;Ordered Set;dsu
+user14501,Distance Between Points;geometry,2,Polygon Area;geometry;Distance Between Points;flows;2-sat
+user14502,,0,geometry;Strongly Connected Components;Topological Sort;Tree DFS;graphs
+user14527,Polygon Area;geometry,2,graph matchings;Polygon Area;geometry;Distance Between Points;Priority Queue
+user14533,geometry;graph matchings,2,geometry;Distance Between Points;graph matchings;Max Flow;flows
+user1455,geometry,1,graph matchings;geometry;Priority Queue;Distance Between Points;Interval DP
+user1456,,0,geometry;shortest paths;Ordered Set;graphs;dsu
+user14565,,0,geometry;2D DP;ternary search;Tree DFS;Hash Map
+user14576,,0,graph matchings;flows;Dijkstra;Cycle Detection;shortest paths
+user14588,Distance Between Points;Max Flow;geometry;graph matchings,4,geometry;Distance Between Points;Max Flow;graph matchings;flows
+user14592,,0,Max Flow;geometry;flows;graph matchings;Interval DP
+user14598,Bipartite Graph Check;Max Flow;Min Cut;flows;graph matchings,5,Min Cut;graph matchings;Max Flow;flows;Bipartite Graph Check
+user14601,flows;geometry;graph matchings,3,geometry;Distance Between Points;graph matchings;Max Flow;flows
+user14605,Distance Between Points;geometry;graph matchings,3,Orientation Test;geometry;Distance Between Points;graph matchings;Max Flow
+user14607,,0,geometry;Distance Between Points;Binary Search on Answer;Binary Search on Array;ternary search
+user14611,geometry,1,Polygon Area;geometry;Distance Between Points;flows;Priority Queue
+user14617,,0,geometry;2D DP;Min Cut;Line Intersection;Orientation Test
+user14622,2-sat;geometry;graph matchings,3,graph matchings;geometry;Distance Between Points;2-sat;Priority Queue
+user14633,geometry,1,geometry;Distance Between Points;Max Flow;flows;Ordered Set
+user14641,Max Flow;graph matchings,2,graph matchings;Max Flow;flows;Bipartite Graph Check;Cycle Detection
+user14647,BFS;Cycle Detection;DFS;Distance Between Points;Graph Representation;Tree DFS;divide and conquer;geometry;graphs;trees,10,graphs;trees;DFS;Cycle Detection;divide and conquer
+user1466,Backtracking;Brute Force Enumeration;Connected Components;DFS;Meet-in-the-middle;Prefix Sum;Priority Queue;Segment Tree;Simulation;State Simulation;Tree DFS;Tree DP;binary search;brute force;constructive algorithms;data structures;dp;graphs;greedy;hashing;implementation;interactive;shortest paths;string suffix structures;strings;trees;two pointers,27,divide and conquer;constructive algorithms;trees;shortest paths;implementation
+user14665,,0,flows;Binary Search on Answer;graphs;dp;Strongly Connected Components
+user14670,Line Intersection;flows;geometry,3,flows;Line Intersection;geometry;Distance Between Points;Convex Hull
+user14674,,0,2-sat;ternary search;Edit Distance;Binary Search on Answer;interactive
+user14677,,0,geometry;2D DP;Ordered Set;Coordinate Compression;Hash Map
+user1468,data structures;two pointers,2,two pointers;data structures;binary search;divide and conquer;dp
+user14690,Distance Between Points;Max Flow;geometry;graph matchings,4,Line Intersection;Polygon Area;geometry;Distance Between Points;graph matchings
+user14694,flows;graph matchings,2,Max Flow;flows;graph matchings;geometry;Priority Queue
+user14695,,0,geometry;graphs;Distance Between Points;ternary search;String Hashing
+user14700,Max Flow;graph matchings,2,Max Flow;graph matchings;flows;Binary Lifting;Cycle Detection
+user14710,Max Flow;Min Cut;Orientation Test;geometry;graph matchings,5,Min Cut;Orientation Test;geometry;graph matchings;Max Flow
+user14712,Polygon Area;geometry,2,Orientation Test;Polygon Area;geometry;Convex Hull;Max Flow
+user14718,flows;geometry,2,geometry;flows;Ordered Set;Priority Queue;hashing
+user14719,,0,2D DP;dsu;graphs;shortest paths;trees
+user14730,Activity Selection;Binary Search on Answer;Binary Search on Array;Custom Comparator Sorting;Fenwick Tree;Greedy Sorting;Max Flow;Mo's Algorithm;Tree DFS;Tree Diameter;Two Pointers on Sorted Array;binary search;constructive algorithms;data structures;divide and conquer;flows;graphs;greedy;shortest paths;sortings;trees;two pointers,22,binary search;trees;greedy;Binary Search on Array;sortings
+user14738,,0,geometry;Distance Between Points;graph matchings;flows;2-sat
+user14740,2-sat;Strongly Connected Components;flows,3,Min Cut;Max Flow;graph matchings;flows;2-sat
+user14746,1D DP;Knapsack;Topological Sort;Tree DFS;Tree DP;binary search;brute force;constructive algorithms;divide and conquer;dp;graphs;hashing;shortest paths;strings;trees,15,divide and conquer;dp;Meet-in-the-middle;strings;hashing
+user14776,geometry;graph matchings,2,geometry;graph matchings;Distance Between Points;Bipartite Graph Check;Interval DP
+user14789,geometry,1,geometry;Orientation Test;Distance Between Points;Max Flow;graph matchings
+user14796,,0,geometry;graph matchings;flows;Priority Queue;2D DP
+user14798,geometry,1,Line Intersection;Orientation Test;geometry;flows;Bipartite Graph Check
+user1480,Binary Lifting;Binary Search on Answer;Binary Search on Array;Brute Force Enumeration;Hash Map;Meet-in-the-middle;Mo's Algorithm;Ordered Set;Simulation;String Matching;binary search;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;dp;greedy;hashing;implementation;interactive;sortings;string suffix structures;strings;ternary search;trees;two pointers,27,strings;string suffix structures;hashing;binary search;String Matching
+user14826,,0,Knapsack;Hash Map;Binary Search on Answer;interactive;Binary Search on Array
+user14827,,0,trees;flows;divide and conquer;ternary search;dp
+user14835,geometry,1,Line Intersection;geometry;Min Cut;graph matchings;Max Flow
+user14843,,0,Max Flow;flows;shortest paths;graphs;hashing
+user14848,,0,flows;Max Flow;Multiset;geometry;Hash Map
+user14849,,0,geometry;flows;ternary search;binary search;Binary Search on Answer
+user1485,Bellman-Ford;Bipartite Graph Check;Brute Force Enumeration;Connected Components;Cycle Detection;DFS;Fenwick Tree;Graph Representation;Hash Map;Monotonic Stack;Ordered Set;Prefix Sum;Priority Queue;Queue;Segment Tree;Simulation;Stack;Tree DFS;brute force;constructive algorithms;data structures;divide and conquer;dp;dsu;flows;graph matchings;graphs;greedy;implementation;interactive;shortest paths;trees;two pointers,33,shortest paths;graphs;flows;Max Flow;Priority Queue
+user14870,flows;shortest paths,2,flows;Shortest Path in DAG;Priority Queue;shortest paths;graphs
+user14874,geometry;graph matchings,2,Convex Hull;geometry;graph matchings;Bipartite Graph Check;Strongly Connected Components
+user14877,geometry;graph matchings,2,graph matchings;Max Flow;Polygon Area;geometry;flows
+user14878,flows;geometry,2,graph matchings;flows;geometry;Distance Between Points;2D DP
+user14894,flows;geometry,2,Polygon Area;geometry;Distance Between Points;graph matchings;flows
+user1490,1D DP;Bitmask DP;Brute Force Enumeration;Fenwick Tree;Longest Increasing Subsequence;Priority Queue;Segment Tree;Simulation;Tree DFS;Tree DP;brute force;data structures;divide and conquer;dp;dsu;fft;shortest paths;trees,18,dp;Bitmask DP;Tree DP;1D DP;divide and conquer
+user14906,,0,flows;geometry;hashing;Priority Queue;Binary Search on Answer
+user14907,flows,1,flows;Max Flow;ternary search;Priority Queue;shortest paths
+user14908,Distance Between Points;Line Intersection;geometry,3,Line Intersection;geometry;Distance Between Points;flows;Bipartite Graph Check
+user1491,Max Flow;geometry,2,geometry;Convex Hull;Distance Between Points;graph matchings;Max Flow
+user14914,geometry,1,Polygon Area;geometry;Strongly Connected Components;2D DP;Topological Sort
+user14918,,0,binary search;Binary Search on Answer;trees;dp;Binary Search on Array
+user1497,Bipartite Graph Check;flows;graph matchings,3,Orientation Test;graph matchings;geometry;Max Flow;Distance Between Points
+user1511,,0,graph matchings;Polygon Area;flows;geometry;Priority Queue
+user1523,Distance Between Points;Max Flow;geometry;graph matchings,4,Line Intersection;Orientation Test;geometry;Distance Between Points;graph matchings
+user1526,Distance Between Points;geometry;graph matchings,3,Line Intersection;Polygon Area;geometry;Distance Between Points;graph matchings
+user1531,,0,Max Flow;flows;graph matchings;Binary Lifting;Priority Queue
+user1534,,0,Multiset;geometry;ternary search;Bitmask Enumeration;bitmasks
+user1551,,0,graphs;trees;Tree DFS;divide and conquer;binary search
+user1553,flows;graph matchings,2,graph matchings;flows;2-sat;ternary search;Priority Queue
+user1554,Distance Between Points;geometry;graph matchings,3,geometry;Distance Between Points;graph matchings;Bipartite Graph Check;graphs
+user1565,,0,geometry;Max Flow;graph matchings;flows;Ordered Set
+user1567,Binary Search on Array;Bitmask Enumeration;Brute Force Enumeration;Hash Map;Meet-in-the-middle;Segment Tree;Tree DFS;Tree Diameter;Two Pointers on Sorted Array;binary search;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;dp;games;graphs;greedy;implementation;number theory;shortest paths;sortings;strings;trees;two pointers,26,two pointers;data structures;brute force;trees;divide and conquer
+user1607,geometry,1,geometry;flows;Bipartite Graph Check;Priority Queue;2D DP
+user161,Meet-in-the-middle;dp;graphs;trees,4,dp;trees;graphs;Meet-in-the-middle;flows
+user1615,,0,binary search;shortest paths;divide and conquer;trees;dp
+user1633,,0,graphs;divide and conquer;fft;binary search;DFS
+user1647,geometry,1,geometry;graph matchings;flows;Max Flow;Convex Hull
+user1650,brute force;divide and conquer;dp,3,brute force;divide and conquer;dp;binary search;bitmasks
+user1654,Line Intersection;Max Flow;Orientation Test;geometry;graph matchings,5,Min Cut;Line Intersection;Orientation Test;Polygon Area;geometry
+user1658,Max Flow;geometry;graph matchings,3,geometry;graph matchings;Max Flow;flows;2-sat
+user1666,,0,Max Flow;ternary search;flows;graph matchings;Priority Queue
+user1672,Brute Force Enumeration;Simulation;State Simulation;bitmasks;brute force;constructive algorithms;data structures;dsu;implementation;number theory,10,Prefix Sum;interactive;dsu;constructive algorithms;Simulation
+user1679,,0,ternary search;dsu;Priority Queue;Queue;Binary Search on Answer
+user1686,Fenwick Tree;Priority Queue;interactive,3,Fenwick Tree;Monotonic Stack;Priority Queue;interactive;dsu
+user1688,Max Flow;geometry;graph matchings,3,geometry;graph matchings;Max Flow;Distance Between Points;flows
+user1701,Convex Hull;Distance Between Points;Max Flow;geometry;graph matchings,5,Orientation Test;Convex Hull;geometry;Max Flow;Distance Between Points
+user1703,Max Flow;flows;graph matchings,3,Max Flow;graph matchings;flows;geometry;Dijkstra
+user1713,geometry,1,flows;geometry;2D DP;shortest paths;DP on DAG
+user1722,Polygon Area;flows;geometry,3,geometry;Polygon Area;Distance Between Points;flows;2-sat
+user1731,Binary Search on Array;binary search;graphs;greedy;shortest paths;sortings;trees;two pointers,8,binary search;graphs;Binary Search on Array;shortest paths;trees
+user1734,Binary Search on Answer;Binary Search on Array;binary search;two pointers,4,binary search;Binary Search on Array;two pointers;Fenwick Tree;Binary Search on Answer
+user1739,,0,geometry;2D DP;Lazy Segment Tree;ternary search;Priority Queue
+user174,,0,Orientation Test;geometry;Distance Between Points;flows;2-sat
+user1751,,0,binary search;Binary Search on Answer;Binary Search on Array;geometry;greedy
+user1762,Distance Between Points;flows;geometry,3,graph matchings;flows;Polygon Area;geometry;Distance Between Points
+user1769,,0,flows;Dijkstra;graph matchings;dsu;shortest paths
+user1774,geometry;graph matchings,2,Min Cut;geometry;Distance Between Points;graph matchings;flows
+user1786,,0,ternary search;flows;Max Flow;Shortest Path in DAG;graph matchings
+user1789,Orientation Test;geometry,2,geometry;Orientation Test;Distance Between Points;Bipartite Graph Check;Dijkstra
+user179,Max Flow;graph matchings,2,Min Cut;Max Flow;graph matchings;flows;geometry
+user1790,Max Flow,1,Shortest Path in DAG;Max Flow;DP on DAG;Priority Queue;flows
+user1793,graph matchings,1,flows;graph matchings;Bipartite Graph Check;geometry;shortest paths
+user1809,,0,dsu;dp;graphs;DFS;1D DP
+user1825,Max Flow;flows;geometry;graph matchings,4,graph matchings;geometry;Max Flow;Distance Between Points;flows
+user1835,flows,1,Min Cut;flows;graph matchings;2-sat;Bipartite Graph Check
+user1847,flows;geometry,2,geometry;Polygon Area;flows;Distance Between Points;2-sat
+user1859,geometry,1,geometry;Distance Between Points;Interval DP;Binary Search on Answer;Binary Search on Array
+user1864,,0,Priority Queue;shortest paths;Strongly Connected Components;graphs;Floyd-Warshall
+user1867,,0,geometry;2-sat;Priority Queue;Strongly Connected Components;dsu
+user1869,geometry;graph matchings,2,graph matchings;geometry;flows;Distance Between Points;Interval DP
+user1871,Binary Search on Array;binary search;bitmasks;brute force;divide and conquer;greedy;two pointers,7,brute force;greedy;binary search;bitmasks;two pointers
+user1874,,0,Multiset;dsu;Priority Queue;Hash Map;Queue
+user1885,,0,graph matchings;flows;graphs;shortest paths;Cycle Detection
+user189,geometry,1,Max Flow;geometry;flows;graph matchings;Distance Between Points
+user1890,,0,shortest paths;geometry;Connected Components;graphs;Tree DFS
+user1900,2-sat;flows;geometry,3,Line Intersection;graph matchings;geometry;Convex Hull;Distance Between Points
+user1910,,0,Hash Map;graphs;dp;Schedules;Custom Comparator Sorting
+user1917,,0,graph matchings;Priority Queue;Ordered Set;Strongly Connected Components;dsu
+user1926,,0,geometry;Convex Hull;Knapsack;ternary search;DFS
+user193,Binary Search on Array;Bitmask Enumeration;Expected Value;binary search;bitmasks;brute force;combinatorics;games;greedy;math;number theory;probabilities;ternary search;trees;two pointers,15,brute force;probabilities;binary search;bitmasks;greedy
+user1933,Max Flow;geometry,2,Line Intersection;Polygon Area;geometry;Distance Between Points;graph matchings
+user194,,0,graphs;interactive;Simulation;Prime Factorization;combinatorics
+user1964,geometry,1,geometry;Ordered Set;data structures;two pointers;Hash Map
+user1966,Bitmask Enumeration;binary search;bitmasks;brute force;data structures;divide and conquer;dp;graphs;greedy;shortest paths;trees;two pointers,12,brute force;bitmasks;Bitmask Enumeration;divide and conquer;two pointers
+user1970,,0,geometry;Priority Queue;Distance Between Points;graphs;Cycle Detection
+user198,Max Flow;flows;geometry,3,Line Intersection;Orientation Test;geometry;Distance Between Points;Max Flow
+user1983,Priority Queue;Stack;dsu,3,dsu;Priority Queue;Monotonic Stack;Stack;Ordered Set
+user200,Brute Force Enumeration;Hash Map;Segment Tree;Two Pointers on Sorted Array;binary search;brute force;constructive algorithms;data structures;divide and conquer;dp;graphs;greedy;implementation;shortest paths;sortings;trees;two pointers,17,two pointers;divide and conquer;data structures;Fenwick Tree;graphs
+user2001,Bipartite Graph Check;Distance Between Points;Line Intersection;Max Flow;flows;geometry;graph matchings,7,Min Cut;Line Intersection;Orientation Test;geometry;Max Flow
+user2003,divide and conquer,1,divide and conquer;dp;shortest paths;ternary search;trees
+user2011,graph matchings,1,graph matchings;geometry;Orientation Test;2-sat;Bipartite Graph Check
+user2025,geometry,1,geometry;flows;Priority Queue;Hash Map;dsu
+user2058,Max Flow;flows,2,Max Flow;flows;2-sat;2D DP;Knapsack
+user2060,Distance Between Points;Line Intersection;Max Flow;Orientation Test;geometry;graph matchings,6,Line Intersection;Orientation Test;Polygon Area;geometry;Convex Hull
+user2061,,0,flows;2D DP;dsu;graphs;shortest paths
+user2065,,0,ternary search;Max Flow;flows;Binary Search on Answer;2-sat
+user2068,Monotonic Stack;Stack;bitmasks;brute force;divide and conquer;dsu;graphs;math;number theory,9,dsu;Difference Array;Monotonic Stack;Stack;Bitmask Enumeration
+user2070,Max Flow;geometry;graph matchings,3,Orientation Test;Polygon Area;geometry;Distance Between Points;graph matchings
+user210,flows,1,Max Flow;graph matchings;flows;Dijkstra;Priority Queue
+user2107,,0,Min Cut;geometry;ternary search;graph matchings;Binary Search on Answer
+user2119,Fenwick Tree;brute force;data structures;two pointers,4,two pointers;data structures;Fenwick Tree;Ordered Set;brute force
+user2124,,0,geometry;Polygon Area;Distance Between Points;ternary search;Interval DP
+user2144,Max Flow,1,Max Flow;graph matchings;flows;geometry;Polygon Area
+user2161,BFS;Brute Force Enumeration;DFS;Dijkstra;Fenwick Tree;Graph Representation;Stack;Tree DFS;brute force;data structures;divide and conquer;dp;dsu;flows;graph matchings;graphs;shortest paths;trees,18,shortest paths;Dijkstra;Priority Queue;graphs;Queue
+user2165,,0,graph matchings;ternary search;Priority Queue;flows;Binary Search on Answer
+user217,,0,graph matchings;Binary Lifting;graphs;Priority Queue;ternary search
+user2189,,0,flows;graph matchings;shortest paths;Dijkstra;Expected Value
+user219,,0,Connected Components;DFS;graphs;hashing;ternary search
+user2201,flows;graph matchings,2,Min Cut;geometry;graph matchings;flows;Interval DP
+user2207,Tree DFS;divide and conquer;trees,3,trees;Tree DFS;Fenwick Tree;divide and conquer;dsu
+user2234,data structures;dsu;number theory;ternary search;trees,5,data structures;trees;number theory;Multiset;dsu
+user2239,binary search;trees,2,binary search;trees;ternary search;Binary Search on Array;greedy
+user2245,Line Intersection;Max Flow;graph matchings,3,Min Cut;Max Flow;graph matchings;Line Intersection;Orientation Test
+user2247,Combinations;Expected Value;Inclusion-Exclusion,3,Inclusion-Exclusion;Modular Combinations;Expected Value;Combinations;Prime Factorization
+user2249,,0,DFS;Tree DFS;graphs;Divisors;Binary Search on Array
+user2255,,0,graph matchings;flows;geometry;2-sat;Distance Between Points
+user2262,geometry,1,geometry;graph matchings;flows;Priority Queue;Ordered Set
+user2265,dp,1,brute force;data structures;dp;bitmasks;Bitmask Enumeration
+user2268,Max Flow;graph matchings,2,graph matchings;Max Flow;Bipartite Graph Check;flows;Dijkstra
+user2275,,0,geometry;Line Intersection;Orientation Test;Polygon Area;Distance Between Points
+user2300,,0,ternary search;Binary Search on Answer;graph matchings;flows;Max Flow
+user2316,dsu,1,Monotonic Stack;dsu;ternary search;Priority Queue;Difference Array
+user2323,,0,Ordered Set;graphs;data structures;Fenwick Tree;constructive algorithms
+user2328,Tree DFS;dsu;trees,3,dsu;Monotonic Stack;Dijkstra;Difference Array;trees
+user2332,Distance Between Points;flows;geometry,3,geometry;Distance Between Points;Max Flow;graph matchings;flows
+user2339,,0,dp;1D DP;Expected Value;probabilities;Binary Search on Array
+user2349,,0,shortest paths;ternary search;graphs;trees;divide and conquer
+user2352,,0,shortest paths;graphs;binary search;dp;2D DP
+user2359,,0,ternary search;Ordered Set;Hash Map;Multiset;games
+user2378,,0,graphs;ternary search;Binary Search on Answer;Tree DFS;divide and conquer
+user2390,Convex Hull;Distance Between Points;Line Intersection;Orientation Test;geometry,5,geometry;Orientation Test;Polygon Area;Line Intersection;Distance Between Points
+user2393,2D DP;Meet-in-the-middle;brute force;divide and conquer;dp;fft;geometry,7,dp;geometry;divide and conquer;fft;Meet-in-the-middle
+user2394,BFS;Connected Components;DFS;Graph Representation;Tree DFS;Tree DP;brute force;divide and conquer;dp;flows;graph matchings;graphs;shortest paths;trees,14,divide and conquer;shortest paths;graphs;DFS;flows
+user2403,Distance Between Points;Polygon Area;geometry;graph matchings,4,Orientation Test;Polygon Area;geometry;Distance Between Points;graph matchings
+user2404,Distance Between Points;geometry,2,geometry;Distance Between Points;Priority Queue;2D DP;graphs
+user2409,Max Flow;flows;geometry;graph matchings,4,geometry;Max Flow;graph matchings;Distance Between Points;flows
+user242,Distance Between Points;geometry;graph matchings,3,Polygon Area;geometry;Distance Between Points;graph matchings;flows
+user2424,,0,Distance Between Points;Priority Queue;Shortest Path in DAG;2D DP;dsu
+user2434,,0,dsu;Monotonic Stack;trees;combinatorics;Permutations
+user2441,Max Flow;flows,2,Max Flow;flows;Monotonic Queue;geometry;Hash Map
+user2445,Max Flow,1,Max Flow;flows;graph matchings;2-sat;Bipartite Graph Check
+user2453,Orientation Test;geometry,2,Line Intersection;Orientation Test;geometry;Distance Between Points;Max Flow
+user2454,binary search,1,binary search;ternary search;strings;string suffix structures;Hash Map
+user2455,,0,graphs;DFS;shortest paths;trees;Graph Representation
+user2461,flows;geometry,2,flows;Max Flow;geometry;graph matchings;Polygon Area
+user2477,Binary Lifting;Bitmask Enumeration;Fenwick Tree;Hash Map;Monotonic Stack;Multiset;Priority Queue;Segment Tree;Stack;brute force;data structures;divide and conquer;dsu;shortest paths;trees;two pointers,16,data structures;Fenwick Tree;dsu;Ordered Set;Monotonic Stack
+user2479,flows;graph matchings,2,Polygon Area;geometry;graph matchings;flows;Priority Queue
+user2491,,0,Max Flow;Binary Search on Answer;graph matchings;Priority Queue;dsu
+user25,Polygon Area;geometry,2,Polygon Area;geometry;Distance Between Points;flows;Interval DP
+user2501,Polygon Area;geometry,2,Polygon Area;geometry;flows;Interval DP;Priority Queue
+user2506,Max Flow;flows;graph matchings,3,Max Flow;Dijkstra;graph matchings;flows;Bipartite Graph Check
+user2521,Bipartite Graph Check;Max Flow;Strongly Connected Components;Topological Sort;flows,5,Max Flow;Bipartite Graph Check;flows;Strongly Connected Components;Cycle Detection
+user2525,,0,2D DP;Shortest Path in DAG;Dijkstra;Connected Components;hashing
+user2537,Max Flow;Orientation Test;flows;geometry,4,Max Flow;flows;graph matchings;Orientation Test;geometry
+user2554,,0,2-sat;Priority Queue;Strongly Connected Components;dsu;geometry
+user2555,Binary Search on Array;Meet-in-the-middle;binary search;brute force;divide and conquer;dp;fft;graphs;greedy;shortest paths;trees,11,divide and conquer;graphs;brute force;fft;binary search
+user2570,,0,flows;graph matchings;geometry;graphs;Tree Diameter
+user2571,,0,Hash Map;dsu;2D DP;hashing;DFS
+user2583,Activity Selection;Binary Search on Answer;Binary Search on Array;Coordinate Compression;Custom Comparator Sorting;Greedy Sorting;Ordered Set;Sliding Window;Two Pointers on Sorted Array;binary search;brute force;data structures;divide and conquer;greedy;sortings;ternary search;trees;two pointers,18,binary search;Binary Search on Array;Fenwick Tree;sortings;two pointers
+user2606,flows;graph matchings,2,Max Flow;flows;graph matchings;geometry;2-sat
+user2607,divide and conquer;graphs;shortest paths;trees,4,graphs;shortest paths;trees;divide and conquer;binary search
+user2616,divide and conquer;graphs;shortest paths,3,graphs;divide and conquer;shortest paths;trees;fft
+user2619,,0,brute force;greedy;divide and conquer;dp;constructive algorithms
+user2621,Max Flow;flows,2,geometry;Max Flow;flows;Priority Queue;2-sat
+user2625,Binary Search on Array;Fast Exponentiation;Hash Map;Tree Diameter;binary search;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;games;greedy;implementation;math;number theory;string suffix structures;trees;two pointers,18,trees;brute force;bitmasks;two pointers;Bitmask Enumeration
+user2638,Max Flow;geometry,2,geometry;Max Flow;graph matchings;2-sat;flows
+user2641,1D DP;Bitmask DP;Bitmask Enumeration;Brute Force Enumeration;Knapsack;Meet-in-the-middle;Tree DFS;Tree DP;bitmasks;brute force;data structures;divide and conquer;dp;graphs;implementation;shortest paths;trees,17,dp;divide and conquer;Meet-in-the-middle;brute force;trees
+user2645,,0,flows;graph matchings;Tree Diameter;Lowest Common Ancestor;ternary search
+user2655,,0,Priority Queue;Topological Sort;2D DP;ternary search;graphs
+user2658,Divisors;dsu,2,chinese remainder theorem;Prime Factorization;Divisors;dsu;Monotonic Stack
+user2672,,0,graphs;2D DP;games;data structures;Divisors
+user2673,,0,data structures;2-sat;two pointers;binary search;Binary Search on Array
+user2680,Binary Lifting;Bitmask DP;Bitmask Enumeration;Floyd-Warshall;Lowest Common Ancestor;Meet-in-the-middle;Monotonic Stack;Priority Queue;Queue;Stack;Tree DFS;Tree DP;Tree Diameter;bitmasks;brute force;data structures;divide and conquer;dp;dsu;fft;graphs;implementation;shortest paths;trees,24,divide and conquer;brute force;trees;bitmasks;Meet-in-the-middle
+user2684,Max Flow;geometry,2,Line Intersection;geometry;Distance Between Points;Max Flow;flows
+user2687,Distance Between Points;flows;geometry,3,Orientation Test;geometry;Convex Hull;Distance Between Points;graph matchings
+user2688,,0,geometry;Max Flow;Lazy Segment Tree;Multiset;Hash Map
+user2699,,0,flows;ternary search;shortest paths;2D DP;Binary Search on Answer
+user2700,,0,trees;Binary Lifting;graphs;divide and conquer;Tree DFS
+user2703,Bipartite Graph Check;Distance Between Points;flows;geometry;graph matchings,5,Polygon Area;graph matchings;geometry;Distance Between Points;flows
+user2705,flows,1,Max Flow;flows;Orientation Test;Dijkstra;Multiset
+user271,flows;geometry;graph matchings,3,geometry;Distance Between Points;graph matchings;flows;Priority Queue
+user2711,,0,dp;Binary Search on Answer;1D DP;data structures;binary search
+user2714,geometry,1,Line Intersection;geometry;Convex Hull;Distance Between Points;graph matchings
+user2718,,0,graph matchings;geometry;Max Flow;Polygon Area;2-sat
+user2730,Distance Between Points;geometry,2,Max Flow;geometry;Distance Between Points;flows;Priority Queue
+user2733,Orientation Test;geometry;graph matchings,3,graph matchings;Line Intersection;Orientation Test;geometry;Bipartite Graph Check
+user2752,Max Flow;graph matchings,2,Min Cut;graph matchings;Max Flow;flows;geometry
+user2782,Max Flow;flows,2,Min Cut;Max Flow;flows;graph matchings;ternary search
+user2786,,0,shortest paths;graphs;BFS;Tree DFS;Binary Search on Answer
+user2805,Distance Between Points;flows;geometry,3,graph matchings;geometry;flows;Distance Between Points;Priority Queue
+user2811,,0,geometry;dsu;ternary search;2D DP;Topological Sort
+user2813,Stack;combinatorics;data structures;dsu;number theory;ternary search,6,dsu;ternary search;Monotonic Stack;Difference Array;Stack
+user2829,Binary Search on Array;Fenwick Tree;binary search;brute force;data structures;divide and conquer;greedy;sortings;two pointers,9,two pointers;greedy;brute force;binary search;Fenwick Tree
+user283,,0,flows;Priority Queue;2D DP;dsu;hashing
+user2836,,0,Max Flow;graph matchings;flows;geometry;Lowest Common Ancestor
+user2840,Monotonic Stack;dsu;trees,3,dsu;Monotonic Stack;trees;Priority Queue;ternary search
+user2855,Orientation Test;geometry;graph matchings,3,Orientation Test;geometry;graph matchings;flows;Interval DP
+user2865,,0,trees;fft;Tree DP;dp;divide and conquer
+user2866,geometry,1,geometry;flows;Distance Between Points;2D DP;dsu
+user2878,Activity Selection;Binary Lifting;Binary Search on Array;Brute Force Enumeration;DFS;Fenwick Tree;Greedy Sorting;Interval Scheduling;Lowest Common Ancestor;Meet-in-the-middle;Ordered Set;Priority Queue;Queue;Simulation;Sparse Table;Tree DFS;binary search;brute force;constructive algorithms;data structures;divide and conquer;dp;dsu;fft;flows;graphs;greedy;implementation;interactive;shortest paths;sortings;string suffix structures;trees;two pointers,34,trees;divide and conquer;Binary Lifting;constructive algorithms;graphs
+user2879,ternary search,1,ternary search;Binary Search on Answer;Binary Search on Array;binary search;dsu
+user2884,,0,geometry;Binary Lifting;Ordered Set;Hash Map;Priority Queue
+user2886,Distance Between Points;Orientation Test;geometry,3,Orientation Test;geometry;Distance Between Points;2D DP;Dijkstra
+user2891,Binary Search on Array;Bitmask Enumeration;binary search;bitmasks;brute force;data structures;divide and conquer;greedy;trees;two pointers,10,brute force;trees;data structures;two pointers;bitmasks
+user2897,graph matchings,1,graph matchings;geometry;Priority Queue;Dijkstra;Orientation Test
+user2898,,0,graphs;ternary search;graph matchings;trees;flows
+user2901,,0,ternary search;Binary Search on Answer;Binary Search on Array;binary search;Binary Lifting
+user2904,Distance Between Points;flows;geometry;graph matchings,4,Orientation Test;geometry;Max Flow;graph matchings;flows
+user2915,,0,graph matchings;flows;Interval DP;2D DP;Cycle Detection
+user2916,flows;graph matchings,2,Min Cut;Max Flow;flows;graph matchings;geometry
+user2918,flows;geometry,2,geometry;Max Flow;flows;2-sat;Strongly Connected Components
+user2923,Bitmask Enumeration;binary search;bitmasks;brute force;data structures;divide and conquer;geometry;greedy;sortings;trees;two pointers,11,brute force;bitmasks;Binary Search on Array;two pointers;trees
+user2938,graph matchings,1,graph matchings;flows;geometry;Binary Lifting;Bipartite Graph Check
+user2967,,0,Hash Map;Ordered Set;Multiset;Strongly Connected Components;Binary Search on Answer
+user2969,Distance Between Points;geometry,2,geometry;Distance Between Points;Max Flow;flows;Interval DP
+user2984,Binary Search on Answer;Binary Search on Array;Bitmask Enumeration;binary search;bitmasks;brute force;combinatorics;divide and conquer;games;greedy;implementation;math;number theory;sortings;trees;two pointers,16,brute force;binary search;games;greedy;probabilities
+user2991,Max Flow,1,Max Flow;shortest paths;flows;Monotonic Queue;graphs
+user2996,,0,ternary search;Interval DP;Binary Search on Answer;dp;Knapsack
+user30,Max Flow;graph matchings,2,geometry;graph matchings;Distance Between Points;Max Flow;Bipartite Graph Check
+user3001,,0,dsu;geometry;graphs;interactive;Binary Search on Answer
+user3010,2-sat;Max Flow;flows;graph matchings,4,graph matchings;Max Flow;Bipartite Graph Check;2-sat;flows
+user3050,,0,DFS;Knapsack;2D DP;shortest paths;graphs
+user3056,Max Flow;geometry,2,geometry;Max Flow;Distance Between Points;flows;Hash Map
+user3063,,0,graph matchings;flows;Ordered Set;Monotonic Stack;hashing
+user3079,1D DP;2D DP;DP on DAG;brute force;data structures;divide and conquer;dp;graphs;shortest paths;two pointers,10,dp;divide and conquer;brute force;shortest paths;two pointers
+user3086,,0,flows;shortest paths;Hash Map;trees;ternary search
+user3092,,0,Max Flow;graph matchings;flows;geometry;Priority Queue
+user3096,,0,dsu;Monotonic Stack;Bitmask Enumeration;Dijkstra;Difference Array
+user3098,,0,ternary search;interactive;constructive algorithms;Binary Lifting;flows
+user31,1D DP;2D DP;Bitmask DP;Brute Force Enumeration;Convex Hull;Interval DP;Knapsack;Line Intersection;Longest Increasing Subsequence;Lowest Common Ancestor;Meet-in-the-middle;Topological Sort;Tree DFS;Tree DP;bitmasks;brute force;divide and conquer;dp;geometry;graphs;greedy;implementation;shortest paths;trees,24,dp;divide and conquer;Meet-in-the-middle;Tree DP;brute force
+user3107,,0,geometry;Line Intersection;Orientation Test;Distance Between Points;Cycle Detection
+user311,Priority Queue;dsu,2,Priority Queue;dsu;Monotonic Stack;Max Flow;Binary Lifting
+user3120,,0,Interval DP;geometry;dp;shortest paths;Knapsack
+user3127,Max Flow;flows;geometry;graph matchings,4,geometry;Max Flow;graph matchings;flows;Dijkstra
+user313,Bipartite Graph Check;Distance Between Points;Max Flow;Priority Queue;geometry;graph matchings,6,Orientation Test;Distance Between Points;graph matchings;geometry;Max Flow
+user3139,2-sat;graph matchings,2,2-sat;graph matchings;Strongly Connected Components;Bipartite Graph Check;flows
+user3141,Distance Between Points;flows;geometry;graph matchings,4,Min Cut;Polygon Area;geometry;Distance Between Points;graph matchings
+user3160,,0,Priority Queue;Bipartite Graph Check;shortest paths;dsu;Deque
+user3162,Binary Lifting;Connected Components;Tree DFS;flows;graphs,5,Max Flow;flows;Binary Lifting;Tree DFS;DFS
+user3166,Max Flow;flows;geometry,3,geometry;graph matchings;Max Flow;Distance Between Points;flows
+user3176,,0,Hash Map;interactive;Binary Search on Answer;graphs;Simulation
+user3188,Tree DFS;binary search;data structures;divide and conquer;trees;two pointers,6,trees;data structures;Fenwick Tree;divide and conquer;binary search
+user3195,bitmasks;brute force;divide and conquer;dp,4,divide and conquer;dp;brute force;Meet-in-the-middle;Bitmask DP
+user3201,constructive algorithms;interactive,2,constructive algorithms;interactive;Simulation;Brute Force Enumeration;implementation
+user3207,geometry,1,geometry;Distance Between Points;Interval DP;Priority Queue;2D DP
+user3220,,0,geometry;graph matchings;2D DP;dsu;Knapsack
+user324,,0,flows;ternary search;Max Flow;shortest paths;Binary Lifting
+user3245,,0,graphs;trees;dsu;dp;binary search
+user3252,brute force;number theory;trees,3,brute force;number theory;trees;constructive algorithms;binary search
+user3253,Tree DFS;brute force;data structures;graphs;greedy;sortings;trees,7,trees;graphs;data structures;binary search;brute force
+user3261,Max Flow;flows;graph matchings,3,Max Flow;flows;graph matchings;Priority Queue;Bipartite Graph Check
+user3265,flows;graph matchings,2,graph matchings;flows;Bipartite Graph Check;geometry;Strongly Connected Components
+user3272,,0,ternary search;Binary Lifting;dsu;Binary Search on Answer;Monotonic Stack
+user3292,Max Flow;geometry,2,geometry;Max Flow;flows;Strongly Connected Components;2D DP
+user3308,bitmasks,1,bitmasks;Bitmask Enumeration;data structures;games;math
+user3310,,0,Priority Queue;dsu;geometry;Distance Between Points;Binary Search on Answer
+user3317,graph matchings,1,graph matchings;Max Flow;Polygon Area;2-sat;geometry
+user3328,Bitmask Enumeration;Prime Sieve;bitmasks;data structures;number theory,5,number theory;bitmasks;Prime Sieve;data structures;Prime Factorization
+user3336,geometry,1,geometry;flows;2-sat;Strongly Connected Components;2D DP
+user3360,data structures;two pointers,2,data structures;two pointers;binary search;Hash Map;brute force
+user3363,binary search;bitmasks;brute force;divide and conquer;graphs;greedy;trees;two pointers,8,brute force;divide and conquer;graphs;bitmasks;binary search
+user3376,geometry,1,geometry;Max Flow;flows;Bipartite Graph Check;2D DP
+user3386,Binary Search on Array;binary search;data structures;two pointers,4,two pointers;binary search;data structures;Binary Search on Array;Binary Search on Answer
+user3392,,0,flows;Ordered Set;graphs;shortest paths;binary search
+user3400,,0,ternary search;2D DP;Knapsack;graph matchings;hashing
+user3401,Binary Search on Array;Connected Components;Dijkstra;Graph Representation;binary search;divide and conquer;graphs;shortest paths,8,divide and conquer;shortest paths;binary search;Binary Search on Answer;Dijkstra
+user3407,Distance Between Points;Max Flow;flows;geometry;graph matchings,5,Orientation Test;Polygon Area;geometry;graph matchings;Max Flow
+user3413,,0,Max Flow;flows;graph matchings;Binary Lifting;Binary Search on Answer
+user3439,Bitmask Enumeration;Difference Array;bitmasks;brute force;dsu,5,Bitmask Enumeration;bitmasks;dsu;brute force;Difference Array
+user3455,binary search;divide and conquer;trees,3,binary search;trees;divide and conquer;greedy;dp
+user3474,,0,geometry;2D DP;Hash Map;Monotonic Stack;dsu
+user3486,Line Intersection;Orientation Test;flows;geometry;graph matchings,5,Line Intersection;Orientation Test;geometry;Distance Between Points;graph matchings
+user349,,0,divide and conquer;flows;Bitmask Enumeration;dp;trees
+user3514,,0,trees;divide and conquer;shortest paths;graphs;Tree DFS
+user3520,,0,graphs;trees;dsu;dp;combinatorics
+user3538,graph matchings,1,graph matchings;flows;Interval DP;2D DP;dsu
+user3541,Brute Force Enumeration;DFS;Monotonic Stack;Simulation;Stack;Tree DFS;binary search;brute force;constructive algorithms;data structures;divide and conquer;dp;dsu;graphs;greedy;implementation;interactive;shortest paths;trees;two pointers,20,graphs;shortest paths;divide and conquer;trees;flows
+user3549,,0,Max Flow;graph matchings;flows;Bipartite Graph Check;2-sat
+user3553,Distance Between Points;geometry;graph matchings,3,Min Cut;geometry;Distance Between Points;graph matchings;flows
+user3561,Distance Between Points;geometry;graph matchings,3,Orientation Test;geometry;Distance Between Points;graph matchings;Max Flow
+user3563,1D DP;Binary Search on Array;Brute Force Enumeration;DP on DAG;Greedy Sorting;Hash Map;Ordered Set;Segment Tree;Tree DFS;Two Pointers on Sorted Array;binary search;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;dp;graphs;greedy;implementation;sortings;strings;trees;two pointers,24,divide and conquer;dp;two pointers;brute force;trees
+user3565,,0,ternary search;Hash Map;Binary Search on Answer;binary search;Binary Search on Array
+user3573,Bitmask Enumeration;bitmasks;games;math;number theory,5,bitmasks;Bitmask Enumeration;math;number theory;games
+user3584,,0,geometry;Ordered Set;Tree DFS;2D DP;Hash Map
+user3589,brute force;data structures;two pointers,3,data structures;two pointers;brute force;binary search;bitmasks
+user3611,geometry,1,geometry;graph matchings;Max Flow;flows;Strongly Connected Components
+user362,,0,flows;geometry;shortest paths;graphs;Tree Diameter
+user3647,Binary Search on Array;Bitmask Enumeration;Fenwick Tree;binary search;bitmasks;brute force;data structures;divide and conquer;greedy;implementation;sortings;two pointers,12,brute force;two pointers;bitmasks;greedy;data structures
+user3649,Polygon Area;geometry,2,Polygon Area;geometry;graph matchings;Distance Between Points;Bipartite Graph Check
+user3657,Activity Selection;Binary Search on Answer;Binary Search on Array;Brute Force Enumeration;Custom Comparator Sorting;Greedy Sorting;Simulation;binary search;brute force;constructive algorithms;divide and conquer;greedy;implementation;sortings;ternary search;trees;two pointers,17,greedy;binary search;Binary Search on Array;sortings;Activity Selection
+user3658,Distance Between Points;geometry,2,Max Flow;Polygon Area;geometry;Distance Between Points;flows
+user3660,,0,ternary search;graph matchings;Binary Search on Answer;flows;graphs
+user3667,,0,games;graphs;trees;combinatorics;math
+user3669,geometry,1,geometry;flows;graph matchings;Distance Between Points;Ordered Set
+user368,,0,binary search;ternary search;dp;trees;Binary Search on Answer
+user3685,,0,geometry;flows;Min Cut;Binary Lifting;Convex Hull
+user3686,,0,Max Flow;flows;geometry;graph matchings;Multiset
+user3712,Bitmask Enumeration;Fenwick Tree;Graph Representation;Ordered Set;Priority Queue;Segment Tree;Tree DFS;binary search;bitmasks;brute force;data structures;divide and conquer;dsu;graphs;math;number theory;shortest paths;trees;two pointers,19,data structures;trees;graphs;divide and conquer;shortest paths
+user3721,Distance Between Points;geometry,2,graph matchings;geometry;flows;Distance Between Points;Bipartite Graph Check
+user373,geometry,1,Polygon Area;geometry;Convex Hull;graph matchings;Distance Between Points
+user3730,,0,graph matchings;ternary search;flows;2-sat;Dijkstra
+user3734,,0,trees;Hash Map;dsu;Tree DFS;data structures
+user3739,Max Flow;flows;graph matchings,3,Max Flow;graph matchings;flows;Priority Queue;geometry
+user3755,,0,brute force;trees;graphs;divide and conquer;binary search
+user3756,,0,divide and conquer;graphs;shortest paths;flows;Ordered Set
+user3757,geometry,1,Orientation Test;Polygon Area;geometry;Distance Between Points;graph matchings
+user3758,Bitmask Enumeration;Difference Array;Divisors;Tree DFS;bitmasks;data structures;dsu;number theory;trees,9,dsu;Monotonic Queue;Monotonic Stack;Difference Array;Queue
+user3774,geometry;graph matchings,2,geometry;Polygon Area;graph matchings;Max Flow;flows
+user3778,graphs;shortest paths,2,graphs;shortest paths;two pointers;flows;divide and conquer
+user3780,2D DP;DP on DAG;Interval DP;Knapsack;Line Intersection;geometry,6,Interval DP;Edit Distance;Line Intersection;2D DP;Knapsack
+user3784,,0,graph matchings;Max Flow;flows;Ordered Set;Bipartite Graph Check
+user3795,graph matchings,1,graph matchings;Polygon Area;geometry;flows;2-sat
+user3821,Binary Search on Array;Bitmask Enumeration;Fenwick Tree;Ordered Set;binary search;bitmasks;brute force;data structures;games;greedy;math;sortings;two pointers,13,bitmasks;brute force;two pointers;data structures;Bitmask Enumeration
+user3835,Min Cut;flows;graph matchings,3,Min Cut;Max Flow;flows;graph matchings;Priority Queue
+user3840,Convex Hull;Distance Between Points;Max Flow;Orientation Test;Polygon Area;geometry;graph matchings,7,Line Intersection;Orientation Test;Polygon Area;geometry;Convex Hull
+user3849,,0,geometry;Bipartite Graph Check;2D DP;Hash Map;Priority Queue
+user3855,Line Intersection;geometry;graph matchings,3,Min Cut;Line Intersection;geometry;Distance Between Points;graph matchings
+user3859,bitmasks;brute force;trees,3,dp;brute force;trees;Bitmask DP;bitmasks
+user3860,,0,geometry;graph matchings;flows;dsu;BFS
+user3869,,0,dp;Monotonic Queue;Meet-in-the-middle;Bitmask DP;dsu
+user3882,binary search;brute force;constructive algorithms;divide and conquer;flows;graphs;greedy;implementation;shortest paths;trees,10,graphs;divide and conquer;brute force;shortest paths;greedy
+user3886,,0,geometry;Max Flow;flows;Shortest Path in DAG;Knapsack
+user3888,,0,trees;graphs;flows;shortest paths;Max Flow
+user3901,,0,Priority Queue;graphs;shortest paths;DFS;trees
+user3904,Binary Search on Array;Brute Force Enumeration;Hash Map;Meet-in-the-middle;Two Pointers on Sorted Array;binary search;brute force;data structures;divide and conquer;dp;flows;geometry;graphs;greedy;implementation;shortest paths;sortings;string suffix structures;trees;two pointers,20,divide and conquer;trees;two pointers;brute force;geometry
+user3908,Binary Search on Array;binary search;brute force;data structures;divide and conquer;dp;greedy;sortings;trees;two pointers,10,divide and conquer;two pointers;binary search;data structures;greedy
+user391,,0,geometry;flows;divide and conquer;shortest paths;trees
+user3911,,0,flows;Max Flow;trees;graphs;Tree DFS
+user3912,Binary Search on Answer;Binary Search on Array;binary search;bitmasks;brute force;divide and conquer;greedy;sortings;trees;two pointers,10,binary search;brute force;greedy;Binary Search on Array;divide and conquer
+user3913,Distance Between Points;flows;geometry,3,Min Cut;geometry;flows;Distance Between Points;graph matchings
+user3926,Dijkstra,1,graph matchings;Dijkstra;flows;2-sat;Priority Queue
+user3939,,0,interactive;constructive algorithms;binary search;Binary Search on Array;Simulation
+user3940,,0,Binary Lifting;Priority Queue;ternary search;dsu;hashing
+user3953,flows;geometry;graph matchings,3,geometry;Distance Between Points;graph matchings;Max Flow;flows
+user3957,,0,graph matchings;Dijkstra;shortest paths;Bipartite Graph Check;Topological Sort
+user3970,geometry,1,geometry;Priority Queue;Strongly Connected Components;2D DP;Dijkstra
+user3974,Brute Force Enumeration;Greedy Sorting;Simulation;State Simulation;Tree DP;bitmasks;brute force;constructive algorithms;data structures;dp;fft;graphs;greedy;implementation;interactive;sortings;strings;trees;two pointers,19,divide and conquer;brute force;constructive algorithms;implementation;greedy
+user3977,Bitmask Enumeration;bitmasks;brute force;divide and conquer;dp;graphs;shortest paths;trees,8,divide and conquer;brute force;bitmasks;graphs;dp
+user3985,bitmasks;brute force;data structures;divide and conquer;graphs;math;number theory;shortest paths;trees,9,bitmasks;brute force;graphs;data structures;trees
+user3989,Bitmask DP;Brute Force Enumeration;DFS;Simulation;Tree DFS;Tree DP;brute force;constructive algorithms;divide and conquer;dp;graphs;hashing;implementation;interactive;shortest paths;strings;trees,17,divide and conquer;fft;dp;trees;brute force
+user4000,Line Intersection,1,Line Intersection;flows;geometry;Bipartite Graph Check;2D DP
+user402,Binary Search on Array;Bitmask Enumeration;Custom Comparator Sorting;Distance Between Points;Sliding Window;Two Pointers on Sorted Array;binary search;bitmasks;brute force;data structures;divide and conquer;geometry;greedy;sortings;trees;two pointers,16,geometry;Polygon Area;Distance Between Points;sortings;two pointers
+user4037,,0,ternary search;dp;fft;Binary Search on Answer;Meet-in-the-middle
+user4041,Distance Between Points;geometry,2,geometry;Max Flow;graph matchings;Distance Between Points;flows
+user4042,Convex Hull;Ordered Set;geometry,3,geometry;Fenwick Tree;Ordered Set;Convex Hull;Mo's Algorithm
+user4045,,0,2D DP;Priority Queue;Knapsack;Hash Map;BFS
+user4088,geometry;graph matchings,2,geometry;graph matchings;flows;Bipartite Graph Check;2D DP
+user4108,,0,dp;fft;divide and conquer;DP on DAG;Tree DP
+user4122,,0,hashing;ternary search;trees;Suffix Automaton;Topological Sort
+user4123,Connected Components;DFS;Tree DFS;divide and conquer;dsu;graph matchings;graphs;trees,8,shortest paths;trees;graphs;Tree DFS;DFS
+user4127,2D DP;Knapsack;Tree DP;dp,4,dp;Interval DP;Tree DP;DP on DAG;2D DP
+user4138,Binary Search on Array;Bitmask Enumeration;Brute Force Enumeration;DFS;Graph Representation;Meet-in-the-middle;Ordered Set;binary search;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;dp;graphs;greedy;implementation;number theory;shortest paths;sortings;trees;two pointers,22,divide and conquer;brute force;graphs;trees;two pointers
+user4139,Bitmask Enumeration;bitmasks;brute force;data structures;graphs;shortest paths,6,bitmasks;Bitmask Enumeration;brute force;graphs;shortest paths
+user4142,geometry;graph matchings,2,geometry;Convex Hull;Distance Between Points;graph matchings;Max Flow
+user4148,Binary Lifting;Bitmask Enumeration;Brute Force Enumeration;Max Flow;Monotonic Stack;Prefix Sum;Priority Queue;Simulation;Stack;Tree DFS;Tree Diameter;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;dp;dsu;flows;graph matchings;graphs;greedy;implementation;trees;two pointers,25,graphs;shortest paths;divide and conquer;flows;Max Flow
+user4154,Distance Between Points;geometry;graph matchings,3,Orientation Test;geometry;Distance Between Points;graph matchings;flows
+user4163,trees,1,trees;ternary search;Sparse Table;Tree Diameter;binary search
+user4167,Binary Search on Answer;Binary Search on Array;Bitmask Enumeration;Coordinate Compression;binary search;bitmasks;brute force;data structures;divide and conquer;geometry;graphs;greedy;implementation;sortings;trees;two pointers,16,binary search;brute force;geometry;greedy;two pointers
+user4173,,0,ternary search;binary search;trees;flows;Binary Search on Array
+user4177,Brute Force Enumeration;Simulation;Tree DP;brute force;constructive algorithms;data structures;divide and conquer;dp;greedy;implementation;interactive;trees,12,brute force;divide and conquer;trees;constructive algorithms;dp
+user4179,Bitmask Enumeration;Brute Force Enumeration;Hash Map;binary search;bitmasks;brute force;data structures;divide and conquer;dp;greedy;implementation;shortest paths;two pointers,13,brute force;data structures;two pointers;bitmasks;divide and conquer
+user4183,Brute Force Enumeration;Connected Components;Hash Map;Simulation;Tree DFS;Tree DP;binary search;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;dp;graphs;greedy;hashing;implementation;interactive;shortest paths;strings;trees;two pointers,22,trees;divide and conquer;shortest paths;graphs;Tree DFS
+user420,Max Flow;flows;geometry;graph matchings,4,Line Intersection;geometry;graph matchings;Max Flow;flows
+user4202,,0,geometry;Distance Between Points;Max Flow;flows;Multiset
+user4209,graphs,1,graphs;shortest paths;divide and conquer;Ordered Set;trees
+user4223,divide and conquer;dp;fft;graphs;shortest paths,5,shortest paths;divide and conquer;flows;graphs;fft
+user423,Expected Value;Permutations;bitmasks;brute force;combinatorics;games;probabilities;trees,8,games;probabilities;combinatorics;trees;bitmasks
+user4233,,0,Priority Queue;geometry;dsu;Distance Between Points;Polygon Area
+user4239,flows;geometry;graph matchings,3,graph matchings;geometry;flows;Distance Between Points;Shortest Path in DAG
+user4259,geometry,1,geometry;Max Flow;flows;Priority Queue;Hash Map
+user4280,chinese remainder theorem;number theory,2,chinese remainder theorem;number theory;Prime Factorization;Prime Sieve;bitmasks
+user4281,,0,dp;Ordered Set;data structures;Hash Map;dsu
+user4286,Distance Between Points;Line Intersection;Orientation Test;Polygon Area;geometry;graph matchings,6,Line Intersection;Orientation Test;Polygon Area;geometry;Convex Hull
+user429,,0,Ordered Set;DP on DAG;graphs;Tree DP;trees
+user4295,,0,Binary Search on Answer;graphs;Tree DFS;2D DP;hashing
+user4308,,0,geometry;Ordered Set;ternary search;Orientation Test;Binary Search on Answer
+user4314,geometry,1,Orientation Test;geometry;Distance Between Points;Max Flow;flows
+user4316,geometry,1,Max Flow;flows;Line Intersection;graph matchings;geometry
+user4318,,0,Min Cut;graph matchings;flows;2-sat;Bipartite Graph Check
+user4328,,0,geometry;Ordered Set;Hash Map;Multiset;ternary search
+user4331,2-sat;Bipartite Graph Check;Convex Hull;Distance Between Points;Line Intersection;Max Flow;Orientation Test;flows;geometry;graph matchings,10,Line Intersection;Max Flow;Orientation Test;graph matchings;Distance Between Points
+user4340,Line Intersection,1,Line Intersection;flows;geometry;graph matchings;2-sat
+user4371,,0,dsu;Priority Queue;Monotonic Stack;Bitmask Enumeration;Difference Array
+user4377,,0,Bitmask Enumeration;Ordered Set;bitmasks;data structures;dsu
+user4384,,0,combinatorics;trees;Combinations;Monotonic Stack;math
+user4392,Binary Search on Answer;Fenwick Tree;Meet-in-the-middle;binary search;brute force;data structures;divide and conquer;greedy;sortings;ternary search;trees;two pointers,12,binary search;divide and conquer;ternary search;greedy;Binary Search on Answer
+user4408,,0,flows;graph matchings;Dijkstra;dsu;Monotonic Stack
+user442,Binary Search on Answer;Binary Search on Array;Brute Force Enumeration;Meet-in-the-middle;String Matching;Tree DFS;Tree DP;binary search;brute force;constructive algorithms;data structures;divide and conquer;dp;greedy;hashing;interactive;string suffix structures;strings;ternary search;trees;two pointers,21,string suffix structures;binary search;ternary search;strings;hashing
+user4426,BFS;Brute Force Enumeration;Connected Components;DFS;Difference Array;Dijkstra;Graph Representation;Meet-in-the-middle;Monotonic Stack;Prefix Sum;Priority Queue;Segment Tree;Simulation;Stack;State Simulation;Two Pointers on Sorted Array;binary search;brute force;constructive algorithms;data structures;divide and conquer;dsu;graphs;greedy;implementation;interactive;shortest paths;trees;two pointers,29,shortest paths;Priority Queue;data structures;Dijkstra;dsu
+user4440,2-sat;BFS;DFS;Max Flow;Strongly Connected Components;flows;graph matchings;graphs,8,graph matchings;Bipartite Graph Check;2-sat;Max Flow;flows
+user4443,flows;geometry;graph matchings,3,flows;Line Intersection;geometry;graph matchings;2-sat
+user4454,geometry,1,Polygon Area;geometry;flows;Interval DP;Connected Components
+user4459,Distance Between Points;geometry,2,geometry;Distance Between Points;graph matchings;flows;Bipartite Graph Check
+user4461,Distance Between Points;flows;geometry;graph matchings,4,geometry;Distance Between Points;graph matchings;Max Flow;flows
+user4466,Distance Between Points;Max Flow;flows;geometry;graph matchings,5,graph matchings;Max Flow;geometry;Distance Between Points;flows
+user447,,0,Binary Lifting;ternary search;trees;Lowest Common Ancestor;Tree DFS
+user4477,Max Flow;flows;geometry;graph matchings,4,Max Flow;graph matchings;flows;geometry;Distance Between Points
+user4493,flows;geometry,2,geometry;Convex Hull;flows;graph matchings;Hash Map
+user4499,,0,Max Flow;flows;Lazy Segment Tree;2D DP;Binary Lifting
+user4536,Fenwick Tree;Meet-in-the-middle;binary search;bitmasks;data structures;divide and conquer;dp;trees;two pointers,9,trees;divide and conquer;binary search;data structures;Fenwick Tree
+user4549,Binary Search on Array;Bitmask Enumeration;Brute Force Enumeration;Greedy Sorting;Two Pointers on Sorted Array;binary search;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;dp;graphs;greedy;implementation;shortest paths;sortings;trees;two pointers,19,divide and conquer;brute force;greedy;two pointers;Meet-in-the-middle
+user4558,,0,Ordered Set;dsu;Binary Search on Answer;Hash Map;trees
+user4561,,0,graph matchings;flows;2-sat;Bipartite Graph Check;Line Intersection
+user457,flows;geometry;graph matchings,3,Polygon Area;geometry;graph matchings;flows;2-sat
+user4579,,0,ternary search;graphs;trees;Binary Search on Answer;dsu
+user4598,,0,geometry;Max Flow;Convex Hull;flows;ternary search
+user46,Brute Force Enumeration;Hash Map;Ordered Set;Sliding Window;binary search;brute force;data structures;divide and conquer;dsu;hashing;strings;trees;two pointers,13,Multiset;data structures;Hash Map;two pointers;Ordered Set
+user4601,flows;graph matchings,2,graph matchings;Max Flow;flows;2-sat;Bipartite Graph Check
+user4617,Binary Lifting;Sparse Table;Tree DFS;Tree Diameter;trees,5,trees;Binary Lifting;Tree Diameter;Tree DFS;Sparse Table
+user4619,Bitmask Enumeration;Difference Array;GCD;Modular Arithmetic;Prefix Sum;Prime Factorization;Prime Sieve;Simulation;Stack;bitmasks;brute force;combinatorics;constructive algorithms;dsu;games;implementation;interactive;math;matrices;number theory,20,number theory;Prime Factorization;Prime Sieve;math;games
+user463,,0,dsu;Multiset;Priority Queue;Binary Search on Answer;data structures
+user4650,geometry,1,Line Intersection;geometry;graph matchings;Max Flow;flows
+user4655,divide and conquer;geometry;graphs;trees,4,geometry;trees;graphs;divide and conquer;Polygon Area
+user466,Bitmask Enumeration;Tree DFS;binary search;bitmasks;brute force;combinatorics;dp;fft;games;graphs;number theory;probabilities;ternary search;trees,14,trees;divide and conquer;brute force;probabilities;games
+user4666,,0,binary search;ternary search;trees;Binary Lifting;Binary Search on Answer
+user4672,,0,Hash Map;flows;geometry;trees;shortest paths
+user4675,Tree DFS;binary search;brute force;data structures;divide and conquer;graphs;greedy;shortest paths;trees;two pointers,10,trees;divide and conquer;graphs;Binary Lifting;shortest paths
+user4682,Bitmask Enumeration;Combinations;Divisors;GCD;LCM;Modular Arithmetic;Modular Combinations;Permutations;Prefix Sum;Priority Queue;Simulation;bitmasks;chinese remainder theorem;combinatorics;constructive algorithms;dsu;games;interactive;math;matrices;number theory;ternary search,22,Prime Factorization;chinese remainder theorem;number theory;Divisors;Prime Sieve
+user4685,,0,Line Intersection;geometry;Distance Between Points;ternary search;2D DP
+user4686,Fenwick Tree;binary search;trees;two pointers,4,two pointers;trees;Fenwick Tree;binary search;Binary Lifting
+user4690,Binary Search on Array;Greedy Sorting;binary search;bitmasks;brute force;data structures;greedy;math;number theory;sortings;string suffix structures;two pointers,12,binary search;two pointers;bitmasks;Binary Search on Array;greedy
+user4706,flows;geometry,2,flows;geometry;shortest paths;Priority Queue;Distance Between Points
+user4710,Line Intersection;Max Flow;geometry;graph matchings,4,Line Intersection;geometry;Distance Between Points;Max Flow;graph matchings
+user4718,geometry,1,geometry;flows;Priority Queue;Topological Sort;2D DP
+user473,geometry;graph matchings,2,graph matchings;geometry;Max Flow;flows;Bipartite Graph Check
+user4734,,0,Multiset;Hash Map;Max Flow;Priority Queue;flows
+user4737,flows;geometry,2,Max Flow;graph matchings;flows;geometry;Distance Between Points
+user475,,0,geometry;Multiset;Hash Map;Priority Queue;Queue
+user4758,Polygon Area;geometry,2,geometry;Polygon Area;Distance Between Points;graph matchings;flows
+user476,,0,ternary search;binary search;Binary Search on Answer;Binary Search on Array;trees
+user4762,,0,dsu;shortest paths;Tree DFS;Binary Search on Answer;graphs
+user478,Max Flow;graph matchings,2,graph matchings;Max Flow;Bipartite Graph Check;hashing;Monotonic Queue
+user4785,,0,Multiset;geometry;Ordered Set;Lowest Common Ancestor;Binary Search on Answer
+user4804,Dijkstra;Distance Between Points;dsu;geometry,4,geometry;Priority Queue;Distance Between Points;Dijkstra;dsu
+user4808,,0,geometry;Hash Map;Ordered Set;Orientation Test;hashing
+user482,divide and conquer,1,divide and conquer;dp;trees;brute force;Tree DP
+user4827,geometry,1,geometry;Convex Hull;Max Flow;flows;Interval DP
+user4832,graph matchings,1,graph matchings;Orientation Test;geometry;flows;Distance Between Points
+user4835,Distance Between Points;geometry;graph matchings,3,Polygon Area;geometry;Distance Between Points;Max Flow;graph matchings
+user4841,Meet-in-the-middle;binary search;brute force;divide and conquer;dp;shortest paths;trees,7,divide and conquer;trees;fft;binary search;brute force
+user4845,,0,ternary search;trees;binary search;Binary Search on Answer;divide and conquer
+user4856,binary search;greedy,2,greedy;binary search;Interval Scheduling;Greedy Sorting;constructive algorithms
+user4867,Binary Search on Array;Ordered Set;binary search;data structures;games;math;sortings;two pointers,8,two pointers;data structures;Ordered Set;binary search;Binary Search on Array
+user4875,flows,1,flows;graph matchings;2-sat;shortest paths;Multiset
+user4878,Conditional Probability;Tree DFS;binary search;bitmasks;brute force;combinatorics;constructive algorithms;dp;graphs;implementation;math;number theory;probabilities;trees,14,trees;probabilities;games;brute force;combinatorics
+user4882,Line Intersection;Max Flow;geometry;graph matchings,4,Line Intersection;Polygon Area;geometry;graph matchings;Max Flow
+user489,Polygon Area;geometry;graph matchings,3,Line Intersection;Polygon Area;geometry;Distance Between Points;graph matchings
+user4895,,0,geometry;graph matchings;Distance Between Points;flows;Ordered Set
+user4898,Brute Force Enumeration;Dijkstra;Meet-in-the-middle;Suffix Array;Tree DFS;Tree DP;constructive algorithms;data structures;divide and conquer;dp;dsu;fft;interactive;shortest paths;string suffix structures;ternary search;trees,17,fft;divide and conquer;dsu;Tree DP;Meet-in-the-middle
+user4911,,0,graphs;dsu;DFS;Monotonic Stack;Tree DFS
+user4912,,0,dp;binary search;Binary Search on Array;strings;1D DP
+user4915,geometry;graph matchings,2,geometry;graph matchings;Max Flow;flows;Distance Between Points
+user492,,0,Binary Search on Answer;binary search;Binary Search on Array;games;combinatorics
+user4934,Binary Search on Array;Coordinate Compression;Custom Comparator Sorting;Polygon Area;Tree DFS;Two Pointers on Sorted Array;binary search;brute force;data structures;divide and conquer;dp;geometry;greedy;sortings;trees;two pointers,16,geometry;Polygon Area;two pointers;sortings;trees
+user4941,,0,geometry;flows;Distance Between Points;Priority Queue;Ordered Set
+user4954,,0,Interval DP;Monotonic Stack;ternary search;dsu;Difference Array
+user4966,,0,geometry;Priority Queue;Hash Map;dsu;Knapsack
+user4986,geometry;graph matchings,2,geometry;Distance Between Points;graph matchings;Priority Queue;2-sat
+user4987,,0,flows;Max Flow;shortest paths;trees;Priority Queue
+user499,,0,Binary Lifting;Ordered Set;Hash Map;games;trees
+user4995,,0,Ordered Set;2D DP;Knapsack;Hash Map;Shortest Path in DAG
+user4996,Distance Between Points;geometry,2,Orientation Test;geometry;Distance Between Points;ternary search;Connected Components
+user5008,,0,geometry;flows;Distance Between Points;Cycle Detection;2D DP
+user5009,,0,shortest paths;graphs;Binary Lifting;Ordered Set;divide and conquer
+user5025,,0,2-sat;Priority Queue;Strongly Connected Components;dsu;graphs
+user5044,Distance Between Points;Max Flow;flows;geometry;graph matchings,5,Min Cut;geometry;Distance Between Points;graph matchings;Max Flow
+user5052,graph matchings,1,geometry;graph matchings;Interval DP;Tree DFS;DFS
+user5069,Max Flow;flows;graph matchings,3,Max Flow;graph matchings;flows;geometry;2-sat
+user5077,geometry,1,geometry;Distance Between Points;graph matchings;flows;Interval DP
+user5086,Convex Hull;Distance Between Points;Line Intersection;Max Flow;geometry;graph matchings,6,Line Intersection;Orientation Test;Polygon Area;geometry;Convex Hull
+user5108,,0,Min Cut;Max Flow;Distance Between Points;graph matchings;flows
+user511,,0,flows;Max Flow;graph matchings;Interval DP;Tree DFS
+user5111,geometry;graph matchings,2,Min Cut;geometry;graph matchings;flows;2D DP
+user5119,Distance Between Points;geometry;graph matchings,3,Line Intersection;Orientation Test;geometry;graph matchings;Distance Between Points
+user5142,Bitmask Enumeration;Combinations;Fast Exponentiation;Permutations;Tree DFS;binary search;bitmasks;brute force;combinatorics;divide and conquer;games;graphs;math;number theory;probabilities;trees,16,games;trees;probabilities;combinatorics;number theory
+user5156,,0,trees;Binary Lifting;ternary search;Sparse Table;dsu
+user5167,,0,flows;shortest paths;dsu;Tree DFS;trees
+user5187,Distance Between Points;Line Intersection;geometry,3,Line Intersection;geometry;Distance Between Points;Priority Queue;Knapsack
+user5195,Backtracking;Brute Force Enumeration;Combinations;Divisors;GCD;Modular Arithmetic;Prime Factorization;Prime Sieve;Simulation;State Simulation;bitmasks;brute force;combinatorics;constructive algorithms;data structures;dsu;games;implementation;interactive;math;number theory,21,number theory;math;bitmasks;Prime Sieve;Bitmask Enumeration
+user5198,flows;geometry,2,flows;Line Intersection;geometry;Distance Between Points;Priority Queue
+user520,binary search,1,binary search;ternary search;constructive algorithms;string suffix structures;brute force
+user5202,,0,graphs;dp;trees;dsu;hashing
+user5204,Binary Search on Array;Bitmask Enumeration;Brute Force Enumeration;Fast Exponentiation;Hash Map;binary search;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;games;graphs;greedy;implementation;math;number theory;shortest paths;sortings;trees;two pointers,21,brute force;two pointers;data structures;bitmasks;binary search
+user5210,Hash Map;Tree DFS;data structures;dsu;trees,5,trees;Tree DFS;Ordered Set;data structures;Hash Map
+user5217,,0,flows;dsu;Hash Map;Knapsack;graphs
+user522,,0,Tree DFS;Hash Map;hashing;graphs;Binary Search on Answer
+user5235,Binary Lifting;Brute Force Enumeration;Connected Components;Dijkstra;Fenwick Tree;Graph Representation;Simulation;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;dp;dsu;graphs;greedy;implementation;interactive;shortest paths;trees;two pointers,21,graphs;shortest paths;trees;divide and conquer;Binary Lifting
+user5236,Max Flow,1,Max Flow;graph matchings;flows;Polygon Area;geometry
+user5251,Convex Hull;Distance Between Points;Max Flow;Orientation Test;Polygon Area;flows;geometry,7,Orientation Test;Polygon Area;geometry;Convex Hull;Distance Between Points
+user5254,divide and conquer;graphs,2,graphs;divide and conquer;2-sat;shortest paths;dp
+user5259,flows,1,flows;graph matchings;Priority Queue;Bipartite Graph Check;geometry
+user5274,,0,shortest paths;graphs;Connected Components;DFS;Tree DFS
+user5276,geometry,1,Polygon Area;graph matchings;geometry;Distance Between Points;flows
+user5288,Bitmask Enumeration;Monotonic Stack;bitmasks,3,Monotonic Stack;Bitmask Enumeration;bitmasks;dsu;Stack
+user5303,flows;graph matchings,2,graph matchings;flows;2-sat;graphs;Connected Components
+user533,Convex Hull;Line Intersection;geometry,3,geometry;Line Intersection;Polygon Area;Convex Hull;Coordinate Compression
+user5332,,0,flows;Multiset;geometry;graph matchings;shortest paths
+user5334,,0,Priority Queue;Ordered Set;dsu;interactive;2-sat
+user5338,flows,1,flows;graph matchings;geometry;Distance Between Points;Priority Queue
+user5356,Distance Between Points;Max Flow;geometry;graph matchings,4,Polygon Area;geometry;Max Flow;Distance Between Points;graph matchings
+user536,geometry,1,geometry;Convex Hull;Max Flow;Distance Between Points;flows
+user5373,,0,Max Flow;flows;2-sat;graph matchings;ternary search
+user5397,Orientation Test;geometry,2,Orientation Test;geometry;graph matchings;Max Flow;flows
+user5409,Activity Selection;Binary Search on Answer;Binary Search on Array;Brute Force Enumeration;Connected Components;DFS;Greedy Sorting;Interval Scheduling;Tree DFS;Two Pointers on Sorted Array;binary search;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;flows;graphs;greedy;implementation;shortest paths;sortings;string suffix structures;trees;two pointers,25,graphs;two pointers;shortest paths;greedy;trees
+user5424,Max Flow,1,Max Flow;graph matchings;flows;ternary search;Monotonic Queue
+user5425,,0,Lowest Common Ancestor;Interval DP;Tree DFS;trees;2D DP
+user5429,Min Cut;flows,2,Min Cut;flows;Max Flow;graph matchings;Binary Lifting
+user5459,divide and conquer;graphs;shortest paths;trees,4,graphs;trees;divide and conquer;shortest paths;Tree DFS
+user547,,0,geometry;flows;Bipartite Graph Check;Ordered Set;DFS
+user5487,,0,ternary search;dsu;graphs;Dijkstra;shortest paths
+user5491,,0,geometry;graph matchings;Distance Between Points;Bipartite Graph Check;2D DP
+user5494,BFS;Binary Lifting;Connected Components;DFS;Graph Representation;Priority Queue;Tree DFS;graph matchings;graphs;shortest paths,10,graphs;DFS;Bipartite Graph Check;Connected Components;BFS
+user5497,Max Flow,1,Max Flow;flows;graph matchings;geometry;2-sat
+user5500,Max Flow;flows;graph matchings,3,flows;Max Flow;graph matchings;2-sat;shortest paths
+user5515,Bipartite Graph Check;Connected Components;DFS;Tree DFS;flows;graph matchings;graphs;shortest paths;trees,9,graphs;flows;trees;graph matchings;DFS
+user5516,,0,Priority Queue;geometry;graphs;dsu;Hash Map
+user5521,,0,geometry;Cycle Detection;Hash Map;dsu;Monotonic Stack
+user5533,Binary Search on Array;Bitmask Enumeration;Fast Exponentiation;binary search;bitmasks;brute force;combinatorics;data structures;dp;games;greedy;math;two pointers,13,bitmasks;brute force;Bitmask Enumeration;games;two pointers
+user5536,graph matchings,1,graph matchings;flows;2-sat;geometry;Priority Queue
+user5539,geometry,1,geometry;divide and conquer;graphs;flows;two pointers
+user5550,1D DP;Bitmask DP;Meet-in-the-middle;Tree DFS;Tree DP;brute force;divide and conquer;dp;shortest paths;trees,10,dp;divide and conquer;Meet-in-the-middle;Tree DP;trees
+user5558,,0,binary search;Fenwick Tree;two pointers;data structures;Binary Search on Array
+user5560,1D DP;2D DP;Bitmask DP;DP on DAG;Digit DP;Interval DP;Knapsack;Monotonic Stack;Ordered Set;Segment Tree;Tree DP;brute force;data structures;divide and conquer;dp;dsu;shortest paths,17,dp;Multiset;Bitmask DP;shortest paths;DP on DAG
+user5566,,0,geometry;2-sat;Bipartite Graph Check;Strongly Connected Components;Interval DP
+user5567,Distance Between Points;Orientation Test;flows;geometry;graph matchings,5,Orientation Test;geometry;Distance Between Points;graph matchings;Max Flow
+user5577,geometry,1,geometry;graph matchings;Shortest Path in DAG;Knapsack;Connected Components
+user5578,Line Intersection;geometry,2,Line Intersection;geometry;Distance Between Points;graph matchings;Priority Queue
+user5591,Max Flow;geometry,2,geometry;graph matchings;Max Flow;flows;2-sat
+user5603,geometry,1,geometry;Distance Between Points;graph matchings;flows;2-sat
+user5617,,0,Binary Search on Answer;flows;Binary Search on Array;geometry;binary search
+user5618,,0,geometry;graph matchings;Max Flow;Distance Between Points;flows
+user5639,flows,1,Max Flow;graph matchings;flows;Dijkstra;Bipartite Graph Check
+user5641,2-sat,1,2-sat;Max Flow;graph matchings;flows;graphs
+user5666,Convex Hull;Distance Between Points;Line Intersection;Max Flow;Orientation Test;Polygon Area;flows;geometry;graph matchings,9,Min Cut;Line Intersection;Orientation Test;Polygon Area;geometry
+user5674,Distance Between Points;Line Intersection;geometry,3,Line Intersection;geometry;Distance Between Points;graph matchings;flows
+user5676,,0,graphs;dsu;dp;Sliding Window;combinatorics
+user5687,geometry,1,geometry;flows;Interval DP;2D DP;Dijkstra
+user569,,0,graphs;shortest paths;dsu;ternary search;trees
+user5700,Bitmask Enumeration;Difference Array;Fenwick Tree;Ordered Set;Segment Tree;bitmasks;brute force;data structures;dsu;games;greedy;implementation;math;number theory;two pointers,15,bitmasks;Bitmask Enumeration;brute force;data structures;Fenwick Tree
+user5717,Binary Search on Answer;Binary Search on Array;Tree DFS;binary search;brute force;data structures;dsu;greedy;trees;two pointers,10,trees;data structures;binary search;two pointers;Binary Search on Array
+user572,Priority Queue,1,Priority Queue;dsu;Monotonic Stack;Dijkstra;Tree Diameter
+user5722,Max Flow;flows;graph matchings,3,graph matchings;Max Flow;flows;Bipartite Graph Check;Dijkstra
+user5726,,0,flows;Max Flow;shortest paths;graphs;ternary search
+user5727,Orientation Test;geometry,2,Orientation Test;geometry;Distance Between Points;Convex Hull;Max Flow
+user5741,Distance Between Points;geometry,2,geometry;Polygon Area;Distance Between Points;graph matchings;flows
+user5776,graph matchings,1,flows;graph matchings;2-sat;Priority Queue;geometry
+user5778,flows,1,graph matchings;flows;Dijkstra;Topological Sort;Priority Queue
+user5784,,0,hashing;strings;KMP;Hash Map;string suffix structures
+user5795,,0,dp;divide and conquer;fft;Meet-in-the-middle;brute force
+user5808,geometry,1,Polygon Area;geometry;Distance Between Points;2D DP;2-sat
+user5821,flows,1,Max Flow;flows;graph matchings;geometry;Hash Map
+user5828,Line Intersection;geometry,2,Line Intersection;geometry;flows;2D DP;Priority Queue
+user5830,graph matchings,1,Max Flow;flows;graph matchings;Bipartite Graph Check;Priority Queue
+user5832,,0,graphs;trees;Tree DFS;Binary Search on Answer;binary search
+user5839,Orientation Test;geometry,2,Line Intersection;geometry;Orientation Test;Convex Hull;Distance Between Points
+user584,,0,Binary Lifting;Hash Map;Max Flow;flows;Lazy Segment Tree
+user5850,flows;geometry;graph matchings,3,graph matchings;flows;geometry;Polygon Area;Distance Between Points
+user5854,Binary Search on Array;Max Flow;binary search;flows;graphs;shortest paths;trees;two pointers,8,graphs;binary search;trees;Fenwick Tree;shortest paths
+user5857,,0,trees;divide and conquer;graphs;brute force;Binary Lifting
+user5861,Max Flow;graph matchings,2,Max Flow;graph matchings;flows;geometry;Polygon Area
+user5866,,0,graphs;Binary Search on Answer;Monotonic Stack;binary search;divide and conquer
+user5875,,0,Priority Queue;dsu;Queue;shortest paths;Max Flow
+user5884,Bitmask DP;Bitmask Enumeration;Brute Force Enumeration;Prefix Sum;Simulation;Stack;State Simulation;bitmasks;brute force;constructive algorithms;dsu;implementation;interactive;number theory,14,constructive algorithms;interactive;Simulation;Prefix Sum;implementation
+user5885,,0,flows;Priority Queue;Bipartite Graph Check;Hash Map;dsu
+user589,geometry,1,geometry;Distance Between Points;Max Flow;graph matchings;flows
+user5904,,0,geometry;binary search;Binary Search on Array;flows;Binary Search on Answer
+user5910,Distance Between Points;geometry,2,geometry;Distance Between Points;Priority Queue;2D DP;Topological Sort
+user5917,Orientation Test;geometry;graph matchings,3,Min Cut;Orientation Test;geometry;graph matchings;Distance Between Points
+user5918,,0,binary search;geometry;Knapsack;Binary Search on Array;2D DP
+user5945,Monotonic Stack;Priority Queue;Stack;dsu,4,dsu;Difference Array;Monotonic Stack;Priority Queue;Stack
+user5952,Distance Between Points;geometry;graph matchings,3,Polygon Area;geometry;graph matchings;Distance Between Points;Max Flow
+user5959,Max Flow;flows,2,graph matchings;Max Flow;flows;graphs;Connected Components
+user596,trees,1,trees;binary search;brute force;graphs;two pointers
+user5971,Max Flow;graph matchings,2,geometry;Distance Between Points;graph matchings;Max Flow;flows
+user5974,binary search;divide and conquer;graphs;trees,4,shortest paths;divide and conquer;trees;graphs;binary search
+user5979,geometry,1,geometry;flows;Max Flow;Interval DP;Topological Sort
+user5980,BFS;Binary Lifting;Binary Search on Answer;Binary Search on Array;Connected Components;DFS;Graph Representation;Greedy Sorting;Topological Sort;Tree DFS;binary search;brute force;constructive algorithms;data structures;divide and conquer;dp;flows;graph matchings;graphs;greedy;implementation;shortest paths;sortings;string suffix structures;ternary search;trees;two pointers,27,divide and conquer;graphs;trees;shortest paths;binary search
+user5989,Binary Search on Array;Bitmask Enumeration;binary search;bitmasks;brute force;data structures;divide and conquer;games;greedy;implementation;trees;two pointers,12,brute force;two pointers;bitmasks;binary search;data structures
+user5996,1D DP;2D DP;Bitmask DP;Brute Force Enumeration;DP on DAG;Fenwick Tree;Hash Map;Knapsack;Longest Increasing Subsequence;Mo's Algorithm;Segment Tree;Tree DP;binary search;bitmasks;brute force;data structures;divide and conquer;dp;greedy;shortest paths;string suffix structures;trees;two pointers,23,dp;divide and conquer;brute force;Bitmask DP;1D DP
+user6014,,0,2D DP;geometry;dp;Strongly Connected Components;Interval DP
+user602,,0,Max Flow;flows;graph matchings;Dijkstra;Priority Queue
+user6037,,0,2-sat;Priority Queue;Ordered Set;Strongly Connected Components;Hash Map
+user604,Ordered Set;data structures;dsu;two pointers,4,dsu;Queue;Ordered Set;Monotonic Stack;data structures
+user6088,graphs,1,geometry;graphs;trees;greedy;binary search
+user6091,1D DP;Backtracking;Brute Force Enumeration;Meet-in-the-middle;Prefix Function;Segment Tree;Simulation;String Matching;Tree DFS;Tree DP;Trie;binary search;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;dp;flows;graphs;greedy;hashing;implementation;interactive;shortest paths;string suffix structures;strings;trees;two pointers,29,strings;divide and conquer;string suffix structures;brute force;hashing
+user6105,,0,Fenwick Tree;trees;data structures;binary search;ternary search
+user614,,0,Polygon Area;graph matchings;geometry;Distance Between Points;flows
+user6140,Max Flow;flows;graph matchings,3,Max Flow;graph matchings;flows;shortest paths;Interval DP
+user6148,,0,Max Flow;flows;graph matchings;geometry;Polygon Area
+user6149,Priority Queue;graph matchings,2,graph matchings;Priority Queue;dsu;Bipartite Graph Check;probabilities
+user6158,geometry;graph matchings,2,Max Flow;graph matchings;Polygon Area;geometry;2-sat
+user6167,,0,flows;geometry;2-sat;Bipartite Graph Check;Distance Between Points
+user6178,bitmasks;brute force,2,bitmasks;brute force;Bitmask Enumeration;binary search;two pointers
+user6182,flows,1,flows;Multiset;graph matchings;trees;shortest paths
+user6192,,0,Max Flow;flows;graph matchings;geometry;Convex Hull
+user6197,Line Intersection;Max Flow;Min Cut;geometry;graph matchings,5,Line Intersection;geometry;Min Cut;graph matchings;Max Flow
+user6198,Binary Search on Array;Bitmask Enumeration;Brute Force Enumeration;Greedy Sorting;Hash Map;Segment Tree;Simulation;State Simulation;Two Pointers on Sorted Array;binary search;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;dp;fft;games;greedy;implementation;math;probabilities;sortings;string suffix structures;trees;two pointers,26,brute force;implementation;two pointers;greedy;data structures
+user621,Max Flow;Orientation Test;geometry;graph matchings,4,Orientation Test;geometry;Distance Between Points;graph matchings;Max Flow
+user6219,,0,flows;graphs;dsu;Binary Search on Answer;geometry
+user6224,geometry,1,geometry;flows;Distance Between Points;Priority Queue;Shortest Path in DAG
+user6227,flows,1,flows;graph matchings;geometry;Priority Queue;Polygon Area
+user623,,0,geometry;flows;Priority Queue;Connected Components;BFS
+user6247,Tree DFS;trees,2,trees;Sparse Table;Tree DFS;ternary search;binary search
+user6256,1D DP;Brute Force Enumeration;Connected Components;DFS;Graph Representation;Greedy Sorting;Segment Tree;Sliding Window;State Simulation;Two Pointers on Sorted Array;binary search;brute force;constructive algorithms;data structures;divide and conquer;dp;flows;graphs;greedy;implementation;shortest paths;sortings;trees;two pointers,24,divide and conquer;shortest paths;dp;Meet-in-the-middle;trees
+user6270,Convex Hull;Distance Between Points;Orientation Test;geometry,4,geometry;Orientation Test;Polygon Area;Distance Between Points;Convex Hull
+user6280,,0,graph matchings;flows;2-sat;Strongly Connected Components;2D DP
+user6293,,0,graph matchings;flows;Max Flow;Ordered Set;Binary Search on Answer
+user6295,,0,geometry;2D DP;Connected Components;graphs;Binary Search on Answer
+user6312,,0,geometry;Hash Map;graphs;Binary Search on Answer;trees
+user6317,,0,geometry;Knapsack;Hash Map;hashing;interactive
+user6329,Conditional Probability;Expected Value;probabilities,3,probabilities;Conditional Probability;Expected Value;combinatorics;games
+user6333,Max Flow,1,geometry;graph matchings;Max Flow;flows;Priority Queue
+user6334,,0,geometry;graph matchings;Max Flow;flows;Interval DP
+user6336,dsu,1,dsu;Difference Array;Stack;Prime Sieve;Divisors
+user634,,0,dsu;trees;Binary Search on Array;shortest paths;Bitmask DP
+user6350,geometry,1,Polygon Area;geometry;Distance Between Points;2-sat;2D DP
+user6363,Min Cut;geometry,2,Min Cut;geometry;Max Flow;graph matchings;Distance Between Points
+user6374,geometry,1,geometry;Polygon Area;flows;Priority Queue;Bipartite Graph Check
+user6375,,0,flows;geometry;Interval DP;dsu;Binary Search on Answer
+user6376,geometry,1,geometry;Polygon Area;graph matchings;Max Flow;flows
+user6391,,0,Tree DP;Interval DP;dp;Max Flow;ternary search
+user6392,Brute Force Enumeration;Simulation;binary search;brute force;constructive algorithms;implementation;interactive;strings,8,constructive algorithms;brute force;interactive;implementation;Simulation
+user6396,Binary Lifting;Bitmask Enumeration;Difference Array;Ordered Set;Priority Queue;Segment Tree;Stack;bitmasks;brute force;data structures;dsu,11,Bitmask Enumeration;Monotonic Stack;dsu;bitmasks;data structures
+user6401,,0,Strongly Connected Components;2D DP;Ordered Set;Topological Sort;dsu
+user6402,,0,Interval DP;geometry;Strongly Connected Components;dsu;Hash Map
+user6403,Activity Selection;Binary Search on Answer;Binary Search on Array;Brute Force Enumeration;Coordinate Compression;Custom Comparator Sorting;Fenwick Tree;Greedy Sorting;Max Flow;Sliding Window;Two Pointers on Sorted Array;binary search;brute force;constructive algorithms;divide and conquer;flows;graphs;greedy;implementation;interactive;shortest paths;sortings;trees;two pointers,24,greedy;binary search;Activity Selection;Binary Search on Array;sortings
+user6421,graphs,1,graphs;shortest paths;trees;Graph Representation;DFS
+user6422,Brute Force Enumeration;Connected Components;DFS;Dijkstra;Max Flow;Monotonic Stack;Segment Tree;Stack;Topological Sort;Tree DFS;brute force;data structures;divide and conquer;dp;dsu;flows;graphs;shortest paths;trees;two pointers,20,data structures;shortest paths;graphs;trees;Priority Queue
+user6425,flows,1,flows;Priority Queue;Topological Sort;Binary Search on Answer;Knapsack
+user6433,dsu,1,dsu;strings;trees;data structures;Tree DP
+user6441,Ordered Set,1,Fenwick Tree;Ordered Set;dsu;Monotonic Stack;Queue
+user6457,,0,graph matchings;Max Flow;flows;Interval DP;2D DP
+user6463,Binary Lifting,1,Lowest Common Ancestor;Binary Lifting;ternary search;Tree DFS;Binary Search on Answer
+user6464,Distance Between Points;Max Flow;geometry;graph matchings,4,geometry;Distance Between Points;graph matchings;Max Flow;flows
+user647,,0,Ordered Set;2D DP;graphs;trees;Binary Search on Answer
+user6470,,0,Ordered Set;2D DP;Knapsack;Shortest Path in DAG;Coordinate Compression
+user6474,Binary Search on Answer;Binary Search on Array;Bitmask Enumeration;Fast Exponentiation;GCD;Inclusion-Exclusion;LCM;Modular Arithmetic;Prime Factorization;Prime Sieve;Simulation;binary search;bitmasks;brute force;combinatorics;constructive algorithms;data structures;dsu;games;greedy;implementation;math;number theory;probabilities;ternary search,25,number theory;math;bitmasks;Prime Sieve;Bitmask Enumeration
+user6484,,0,geometry;Ordered Set;Orientation Test;Multiset;Max Flow
+user6504,Max Flow,1,Max Flow;flows;2-sat;Multiset;Ordered Set
+user6509,,0,graphs;Knapsack;Binary Search on Array;Tree DP;binary search
+user6512,Max Flow;flows;graph matchings,3,Max Flow;graph matchings;flows;2-sat;Shortest Path in DAG
+user6518,geometry,1,Min Cut;geometry;Max Flow;graph matchings;flows
+user6521,,0,geometry;2D DP;Priority Queue;Ordered Set;dsu
+user6537,,0,graphs;dsu;trees;hashing;binary search
+user6556,geometry,1,Polygon Area;geometry;Distance Between Points;graph matchings;Max Flow
+user6557,,0,Dijkstra;graphs;shortest paths;Connected Components;DP on DAG
+user6568,,0,graph matchings;trees;graphs;Tree DFS;Bipartite Graph Check
+user6569,,0,dp;graphs;divide and conquer;brute force;2-sat
+user6571,Distance Between Points;Max Flow;Orientation Test;flows;geometry;graph matchings,6,Min Cut;Orientation Test;graph matchings;Max Flow;Polygon Area
+user6575,Bitmask Enumeration;bitmasks;brute force;data structures;divide and conquer;graphs;math;shortest paths,8,bitmasks;brute force;Bitmask Enumeration;data structures;graphs
+user6577,Distance Between Points;flows;geometry;graph matchings,4,Line Intersection;Orientation Test;geometry;Distance Between Points;graph matchings
+user6597,DP on DAG;divide and conquer;dp;graphs;shortest paths,5,divide and conquer;dp;fft;shortest paths;DP on DAG
+user6613,,0,Max Flow;graph matchings;Line Intersection;flows;geometry
+user6621,,0,graphs;divide and conquer;Priority Queue;binary search;dp
+user6634,geometry,1,geometry;graph matchings;flows;2D DP;Dijkstra
+user6640,,0,flows;geometry;shortest paths;Hash Map;graphs
+user6645,flows;graph matchings,2,Max Flow;flows;graph matchings;geometry;Bipartite Graph Check
+user6651,Max Flow;flows;geometry;graph matchings,4,geometry;graph matchings;Max Flow;flows;Bipartite Graph Check
+user6658,,0,Ordered Set;geometry;2D DP;Tree DFS;Distance Between Points
+user666,1D DP;Interval DP;dp,3,2D DP;Interval DP;dp;Knapsack;Edit Distance
+user6661,Max Flow;flows;geometry,3,Max Flow;graph matchings;flows;geometry;Priority Queue
+user6668,Activity Selection;BFS;Binary Search on Answer;Binary Search on Array;Brute Force Enumeration;Custom Comparator Sorting;Greedy Sorting;Simulation;Two Pointers on Sorted Array;binary search;brute force;constructive algorithms;data structures;divide and conquer;flows;graphs;greedy;implementation;shortest paths;sortings;trees;two pointers,22,graphs;greedy;two pointers;implementation;divide and conquer
+user6694,Binary Lifting;Bipartite Graph Check;Dijkstra;Max Flow;Prefix Sum;Stack;Tree DFS;constructive algorithms;divide and conquer;dsu;flows;graph matchings;graphs;interactive;shortest paths;trees,16,Max Flow;graph matchings;Dijkstra;Min Cut;flows
+user6699,,0,DFS;Cycle Detection;Priority Queue;Tree DFS;dsu
+user6709,binary search;brute force;data structures;two pointers,4,two pointers;data structures;bitmasks;binary search;Binary Search on Array
+user6712,Binary Search on Answer;Binary Search on Array;Bitmask Enumeration;Brute Force Enumeration;Two Pointers on Sorted Array;binary search;bitmasks;brute force;combinatorics;constructive algorithms;data structures;divide and conquer;dp;games;graphs;greedy;implementation;math;number theory;shortest paths;sortings;trees;two pointers,23,brute force;bitmasks;two pointers;binary search;divide and conquer
+user6727,Min Cut;flows,2,Max Flow;Min Cut;flows;graph matchings;Priority Queue
+user6735,geometry,1,geometry;graph matchings;Distance Between Points;Bipartite Graph Check;Priority Queue
+user6738,Max Flow;Orientation Test;geometry;graph matchings,4,Orientation Test;geometry;Convex Hull;graph matchings;Max Flow
+user6749,flows,1,geometry;flows;Interval DP;Edit Distance;2D DP
+user6754,Binary Search on Array;Brute Force Enumeration;Tree DFS;Tree DP;binary search;brute force;constructive algorithms;data structures;divide and conquer;dp;greedy;shortest paths;string suffix structures;strings;trees;two pointers,16,divide and conquer;binary search;trees;string suffix structures;Fenwick Tree
+user6755,2D DP;dp,2,dp;2D DP;Interval DP;Knapsack;Edit Distance
+user6770,flows;geometry,2,Polygon Area;geometry;graph matchings;Distance Between Points;flows
+user6791,Orientation Test;geometry,2,flows;graph matchings;geometry;Orientation Test;Dijkstra
+user6798,,0,flows;Binary Lifting;geometry;Hash Map;graph matchings
+user6800,geometry;graph matchings,2,geometry;Polygon Area;graph matchings;Distance Between Points;flows
+user6802,BFS;Bitmask Enumeration;Combinations;DFS;Difference Array;GCD;Modular Arithmetic;Modular Combinations;Prime Sieve;Strongly Connected Components;bitmasks;brute force;combinatorics;dsu;games;graphs;math;matrices;number theory;probabilities;shortest paths;trees,22,number theory;math;Prime Sieve;Prime Factorization;Fast Exponentiation
+user6817,Binary Search on Answer;Binary Search on Array;binary search;ternary search;trees,5,ternary search;binary search;Binary Search on Answer;trees;Binary Search on Array
+user6818,,0,geometry;Binary Search on Array;Bitmask Enumeration;Fenwick Tree;binary search
+user682,geometry,1,Polygon Area;geometry;Distance Between Points;graph matchings;2-sat
+user6822,,0,Binary Search on Answer;shortest paths;Max Flow;binary search;Priority Queue
+user6829,,0,graph matchings;Max Flow;2-sat;flows;Bipartite Graph Check
+user683,,0,ternary search;flows;Binary Lifting;Monotonic Queue;shortest paths
+user6837,flows;geometry;graph matchings,3,geometry;Distance Between Points;graph matchings;flows;Bipartite Graph Check
+user6838,,0,Max Flow;graph matchings;flows;Binary Lifting;ternary search
+user6849,geometry,1,geometry;shortest paths;dsu;Floyd-Warshall;DFS
+user6856,Max Flow;flows;geometry,3,geometry;Max Flow;flows;Interval DP;shortest paths
+user687,Bitmask Enumeration;DP on DAG;Tree DFS;Tree DP;bitmasks;brute force;divide and conquer;dp;graphs;shortest paths;trees,11,divide and conquer;trees;brute force;bitmasks;Binary Lifting
+user6874,,0,graphs;divide and conquer;DFS;2-sat;Cycle Detection
+user69,Priority Queue;dsu,2,Priority Queue;dsu;Hash Map;data structures;Monotonic Stack
+user6904,geometry,1,geometry;Max Flow;graph matchings;flows;2D DP
+user6907,Binary Search on Answer;Binary Search on Array;Greedy Sorting;Meet-in-the-middle;Two Pointers on Sorted Array;binary search;bitmasks;brute force;data structures;divide and conquer;dp;graphs;greedy;implementation;shortest paths;sortings;trees;two pointers,18,divide and conquer;binary search;trees;two pointers;graphs
+user6916,,0,Dijkstra;geometry;shortest paths;graphs;Cycle Detection
+user6917,,0,geometry;trees;ternary search;divide and conquer;dp
+user6922,,0,geometry;Binary Search on Answer;dsu;Multiset;KMP
+user6930,,0,dp;hashing;strings;Meet-in-the-middle;Bitmask DP
+user6931,,0,graphs;dsu;trees;Tree DP;Binary Search on Array
+user6937,,0,Max Flow;graph matchings;flows;geometry;Orientation Test
+user6945,Distance Between Points;flows;geometry;graph matchings,4,Orientation Test;Polygon Area;Max Flow;geometry;graph matchings
+user6952,Binary Lifting;Connected Components;DFS;Lowest Common Ancestor;Max Flow;Tree DFS;flows;graphs;trees,9,flows;graphs;Max Flow;DFS;Topological Sort
+user6959,,0,flows;graph matchings;geometry;Priority Queue;Orientation Test
+user6962,,0,flows;graph matchings;geometry;Ordered Set;2-sat
+user6966,,0,Max Flow;flows;graph matchings;Binary Search on Answer;geometry
+user6967,,0,geometry;flows;Distance Between Points;Ordered Set;Priority Queue
+user6981,flows;geometry;graph matchings,3,geometry;Distance Between Points;graph matchings;flows;2-sat
+user6983,Distance Between Points;Max Flow;Orientation Test;geometry;graph matchings,5,Line Intersection;Orientation Test;geometry;Distance Between Points;graph matchings
+user6995,flows;geometry,2,geometry;flows;2D DP;Hash Map;Connected Components
+user6998,Max Flow;flows;graph matchings,3,Max Flow;graph matchings;flows;geometry;Priority Queue
+user7000,,0,graphs;dp;1D DP;Binary Search on Array;Sliding Window
+user7006,,0,dsu;ternary search;Combinations;Stack;Binary Search on Answer
+user7032,,0,ternary search;constructive algorithms;brute force;trees;binary search
+user7048,Dijkstra;Orientation Test;Priority Queue;graph matchings,4,graph matchings;Max Flow;flows;Line Intersection;Bipartite Graph Check
+user7068,,0,geometry;flows;2-sat;2D DP;Knapsack
+user7072,1D DP;2D DP;BFS;Connected Components;DP on DAG;Dijkstra;Graph Representation;Interval DP;Knapsack;Topological Sort;Tree DFS;Tree DP;brute force;divide and conquer;dp;fft;flows;graph matchings;graphs;shortest paths;trees,21,fft;divide and conquer;DP on DAG;Topological Sort;shortest paths
+user7081,,0,2D DP;Knapsack;Priority Queue;Dijkstra;graphs
+user7085,Bitmask DP;Bitmask Enumeration;Brute Force Enumeration;Fast Exponentiation;Prime Sieve;Tree DP;bitmasks;brute force;combinatorics;constructive algorithms;data structures;divide and conquer;dp;games;graphs;greedy;implementation;math;number theory;probabilities;shortest paths;trees,22,brute force;divide and conquer;bitmasks;Meet-in-the-middle;dp
+user7094,,0,2D DP;ternary search;Tree DFS;DFS;graphs
+user7096,,0,graph matchings;Priority Queue;Interval DP;dsu;Monotonic Stack
+user7098,geometry,1,Orientation Test;geometry;Hash Map;2D DP;Ordered Set
+user71,1D DP;Bitmask DP;Bitmask Enumeration;Brute Force Enumeration;Dijkstra;Prefix Sum;Priority Queue;Segment Tree;Simulation;Stack;State Simulation;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;dp;dsu;implementation;interactive;shortest paths,21,brute force;constructive algorithms;implementation;Brute Force Enumeration;Simulation
+user711,brute force;constructive algorithms;greedy;strings,4,strings;string suffix structures;hashing;brute force;String Matching
+user7110,,0,geometry;2-sat;Priority Queue;Strongly Connected Components;Hash Map
+user7124,,0,Tree Diameter;trees;Tree DFS;Monotonic Stack;dsu
+user7125,Max Flow;flows;graph matchings,3,Max Flow;flows;graph matchings;geometry;Orientation Test
+user7134,Distance Between Points;geometry,2,geometry;Distance Between Points;graph matchings;Tree DFS;Connected Components
+user7141,,0,graph matchings;flows;geometry;Dijkstra;Priority Queue
+user7151,,0,divide and conquer;shortest paths;Ordered Set;data structures;dp
+user7161,,0,Ordered Set;2D DP;ternary search;Binary Search on Array;Modular Combinations
+user7166,2-sat;Bipartite Graph Check;flows;graph matchings,4,graph matchings;2-sat;Bipartite Graph Check;flows;Shortest Path in DAG
+user7167,data structures;geometry;two pointers,3,two pointers;data structures;Ordered Set;geometry;sortings
+user7174,,0,geometry;Distance Between Points;Dijkstra;dsu;Hash Map
+user7184,,0,Polygon Area;geometry;shortest paths;graphs;interactive
+user7189,binary search;brute force;divide and conquer;graphs;greedy;trees,6,binary search;trees;divide and conquer;graphs;greedy
+user7201,Polygon Area;flows;geometry,3,Orientation Test;Polygon Area;Max Flow;geometry;flows
+user7206,Bitmask Enumeration;Brute Force Enumeration;binary search;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;games;graphs;greedy;implementation;math;number theory;shortest paths;trees,16,brute force;number theory;trees;bitmasks;implementation
+user7216,,0,Tree DFS;graphs;trees;Monotonic Stack;hashing
+user7221,,0,flows;Max Flow;ternary search;Binary Lifting;Binary Search on Answer
+user7223,Line Intersection;geometry,2,Line Intersection;Polygon Area;geometry;flows;2-sat
+user7229,binary search,1,trees;Binary Search on Answer;binary search;Tree DFS;bitmasks
+user7242,Cycle Detection;Max Flow;flows;graph matchings,4,graph matchings;Max Flow;Bipartite Graph Check;flows;Cycle Detection
+user7247,Orientation Test;geometry;graph matchings,3,Orientation Test;geometry;Polygon Area;graph matchings;Distance Between Points
+user7257,,0,games;ternary search;probabilities;combinatorics;binary search
+user726,,0,flows;graph matchings;2-sat;Knapsack;2D DP
+user7268,Max Flow;flows;geometry;graph matchings,4,Max Flow;graph matchings;geometry;flows;Distance Between Points
+user7270,Binary Search on Array;binary search;brute force;greedy;sortings;two pointers,6,two pointers;binary search;sortings;greedy;Binary Search on Array
+user7274,flows;geometry,2,geometry;graph matchings;Distance Between Points;flows;2-sat
+user7280,Brute Force Enumeration;Fenwick Tree;Greedy Sorting;binary search;brute force;data structures;dsu;greedy;shortest paths;sortings;two pointers,11,Fenwick Tree;two pointers;data structures;binary search;dsu
+user7284,flows,1,flows;Multiset;Ordered Set;graph matchings;shortest paths
+user7288,Max Flow;flows,2,Max Flow;graph matchings;flows;Bipartite Graph Check;2-sat
+user7295,graph matchings,1,geometry;graph matchings;flows;2D DP;Priority Queue
+user7312,,0,Priority Queue;dsu;ternary search;Monotonic Stack;Divisors
+user7321,Binary Search on Array;Convex Hull;Fenwick Tree;Line Intersection;Polygon Area;binary search;brute force;data structures;geometry;greedy;sortings;trees;two pointers,13,geometry;Distance Between Points;Polygon Area;Line Intersection;Convex Hull
+user7345,Bitmask DP;Bitmask Enumeration;Brute Force Enumeration;Monotonic Stack;Prefix Sum;Simulation;Stack;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;dp;dsu;graphs;implementation;interactive;math;number theory;shortest paths;trees,21,brute force;bitmasks;Bitmask Enumeration;implementation;number theory
+user7346,Max Flow;geometry;graph matchings,3,geometry;Distance Between Points;graph matchings;Max Flow;flows
+user7347,,0,geometry;Polygon Area;graphs;dp;trees
+user7349,,0,geometry;Max Flow;graph matchings;flows;2D DP
+user7353,,0,2D DP;Dijkstra;DFS;Tree DFS;hashing
+user7357,,0,graph matchings;flows;2-sat;Binary Search on Answer;Priority Queue
+user736,,0,geometry;Ordered Set;Distance Between Points;Hash Map;Multiset
+user7384,Bitmask DP;Hash Map;Segment Tree;bitmasks;brute force;data structures;divide and conquer;dp;shortest paths;two pointers,10,divide and conquer;dp;data structures;two pointers;Fenwick Tree
+user7406,,0,trees;graph matchings;shortest paths;Dijkstra;Binary Search on Answer
+user7410,flows;graph matchings,2,Min Cut;graph matchings;flows;Priority Queue;Dijkstra
+user7421,Binary Search on Answer;Binary Search on Array;Bitmask Enumeration;Combinations;Expected Value;Fast Exponentiation;Permutations;binary search;bitmasks;brute force;combinatorics;games;greedy;math;number theory;probabilities;two pointers,17,games;combinatorics;probabilities;math;binary search
+user7422,,0,Max Flow;flows;graph matchings;ternary search;geometry
+user7429,,0,geometry;2D DP;Priority Queue;Tree DFS;dsu
+user7440,flows;geometry,2,flows;geometry;Polygon Area;graph matchings;Priority Queue
+user7441,2-sat;Connected Components;DFS;Graph Representation;Monotonic Stack;Prefix Sum;Priority Queue;Stack;Strongly Connected Components;Tree DFS;brute force;data structures;divide and conquer;dsu;graphs;shortest paths;trees,17,graphs;shortest paths;Graph Representation;DFS;Priority Queue
+user7446,Binary Search on Answer;Binary Search on Array;Bitmask Enumeration;Brute Force Enumeration;Fast Exponentiation;Greedy Sorting;Hash Map;Prime Sieve;Segment Tree;Sliding Window;Stack;Two Pointers on Sorted Array;binary search;bitmasks;brute force;data structures;divide and conquer;dsu;greedy;implementation;math;number theory;sortings;string suffix structures;ternary search;trees;two pointers,27,two pointers;data structures;binary search;brute force;bitmasks
+user7448,,0,geometry;Orientation Test;Max Flow;Distance Between Points;flows
+user7449,,0,ternary search;binary search;Binary Search on Answer;Binary Search on Array;dsu
+user7458,Line Intersection;graph matchings,2,graph matchings;Max Flow;Line Intersection;flows;Polygon Area
+user7465,Max Flow,1,geometry;graph matchings;Max Flow;Bipartite Graph Check;Strongly Connected Components
+user7468,Polygon Area;flows;geometry,3,graph matchings;Max Flow;Polygon Area;geometry;flows
+user7471,,0,Binary Lifting;Min Cut;ternary search;flows;Binary Search on Answer
+user7474,,0,geometry;2-sat;Strongly Connected Components;Priority Queue;Hash Map
+user7487,Convex Hull;Max Flow;flows;geometry,4,Polygon Area;geometry;Convex Hull;Distance Between Points;Max Flow
+user7488,Distance Between Points;Line Intersection;Max Flow;flows;geometry,5,Line Intersection;geometry;Distance Between Points;Max Flow;flows
+user7499,,0,Binary Search on Answer;flows;binary search;graph matchings;trees
+user7500,Max Flow;geometry;graph matchings,3,Max Flow;graph matchings;geometry;flows;Distance Between Points
+user7510,Bitmask Enumeration;Prime Sieve;bitmasks;brute force;combinatorics;data structures;divide and conquer;games;implementation;math;number theory;probabilities;trees,13,bitmasks;brute force;Bitmask Enumeration;games;math
+user7514,Stack;data structures;dsu,3,dsu;data structures;Stack;Difference Array;dp
+user7515,,0,geometry;2-sat;graphs;dsu;Hash Map
+user7543,,0,dp;Binary Search on Array;1D DP;binary search;number theory
+user7546,,0,ternary search;Hash Map;binary search;data structures;Monotonic Queue
+user7552,trees,1,trees;divide and conquer;ternary search;binary search;Lowest Common Ancestor
+user7556,,0,graphs;dsu;Binary Search on Answer;Schedules;hashing
+user7576,2-sat;Max Flow;Strongly Connected Components;geometry;graph matchings,5,graph matchings;Max Flow;2-sat;geometry;Strongly Connected Components
+user7590,Max Flow;Shortest Path in DAG;flows,3,Max Flow;graph matchings;flows;Shortest Path in DAG;shortest paths
+user7591,geometry,1,geometry;Distance Between Points;Max Flow;graph matchings;flows
+user76,,0,graph matchings;geometry;shortest paths;graphs;Distance Between Points
+user7601,,0,geometry;dsu;Binary Search on Answer;hashing;shortest paths
+user7615,,0,Ordered Set;Binary Lifting;dsu;Lazy Segment Tree;Lowest Common Ancestor
+user7637,geometry;graph matchings,2,geometry;graph matchings;Max Flow;flows;Interval DP
+user7642,,0,geometry;2-sat;Strongly Connected Components;Priority Queue;graphs
+user7661,flows,1,graph matchings;flows;Priority Queue;Strongly Connected Components;ternary search
+user7674,,0,geometry;Distance Between Points;Edit Distance;Knapsack;Longest Common Subsequence
+user769,graph matchings,1,geometry;Distance Between Points;graph matchings;Max Flow;flows
+user7699,,0,Monotonic Stack;constructive algorithms;Simulation;interactive;brute force
+user7734,,0,Max Flow;geometry;flows;Ordered Set;Multiset
+user7735,geometry,1,graph matchings;geometry;flows;Topological Sort;Interval DP
+user7749,graph matchings,1,graph matchings;2-sat;flows;geometry;Bipartite Graph Check
+user7761,geometry,1,geometry;Polygon Area;Max Flow;graph matchings;flows
+user7763,Max Flow;flows;graph matchings,3,Max Flow;flows;graph matchings;geometry;Priority Queue
+user7781,geometry,1,flows;geometry;Distance Between Points;Shortest Path in DAG;Priority Queue
+user7782,flows,1,Max Flow;flows;Priority Queue;Dijkstra;geometry
+user7789,flows;graph matchings,2,flows;graph matchings;2-sat;Tree DFS;Multiset
+user7793,,0,Max Flow;flows;graph matchings;geometry;Polygon Area
+user78,,0,geometry;ternary search;Edit Distance;Distance Between Points;String Hashing
+user7801,Orientation Test;geometry,2,Min Cut;geometry;Orientation Test;Distance Between Points;flows
+user7823,Max Flow;graph matchings,2,graph matchings;Max Flow;Polygon Area;geometry;Distance Between Points
+user7830,Max Flow;flows;graph matchings,3,Max Flow;flows;graph matchings;geometry;Bipartite Graph Check
+user7836,bitmasks;brute force;divide and conquer;dp;graphs;shortest paths;trees,7,divide and conquer;graphs;brute force;shortest paths;dp
+user7846,,0,geometry;Binary Search on Answer;dsu;Custom Comparator Sorting;Connected Components
+user7857,,0,Multiset;Priority Queue;data structures;2D DP;Knapsack
+user7888,,0,Interval DP;2D DP;Knapsack;graph matchings;flows
+user7890,,0,flows;graph matchings;Bipartite Graph Check;graphs;Tree DFS
+user7900,,0,flows;Max Flow;shortest paths;Hash Map;trees
+user7910,divide and conquer;trees,2,trees;divide and conquer;Tree DFS;graphs;data structures
+user7917,Binary Search on Array;binary search;two pointers,3,two pointers;binary search;Binary Search on Array;brute force;greedy
+user7932,geometry,1,geometry;Distance Between Points;Ordered Set;Coordinate Compression;Fenwick Tree
+user7933,Max Flow;Orientation Test;geometry,3,Orientation Test;geometry;Distance Between Points;Max Flow;graph matchings
+user794,DFS;Dijkstra;divide and conquer;graphs;shortest paths,5,shortest paths;graphs;flows;Dijkstra;divide and conquer
+user7947,Activity Selection;Binary Search on Answer;Binary Search on Array;binary search;bitmasks;brute force;constructive algorithms;games;greedy;implementation;math;number theory;sortings;two pointers,14,binary search;Binary Search on Array;greedy;brute force;Binary Search on Answer
+user7948,,0,binary search;ternary search;Binary Search on Array;Binary Search on Answer;bitmasks
+user7951,Max Flow;graph matchings,2,Max Flow;graph matchings;geometry;flows;Bipartite Graph Check
+user7954,BFS;Brute Force Enumeration;Cycle Detection;DFS;Dijkstra;Fenwick Tree;Graph Representation;Max Flow;Tree DFS;binary search;bitmasks;brute force;data structures;divide and conquer;dsu;fft;flows;graphs;greedy;implementation;shortest paths;sortings;trees;two pointers,24,graphs;shortest paths;divide and conquer;trees;data structures
+user7962,1D DP;2D DP;DP on DAG;Knapsack;Polygon Area;Tree DP;dp;geometry,8,2D DP;Knapsack;dp;geometry;Polygon Area
+user7963,,0,Binary Lifting;dsu;Monotonic Stack;ternary search;Difference Array
+user7979,flows,1,flows;Priority Queue;ternary search;Bipartite Graph Check;Binary Lifting
+user7995,flows,1,geometry;Distance Between Points;graph matchings;flows;2D DP
+user8006,,0,geometry;2D DP;hashing;Connected Components;Monotonic Stack
+user8015,,0,graphs;2-sat;binary search;Binary Search on Array;games
+user8017,,0,binary search;dp;Difference Array;combinatorics;data structures
+user803,,0,graphs;trees;dp;dsu;Fenwick Tree
+user8031,2-sat;Bitmask Enumeration;Connected Components;DFS;Prime Sieve;Strongly Connected Components;bitmasks;brute force;divide and conquer;dp;flows;games;graphs;math;number theory;shortest paths;trees,17,graphs;divide and conquer;brute force;trees;bitmasks
+user8038,,0,geometry;Fenwick Tree;Binary Search on Array;Ordered Set;two pointers
+user8051,Bipartite Graph Check;flows;graph matchings,3,Max Flow;graph matchings;flows;Bipartite Graph Check;Strongly Connected Components
+user8053,,0,games;probabilities;Multiset;flows;Hash Map
+user8054,BFS;Binary Lifting;Bipartite Graph Check;Cycle Detection;Graph Representation;Lowest Common Ancestor;Ordered Set;Prefix Sum;Segment Tree;Stack;Tree DFS;Tree Diameter;data structures;dsu;graph matchings;graphs;shortest paths;trees,18,Priority Queue;dsu;shortest paths;Binary Lifting;flows
+user8061,Line Intersection;Max Flow;geometry,3,Line Intersection;geometry;graph matchings;Max Flow;flows
+user8072,,0,2D DP;graphs;dp;Binary Search on Array;Priority Queue
+user8084,Tree DP,1,Tree DP;2D DP;dp;hashing;Longest Increasing Subsequence
+user8087,Meet-in-the-middle;Tree DP;divide and conquer;dp;trees,5,trees;divide and conquer;dp;Tree DP;Meet-in-the-middle
+user8089,dp,1,dp;shortest paths;divide and conquer;2D DP;1D DP
+user8136,Fenwick Tree;binary search;brute force;constructive algorithms;data structures;divide and conquer;greedy;implementation;two pointers,9,brute force;binary search;greedy;divide and conquer;data structures
+user8141,Distance Between Points;flows;geometry;graph matchings,4,Min Cut;graph matchings;flows;Orientation Test;geometry
+user8164,Orientation Test;geometry,2,Line Intersection;Orientation Test;geometry;Convex Hull;Distance Between Points
+user8165,,0,ternary search;Binary Lifting;Binary Search on Answer;Tree DFS;trees
+user8172,,0,graph matchings;ternary search;DFS;Tree DFS;graphs
+user8182,1D DP;2D DP;Bitmask DP;Bitmask Enumeration;Brute Force Enumeration;DP on DAG;Meet-in-the-middle;Tree DP;bitmasks;brute force;data structures;dp;games;greedy;implementation;probabilities;trees,17,brute force;dp;Meet-in-the-middle;divide and conquer;bitmasks
+user8194,,0,graphs;trees;binary search;dsu;dp
+user8205,bitmasks;brute force,2,bitmasks;brute force;binary search;Bitmask Enumeration;divide and conquer
+user8216,2-sat,1,graph matchings;2-sat;Strongly Connected Components;graphs;shortest paths
+user8222,Bipartite Graph Check;Max Flow;flows;graph matchings,4,geometry;graph matchings;Max Flow;flows;Bipartite Graph Check
+user8223,Binary Lifting;Binary Search on Answer;Binary Search on Array;binary search;brute force;data structures;divide and conquer;graphs;greedy;implementation;sortings;string suffix structures;strings;trees;two pointers,15,binary search;trees;two pointers;greedy;divide and conquer
+user8238,,0,graph matchings;shortest paths;Bipartite Graph Check;graphs;Shortest Path in DAG
+user8247,,0,graph matchings;Max Flow;flows;Strongly Connected Components;2D DP
+user8258,Distance Between Points;geometry,2,geometry;Distance Between Points;2D DP;graph matchings;Knapsack
+user8259,,0,brute force;trees;binary search;flows;divide and conquer
+user8264,Bitmask Enumeration;Hash Map;Tree DFS;binary search;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;games;greedy;implementation;number theory;ternary search;trees;two pointers,16,trees;brute force;bitmasks;data structures;Bitmask Enumeration
+user8269,flows;geometry;graph matchings,3,Polygon Area;geometry;Distance Between Points;graph matchings;Max Flow
+user8272,,0,constructive algorithms;flows;interactive;ternary search;Max Flow
+user8273,geometry,1,geometry;flows;Binary Lifting;Hash Map;ternary search
+user8275,,0,Min Cut;flows;graph matchings;Binary Lifting;Priority Queue
+user8277,,0,flows;trees;dp;graphs;Tree Diameter
+user8282,geometry,1,geometry;flows;Priority Queue;2D DP;Dijkstra
+user829,,0,geometry;flows;Conditional Probability;Polygon Area;probabilities
+user8295,Convex Hull;Max Flow;geometry,3,Orientation Test;geometry;Distance Between Points;Convex Hull;Max Flow
+user8299,,0,geometry;Bitmask Enumeration;bitmasks;Binary Search on Array;Binary Search on Answer
+user830,Convex Hull;flows;geometry;graph matchings,4,Line Intersection;geometry;Convex Hull;Distance Between Points;flows
+user8300,,0,hashing;strings;trees;data structures;flows
+user8313,Max Flow;geometry,2,geometry;Max Flow;Distance Between Points;flows;Priority Queue
+user8322,,0,flows;geometry;Priority Queue;2-sat;Distance Between Points
+user8328,graph matchings,1,Max Flow;flows;graph matchings;Priority Queue;graphs
+user8329,Max Flow;flows;graph matchings,3,Max Flow;flows;graph matchings;Priority Queue;Bipartite Graph Check
+user8334,,0,data structures;Ordered Set;bitmasks;Multiset;Bitmask Enumeration
+user8362,Distance Between Points;Max Flow;Orientation Test;Polygon Area;geometry;graph matchings,6,Orientation Test;Polygon Area;geometry;Distance Between Points;graph matchings
+user8373,,0,graph matchings;2-sat;flows;Strongly Connected Components;graphs
+user8377,BFS;Binary Search on Array;Brute Force Enumeration;Connected Components;Coordinate Compression;Cycle Detection;DFS;Graph Representation;Line Intersection;Meet-in-the-middle;Segment Tree;Two Pointers on Sorted Array;binary search;brute force;data structures;divide and conquer;dp;flows;geometry;graphs;greedy;implementation;shortest paths;sortings;trees;two pointers,26,geometry;two pointers;graphs;shortest paths;data structures
+user838,geometry,1,geometry;Priority Queue;Topological Sort;Binary Lifting;Lowest Common Ancestor
+user839,,0,flows;Priority Queue;Ordered Set;dsu;graphs
+user8402,binary search;divide and conquer;dp;greedy,4,divide and conquer;dp;brute force;trees;binary search
+user8408,Line Intersection;geometry;graph matchings,3,Line Intersection;Polygon Area;geometry;graph matchings;Distance Between Points
+user8428,Distance Between Points;flows;geometry;graph matchings,4,geometry;graph matchings;Max Flow;flows;Distance Between Points
+user843,,0,flows;Hash Map;graph matchings;geometry;Priority Queue
+user8441,,0,dp;Binary Search on Array;1D DP;binary search;Permutations
+user8448,,0,dsu;flows;trees;graph matchings;Tree DP
+user8460,data structures;two pointers,2,two pointers;data structures;binary search;sortings;Binary Search on Array
+user8467,binary search;data structures;trees;two pointers,4,binary search;data structures;trees;two pointers;Binary Search on Array
+user8487,Max Flow,1,Max Flow;flows;dsu;Monotonic Stack;graphs
+user8511,geometry;graph matchings,2,geometry;graph matchings;Distance Between Points;Max Flow;flows
+user8522,Bipartite Graph Check,1,Bipartite Graph Check;flows;Cycle Detection;Topological Sort;DFS
+user8535,Max Flow;geometry,2,Max Flow;graph matchings;Polygon Area;geometry;flows
+user8540,,0,graph matchings;flows;Polygon Area;geometry;Priority Queue
+user8543,,0,graph matchings;Max Flow;flows;Binary Search on Answer;Binary Lifting
+user8545,,0,ternary search;flows;graphs;trees;divide and conquer
+user8551,Distance Between Points;Polygon Area;geometry;graph matchings,4,graph matchings;Polygon Area;geometry;flows;Distance Between Points
+user8552,Distance Between Points;Max Flow;geometry;graph matchings,4,geometry;Distance Between Points;Max Flow;graph matchings;flows
+user8553,shortest paths,1,shortest paths;Dijkstra;flows;graphs;Topological Sort
+user8555,geometry,1,geometry;flows;graph matchings;Hash Map;hashing
+user8574,Orientation Test;flows;geometry;graph matchings,4,Orientation Test;Polygon Area;graph matchings;geometry;Distance Between Points
+user858,Binary Search on Array;Bitmask Enumeration;binary search;bitmasks;brute force;data structures;games;greedy,8,two pointers;brute force;bitmasks;Binary Search on Array;binary search
+user8580,flows;graphs,2,flows;graphs;shortest paths;Max Flow;trees
+user8590,,0,flows;graphs;2D DP;Tree DFS;Binary Search on Answer
+user8603,geometry,1,geometry;Ordered Set;dsu;ternary search;graphs
+user8608,Polygon Area;flows;geometry,3,Max Flow;graph matchings;flows;Polygon Area;geometry
+user8613,,0,graph matchings;Hash Map;geometry;shortest paths;graphs
+user8615,flows;geometry,2,Polygon Area;geometry;Distance Between Points;graph matchings;flows
+user8617,,0,flows;Max Flow;graph matchings;Ordered Set;Binary Search on Answer
+user8630,,0,geometry;Binary Search on Answer;Binary Search on Array;binary search;Ordered Set
+user8644,,0,geometry;2-sat;Strongly Connected Components;2D DP;Priority Queue
+user8649,0-1 BFS;BFS;Bitmask Enumeration;Brute Force Enumeration;Difference Array;Fast Exponentiation;Prefix Sum;Simulation;Stack;bitmasks;brute force;combinatorics;constructive algorithms;data structures;divide and conquer;dsu;graphs;implementation;math;number theory;shortest paths;trees,22,graphs;number theory;math;Stack;shortest paths
+user8654,geometry,1,Polygon Area;geometry;Max Flow;graph matchings;flows
+user8665,Binary Lifting;Hash Map;Sparse Table;binary search;data structures;sortings;string suffix structures;trees;two pointers,9,two pointers;Multiset;data structures;binary search;Ordered Set
+user8670,,0,trees;divide and conquer;Bitmask Enumeration;Tree DFS;Tree DP
+user8676,Binary Search on Array;Fast Exponentiation;binary search;bitmasks;brute force;combinatorics;data structures;divide and conquer;dp;games;graphs;greedy;implementation;math;number theory;shortest paths;sortings;trees;two pointers,19,brute force;divide and conquer;two pointers;bitmasks;binary search
+user8682,,0,graphs;shortest paths;Connected Components;trees;Shortest Path in DAG
+user8714,,0,interactive;Max Flow;geometry;Monotonic Stack;Priority Queue
+user8717,Max Flow,1,Max Flow;flows;graph matchings;geometry;Polygon Area
+user8719,,0,ternary search;trees;Binary Search on Answer;dsu;Priority Queue
+user8723,Bitmask Enumeration;Stack;bitmasks;brute force;data structures;dsu;games;graphs;math;number theory;shortest paths;trees;two pointers,13,data structures;bitmasks;Bitmask Enumeration;brute force;math
+user8741,,0,flows;shortest paths;graphs;Max Flow;divide and conquer
+user8749,Binary Search on Array;Bitmask Enumeration;Ordered Set;Prime Sieve;Two Pointers on Sorted Array;binary search;bitmasks;brute force;data structures;divide and conquer;games;graphs;greedy;implementation;math;number theory;sortings;trees;two pointers,19,two pointers;brute force;trees;binary search;data structures
+user8754,flows,1,flows;Max Flow;graph matchings;constructive algorithms;ternary search
+user8760,Interval DP;flows;graph matchings,3,graph matchings;flows;Interval DP;Max Flow;Knapsack
+user8771,,0,geometry;Distance Between Points;graph matchings;Bipartite Graph Check;Interval DP
+user8777,,0,flows;Dijkstra;shortest paths;Connected Components;graphs
+user8778,2-sat;Binary Lifting;Bipartite Graph Check;Brute Force Enumeration;DFS;Dijkstra;Hash Map;Max Flow;Monotonic Stack;Prefix Sum;Priority Queue;Segment Tree;Simulation;Sparse Table;Stack;Tree DFS;brute force;constructive algorithms;data structures;divide and conquer;dsu;flows;graph matchings;graphs;implementation;interactive;shortest paths;trees;two pointers,29,graphs;shortest paths;flows;Max Flow;Priority Queue
+user8783,Bitmask Enumeration;bitmasks;brute force;data structures;divide and conquer;dp;greedy;implementation;sortings;trees;two pointers,11,brute force;bitmasks;two pointers;data structures;greedy
+user8784,graph matchings,1,graph matchings;geometry;Polygon Area;Dijkstra;Interval DP
+user8788,,0,ternary search;Binary Search on Answer;geometry;Binary Search on Array;2-sat
+user8797,,0,graph matchings;Max Flow;2-sat;flows;Bipartite Graph Check
+user8798,,0,geometry;2-sat;Strongly Connected Components;2D DP;Knapsack
+user8801,flows;geometry;graph matchings,3,Orientation Test;Polygon Area;geometry;Distance Between Points;graph matchings
+user8804,Max Flow;flows;graph matchings,3,Max Flow;graph matchings;flows;Bipartite Graph Check;Priority Queue
+user8839,,0,trees;Lowest Common Ancestor;Fenwick Tree;Ordered Set;data structures
+user8843,geometry,1,geometry;2D DP;dsu;graphs;trees
+user8863,geometry,1,Polygon Area;geometry;Distance Between Points;Priority Queue;Hash Map
+user8872,Max Flow;graph matchings,2,Max Flow;graph matchings;flows;geometry;2-sat
+user8881,,0,Binary Search on Answer;Ordered Set;Hash Map;binary search;trees
+user8897,Binary Search on Answer;Binary Search on Array;Bitmask Enumeration;Brute Force Enumeration;binary search;bitmasks;brute force;combinatorics;constructive algorithms;data structures;divide and conquer;games;greedy;implementation;math;number theory;probabilities;sortings;trees;two pointers,20,bitmasks;brute force;games;math;Bitmask Enumeration
+user8905,Activity Selection;Binary Search on Array;Bitmask Enumeration;Brute Force Enumeration;Combinations;Expected Value;Fenwick Tree;Greedy Sorting;Hash Map;Mo's Algorithm;Segment Tree;Simulation;Sliding Window;Two Pointers on Sorted Array;binary search;bitmasks;brute force;combinatorics;constructive algorithms;data structures;games;greedy;hashing;implementation;interactive;math;number theory;probabilities;sortings;strings;trees;two pointers,32,binary search;strings;games;probabilities;bitmasks
+user8907,Bitmask Enumeration;Difference Array;Divisors;Prime Sieve;bitmasks;number theory,6,Prime Factorization;Prime Sieve;number theory;Bitmask Enumeration;Divisors
+user8909,Difference Array;Stack;Tree DFS;dsu,4,dsu;Difference Array;Stack;Tree DFS;trees
+user8965,,0,geometry;Priority Queue;Distance Between Points;graphs;Connected Components
+user8971,,0,geometry;flows;Priority Queue;2D DP;BFS
+user8979,Bitmask Enumeration;Fenwick Tree;Hash Map;Ordered Set;binary search;bitmasks;brute force;data structures;divide and conquer;dsu;graphs;shortest paths;trees;two pointers,14,data structures;Fenwick Tree;brute force;divide and conquer;Multiset
+user8985,,0,Ordered Set;dsu;2D DP;Tree Diameter;Tree DFS
+user8988,flows,1,flows;Priority Queue;geometry;dsu;Distance Between Points
+user9,,0,Binary Lifting;geometry;2D DP;2-sat;Orientation Test
+user9000,Stack;dsu,2,dsu;Stack;Divisors;Prime Factorization;Prefix Sum
+user9014,,0,graphs;Deque;Binary Search on Answer;Tree DP;divide and conquer
+user9016,,0,graph matchings;Cycle Detection;Max Flow;flows;graphs
+user9024,,0,ternary search;geometry;Orientation Test;flows;Polygon Area
+user9028,Brute Force Enumeration;Hash Map;String Matching;Suffix Automaton;Tree DFS;Tree DP;Trie;binary search;brute force;constructive algorithms;data structures;divide and conquer;dp;fft;flows;graphs;greedy;hashing;shortest paths;string suffix structures;strings;trees;two pointers,23,strings;string suffix structures;hashing;trees;divide and conquer
+user9048,Max Flow;flows,2,Max Flow;flows;graph matchings;Priority Queue;Hash Map
+user9051,Fenwick Tree;binary search;brute force;constructive algorithms;data structures;divide and conquer;greedy;two pointers,8,greedy;brute force;two pointers;binary search;Fenwick Tree
+user9056,,0,Dijkstra;shortest paths;dsu;Hash Map;graphs
+user9067,Brute Force Enumeration;Hash Map;Ordered Set;Segment Tree;Simulation;binary search;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;dp;greedy;implementation;ternary search;trees;two pointers,17,data structures;two pointers;brute force;trees;Hash Map
+user9097,Binary Search on Answer;Binary Search on Array;Bitmask Enumeration;binary search;bitmasks;brute force;combinatorics;games;greedy;math;sortings,11,Binary Search on Array;binary search;Binary Search on Answer;brute force;greedy
+user9102,,0,flows;graph matchings;geometry;Priority Queue;Distance Between Points
+user9105,Orientation Test;Polygon Area;geometry,3,Min Cut;Orientation Test;Polygon Area;geometry;flows
+user9115,Convex Hull;Distance Between Points;Line Intersection;Max Flow;Orientation Test;Polygon Area;geometry;graph matchings,8,Min Cut;Line Intersection;Orientation Test;Polygon Area;geometry
+user9124,geometry,1,geometry;Distance Between Points;graph matchings;flows;2D DP
+user9128,Max Flow;flows;geometry,3,Polygon Area;geometry;Distance Between Points;Max Flow;flows
+user9130,Bitmask Enumeration;Segment Tree;bitmasks;brute force;data structures;implementation;math;two pointers,8,bitmasks;brute force;data structures;Bitmask Enumeration;math
+user9131,Binary Search on Array;Hash Map;Ordered Set;binary search;bitmasks;brute force;data structures;greedy;implementation;strings;trees;two pointers,12,binary search;two pointers;brute force;data structures;greedy
+user9138,,0,geometry;flows;Edit Distance;Hash Map;Longest Common Subsequence
+user914,Max Flow;geometry;graph matchings,3,geometry;Distance Between Points;graph matchings;Max Flow;2-sat
+user9143,Binary Search on Array;Brute Force Enumeration;DFS;Greedy Sorting;Hash Map;Ordered Set;Tree DFS;Tree DP;Two Pointers on Sorted Array;binary search;brute force;constructive algorithms;data structures;divide and conquer;dp;flows;graphs;greedy;implementation;shortest paths;sortings;string suffix structures;strings;trees;two pointers,25,divide and conquer;trees;binary search;two pointers;graphs
+user915,,0,geometry;graph matchings;Max Flow;Interval DP;Distance Between Points
+user9152,2-sat;Bipartite Graph Check;Max Flow;flows;graph matchings,5,Min Cut;graph matchings;Max Flow;2-sat;flows
+user9157,Distance Between Points;geometry;graph matchings,3,Orientation Test;geometry;Distance Between Points;graph matchings;flows
+user917,Distance Between Points;Line Intersection;Max Flow;Polygon Area;geometry;graph matchings,6,Line Intersection;Polygon Area;geometry;Distance Between Points;graph matchings
+user9171,geometry,1,geometry;Distance Between Points;2D DP;Hash Map;ternary search
+user9172,Fenwick Tree;Hash Map;binary search;brute force;data structures;divide and conquer;dp;greedy;two pointers,9,data structures;two pointers;Fenwick Tree;brute force;Hash Map
+user9180,,0,geometry;Tree DFS;Binary Search on Answer;DFS;dsu
+user9181,,0,Knapsack;graphs;dsu;hashing;Difference Array
+user9183,1D DP;2D DP;Longest Increasing Subsequence;brute force;divide and conquer;dp;shortest paths,7,dp;divide and conquer;Tree DP;1D DP;Bitmask DP
+user9201,flows;geometry,2,graph matchings;flows;geometry;Distance Between Points;Dijkstra
+user9203,Binary Lifting;Bitmask DP;Bitmask Enumeration;Brute Force Enumeration;Fenwick Tree;Hash Map;Lowest Common Ancestor;Prefix Sum;Priority Queue;Segment Tree;Simulation;Sparse Table;Stack;Tree DFS;Tree DP;bitmasks;brute force;data structures;divide and conquer;dp;dsu;fft;interactive;shortest paths;trees,25,dsu;Priority Queue;Stack;trees;Binary Lifting
+user9208,,0,Ordered Set;dsu;Multiset;Monotonic Stack;ternary search
+user9217,,0,games;trees;number theory;bitmasks;Prime Sieve
+user9230,Meet-in-the-middle;brute force;data structures;divide and conquer;dp;graphs;greedy;implementation;shortest paths;two pointers,10,divide and conquer;brute force;graphs;dp;greedy
+user9235,,0,2D DP;Knapsack;dsu;Connected Components;dp
+user9263,flows;geometry,2,geometry;graph matchings;Distance Between Points;flows;Interval DP
+user9276,,0,geometry;Distance Between Points;graph matchings;Max Flow;Monotonic Stack
+user9298,Divisors;number theory;trees,3,number theory;Divisors;trees;Tree DFS;Modular Arithmetic
+user930,Distance Between Points;geometry,2,geometry;Distance Between Points;Max Flow;graph matchings;flows
+user9316,,0,Ordered Set;Tree DFS;hashing;interactive;trees
+user9322,Distance Between Points;Max Flow;geometry,3,geometry;Distance Between Points;graph matchings;Max Flow;flows
+user9325,,0,ternary search;Priority Queue;Dijkstra;2D DP;shortest paths
+user9353,Max Flow,1,Max Flow;flows;graph matchings;geometry;Orientation Test
+user9355,flows;geometry;graph matchings,3,Polygon Area;geometry;Distance Between Points;graph matchings;Max Flow
+user9357,1D DP;Bitmask DP;Combinations;Knapsack;Tree Diameter;bitmasks;combinatorics;dp;trees,9,Bitmask DP;Tree DP;Bitmask Enumeration;bitmasks;Tree Diameter
+user936,Distance Between Points;Line Intersection;Orientation Test;geometry,4,Line Intersection;geometry;Orientation Test;Polygon Area;Distance Between Points
+user9370,Binary Search on Answer;Binary Search on Array;Brute Force Enumeration;Greedy Sorting;Two Pointers on Sorted Array;binary search;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;flows;graphs;greedy;implementation;shortest paths;sortings;trees;two pointers,19,binary search;two pointers;graphs;divide and conquer;trees
+user9373,Max Flow;flows;graph matchings,3,graph matchings;Max Flow;flows;2-sat;Strongly Connected Components
+user9383,dp;trees,2,dp;trees;Tree DFS;shortest paths;graphs
+user9385,BFS;Bitmask Enumeration;Difference Array;Dijkstra;Divisors;Graph Representation;Max Flow;Monotonic Stack;Prefix Sum;Prime Factorization;Prime Sieve;Priority Queue;Queue;Stack;bitmasks;dsu;number theory;shortest paths,18,Priority Queue;Monotonic Stack;Difference Array;Stack;dsu
+user9402,,0,bitmasks;Bitmask Enumeration;data structures;number theory;Ordered Set
+user9403,flows;geometry;graph matchings,3,geometry;graph matchings;Distance Between Points;flows;Bipartite Graph Check
+user9411,Distance Between Points;geometry,2,geometry;Distance Between Points;Max Flow;graph matchings;flows
+user9415,,0,Tree Diameter;ternary search;trees;Tree DFS;Binary Search on Answer
+user9418,Distance Between Points;Max Flow;flows;geometry;graph matchings,5,Min Cut;Orientation Test;Polygon Area;geometry;Distance Between Points
+user9429,,0,trees;games;Tree Diameter;combinatorics;Permutations
+user9435,,0,dp;brute force;divide and conquer;bitmasks;Bitmask Enumeration
+user9436,,0,Max Flow;flows;shortest paths;Priority Queue;ternary search
+user9440,Distance Between Points;Max Flow;Orientation Test;flows;geometry;graph matchings,6,Orientation Test;Polygon Area;Max Flow;geometry;graph matchings
+user9446,,0,Tree DFS;dsu;trees;shortest paths;Monotonic Stack
+user9449,,0,trees;Hash Map;graphs;dsu;hashing
+user9451,Polygon Area;flows;geometry,3,geometry;Polygon Area;flows;2D DP;graphs
+user9469,geometry,1,Orientation Test;Polygon Area;geometry;Distance Between Points;graph matchings
+user9470,,0,Ordered Set;data structures;binary search;Multiset;Hash Map
+user9471,Max Flow;flows;graph matchings,3,Max Flow;graph matchings;flows;geometry;Polygon Area
+user9486,Binary Search on Answer;Binary Search on Array;Bitmask Enumeration;binary search;bitmasks;brute force;combinatorics;constructive algorithms;data structures;divide and conquer;games;greedy;implementation;math;sortings;ternary search;trees;two pointers,18,binary search;brute force;games;greedy;bitmasks
+user9487,Max Flow;flows;graph matchings,3,Max Flow;flows;graph matchings;Priority Queue;Bipartite Graph Check
+user9506,,0,Interval DP;Connected Components;DFS;Tree DFS;hashing
+user9518,,0,geometry;flows;Interval DP;Max Flow;ternary search
+user9541,Distance Between Points;geometry,2,geometry;Convex Hull;Distance Between Points;graph matchings;Max Flow
+user956,Max Flow;flows;graph matchings,3,Max Flow;flows;graph matchings;geometry;2-sat
+user9563,Binary Search on Array;Brute Force Enumeration;Simulation;binary search;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;dp;fft;graphs;greedy;implementation;shortest paths;sortings;string suffix structures;trees;two pointers,19,brute force;divide and conquer;implementation;greedy;binary search
+user9581,Max Flow;geometry;graph matchings,3,Line Intersection;Orientation Test;geometry;Distance Between Points;Max Flow
+user9584,,0,Hash Map;2D DP;Priority Queue;graphs;hashing
+user9585,flows;geometry,2,flows;geometry;Priority Queue;Dijkstra;Topological Sort
+user9592,geometry,1,geometry;Max Flow;Priority Queue;graph matchings;Strongly Connected Components
+user9597,,0,geometry;Ordered Set;Hash Map;dsu;shortest paths
+user9600,binary search;trees,2,trees;ternary search;binary search;Binary Search on Answer;divide and conquer
+user961,,0,2D DP;Binary Search on Answer;hashing;Coordinate Compression;Tree DP
+user9615,2-sat;Brute Force Enumeration;Dijkstra;Max Flow;Prefix Sum;Simulation;Strongly Connected Components;Tree DFS;brute force;constructive algorithms;data structures;divide and conquer;dp;dsu;flows;graph matchings;graphs;greedy;implementation;shortest paths;trees;two pointers,22,graphs;shortest paths;Graph Representation;divide and conquer;0-1 BFS
+user9618,,0,flows;Priority Queue;Dijkstra;Binary Lifting;shortest paths
+user9629,Distance Between Points;Min Cut;Priority Queue;flows;geometry;graph matchings,6,Min Cut;Max Flow;geometry;graph matchings;Distance Between Points
+user963,geometry;graph matchings,2,Polygon Area;geometry;graph matchings;Max Flow;flows
+user9636,,0,Interval DP;Connected Components;graphs;DFS;trees
+user9654,,0,flows;Hash Map;ternary search;trees;hashing
+user9666,Distance Between Points;Orientation Test;geometry;graph matchings,4,Line Intersection;Orientation Test;geometry;Distance Between Points;graph matchings
+user9667,,0,Hash Map;geometry;dp;hashing;DP on DAG
+user9671,,0,geometry;Polygon Area;Distance Between Points;graphs;Hash Map
+user9682,Hash Map;binary search;data structures;two pointers,4,data structures;Hash Map;two pointers;binary search;Fenwick Tree
+user9688,Brute Force Enumeration;binary search;bitmasks;brute force;data structures;divide and conquer;dp;greedy;implementation;trees;two pointers,11,brute force;data structures;trees;two pointers;divide and conquer
+user972,geometry;graph matchings,2,geometry;graph matchings;flows;Interval DP;2D DP
+user9730,,0,Bipartite Graph Check;shortest paths;2D DP;graphs;dsu
+user9740,flows;graph matchings,2,Max Flow;graph matchings;flows;geometry;Priority Queue
+user9753,BFS;Binary Search on Array;Bitmask Enumeration;Brute Force Enumeration;Fenwick Tree;Prefix Sum;Priority Queue;Simulation;State Simulation;binary search;bitmasks;brute force;constructive algorithms;data structures;divide and conquer;dp;flows;graphs;greedy;implementation;number theory;shortest paths;sortings;trees;two pointers,25,brute force;graphs;implementation;shortest paths;divide and conquer
+user976,Max Flow;geometry;graph matchings,3,Line Intersection;Polygon Area;geometry;Distance Between Points;graph matchings
+user9769,Max Flow;flows,2,Max Flow;flows;2D DP;Knapsack;graphs
+user9780,flows;geometry;graph matchings,3,Polygon Area;geometry;graph matchings;Max Flow;flows
+user9790,,0,Interval DP;Edit Distance;graph matchings;ternary search;2D DP
+user9795,dsu,1,dsu;ternary search;Priority Queue;Queue;Difference Array
+user9798,,0,geometry;Polygon Area;2-sat;Distance Between Points;Binary Lifting
+user9801,,0,graph matchings;flows;geometry;Polygon Area;Bipartite Graph Check
+user9808,,0,Min Cut;graph matchings;Strongly Connected Components;flows;Line Intersection
+user981,,0,graphs;geometry;Cycle Detection;Strongly Connected Components;Topological Sort
+user9811,geometry;graph matchings,2,geometry;graph matchings;Distance Between Points;flows;Priority Queue
+user9812,Bipartite Graph Check;geometry;graph matchings,3,graph matchings;Bipartite Graph Check;geometry;graphs;shortest paths
+user9817,geometry;graph matchings,2,geometry;graph matchings;flows;Distance Between Points;2-sat
+user9824,,0,flows;Tree DFS;trees;Priority Queue;Binary Search on Answer
+user9836,graph matchings,1,graph matchings;ternary search;graphs;trees;Binary Search on Answer
+user9841,Bitmask Enumeration;Combinations;Difference Array;Fenwick Tree;GCD;Modular Arithmetic;Modular Combinations;Monotonic Stack;Permutations;Prefix Sum;Prime Factorization;Prime Sieve;Priority Queue;Segment Tree;Simulation;Stack;bitmasks;brute force;combinatorics;data structures;dsu;games;math;matrices;number theory,25,Bitmask Enumeration;number theory;Difference Array;math;Prime Sieve
+user9858,,0,flows;graph matchings;Hash Map;Multiset;geometry
+user9881,,0,Hash Map;graphs;Binary Search on Answer;trees;Monotonic Stack
+user99,,0,flows;graph matchings;shortest paths;Dijkstra;Priority Queue
+user990,graph matchings;graphs,2,graph matchings;graphs;trees;hashing;Tree DFS
+user9904,,0,binary search;Binary Search on Answer;trees;dp;Ordered Set
+user9906,geometry,1,geometry;Distance Between Points;graphs;dsu;Hash Map
+user9916,Convex Hull;Distance Between Points;Line Intersection;Max Flow;Orientation Test;geometry;graph matchings,7,Line Intersection;Orientation Test;Polygon Area;geometry;Convex Hull
+user9917,Binary Search on Answer;Binary Search on Array;Bitmask Enumeration;Expected Value;Two Pointers on Sorted Array;binary search;bitmasks;brute force;combinatorics;data structures;divide and conquer;games;greedy;implementation;math;number theory;probabilities;sortings;trees;two pointers,20,binary search;games;two pointers;brute force;Binary Search on Array
+user9933,,0,Max Flow;flows;Dijkstra;dsu;graphs
+user994,flows,1,flows;graph matchings;Priority Queue;shortest paths;dsu
+user9941,,0,binary search;ternary search;Binary Search on Array;games;brute force
+user9944,flows,1,flows;geometry;Priority Queue;Monotonic Queue;Distance Between Points
+user9956,,0,Lazy Segment Tree;dsu;binary search;Binary Search on Array;constructive algorithms
+user9959,,0,Line Intersection;geometry;graph matchings;flows;ternary search
+user9963,,0,graphs;Monotonic Stack;trees;data structures;binary search
+user9975,,0,ternary search;geometry;Convex Hull;interactive;Schedules
+user9981,geometry,1,geometry;flows;Interval DP;Knapsack;Connected Components
+user9985,Binary Search on Array;Bitmask Enumeration;Fenwick Tree;Mo's Algorithm;Priority Queue;data structures;dsu;greedy;sortings;two pointers,10,Fenwick Tree;two pointers;data structures;dsu;Priority Queue
+user9997,flows;geometry;graph matchings,3,Max Flow;geometry;graph matchings;flows;Distance Between Points

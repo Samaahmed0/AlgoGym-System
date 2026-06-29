@@ -1,0 +1,158 @@
+:root {
+  /* ── Primary Purple ── */
+  --primary-purple: #8b5cf6;
+  --primary-purple-dark: #7c3aed;
+  --primary-purple-darker: #6d28d9;
+  --primary-purple-light: #ddd6fe;
+  --dark-dark-purple: #411b4b;
+
+  /* ── Background Colors ── */
+  --bg-primary: #ffffff;
+  --bg-secondary: #f8f9fb;
+  --bg-tertiary: #f1f3f6;
+  --bg-hover: #eceef2;
+  --bg-page: #f8fafc;
+  --bg-pagetwo: #fcfbfe;
+
+  /* ── Text Colors ── */
+  --text-primary: #1e1e1e;
+  --text-secondary: #2d2d2d;
+  --text-muted: #6b7280;
+  --text-dim: #9ca3af;
+  --text-main: #1c0f2a;
+
+  /* ── Border Colors ── */
+  --border-primary: #e5e7eb;
+  --border-secondary: #d1d5db;
+  --border-light: rgba(0, 0, 0, 0.06);
+
+  /* ── Status: Success ── */
+  --success-bg: rgba(0, 184, 163, 0.08);
+  --success-border: #00b8a3;
+  --success-text: #047857;
+
+  /* ── Status: Error ── */
+  --error-bg: rgba(255, 55, 95, 0.08);
+  --error-border: #ff375f;
+  --error-text: #be123c;
+
+  /* ── Status: Warning ── */
+  --warning-bg: rgba(255, 192, 30, 0.1);
+  --warning-border: #ffc01e;
+  --warning-text: #b45309;
+
+  /* ── Code / Console ── */
+  --code-bg: #f6f8fa;
+  --code-text: #7c2d12;
+
+  /* ── Difficulty ── */
+  --difficulty-easy: #16a34a;
+  --difficulty-medium: #d97706;
+  --difficulty-hard: #dc2626;
+  --easy-background: #f0fdf4;
+  --medium-background: #fffbeb;
+  --hard-background: #fef2f2;
+
+  /* ── Purple Accents with Opacity ── */
+  --purple-glow: rgba(139, 92, 246, 0.12);
+  --purple-glow-strong: rgba(139, 92, 246, 0.2);
+  --purple-very-light: rgba(139, 92, 246, 0.06);
+
+  /* ── Misc Accent ── */
+  --primary: #6366f1;
+  --primary-bright: #7b46e5;
+  --primary-soft: rgba(179, 99, 241, 0.1);
+  --accent: #d946ef;
+  --glass-white: rgba(255, 255, 255, 0.88);
+
+  /* ────────────────────────────────────────────
+     NEW — Homepage section tokens
+     Use these across all pages for consistency
+  ──────────────────────────────────────────── */
+
+  /* Section spacing */
+  --section-padding-y: 100px;
+  --section-padding-x: 5%;
+  --section-max-width: 1100px;
+
+  /* Section label pill (used in HowItWorks, WhyChoose, LearningExperience, etc.) */
+  --label-bg: rgba(139, 92, 246, 0.06);
+  --label-border: rgba(139, 92, 246, 0.2);
+  --label-color: var(--primary-purple-dark);
+  --label-font-size: 0.68rem;
+  --label-letter-spacing: 0.18em;
+
+  /* Card tokens */
+  --card-radius: 20px;
+  --card-bg: var(--bg-primary);
+  --card-border: var(--border-primary);
+  --card-shadow: 0 4px 20px rgba(0, 0, 0, 0.04);
+  --card-shadow-hover: 0 16px 48px rgba(139, 92, 246, 0.12);
+  --card-border-hover: var(--primary-purple-light);
+
+  /* Icon box tokens */
+  --icon-box-size: 52px;
+  --icon-box-radius: 14px;
+  --icon-box-bg: rgba(139, 92, 246, 0.06);
+  --icon-box-border: rgba(139, 92, 246, 0.2);
+  --icon-box-color: var(--primary-purple-dark);
+  --icon-box-bg-hover: var(--primary-purple-dark);
+  --icon-box-color-hover: #ffffff;
+
+  /* Button tokens */
+  --btn-radius: 12px;
+  --btn-padding: 14px 28px;
+  --btn-font-size: 1rem;
+  --btn-font-weight: 600;
+
+  --btn-primary-bg: var(--primary-purple-dark);
+  --btn-primary-color: #ffffff;
+  --btn-primary-shadow: 0 4px 20px rgba(124, 58, 237, 0.3);
+  --btn-primary-bg-hover: var(--primary-purple-darker);
+  --btn-primary-shadow-hover: 0 8px 28px rgba(124, 58, 237, 0.35);
+
+  --btn-secondary-bg: var(--bg-tertiary);
+  --btn-secondary-color: var(--text-primary);
+  --btn-secondary-border: var(--border-primary);
+  --btn-secondary-bg-hover: var(--bg-hover);
+  --btn-secondary-border-hover: var(--border-secondary);
+
+  /* Section title */
+  --section-title-size: clamp(1.8rem, 3.5vw, 2.5rem);
+  --section-title-weight: 800;
+  --section-title-tracking: -0.03em;
+
+  /* Metrics / stat numbers */
+  --stat-num-size: clamp(2.2rem, 3.5vw, 3rem);
+  --stat-num-weight: 900;
+  --stat-num-color: var(--text-primary);
+  --stat-suffix-color: var(--primary-purple-dark);
+
+  /* Float cards (used in Hero) */
+  --float-card-radius: 16px;
+  --float-card-shadow: 0 8px 28px rgba(0, 0, 0, 0.08);
+
+  /* Glow blobs */
+  --blob-purple: rgba(139, 92, 246, 0.1);
+  --blob-accent: rgba(217, 70, 239, 0.08);
+
+  /* Typography scale */
+  --font-base: 'Inter', sans-serif;
+  --text-xs: 0.72rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.25rem;
+
+  /* Transitions */
+  --transition-fast: 0.2s ease;
+  --transition-base: 0.28s ease;
+  --transition-slow: 0.5s ease;
+
+  /* Radius scale */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-xl: 28px;
+  --radius-full: 9999px;
+}

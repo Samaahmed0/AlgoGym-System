@@ -1,0 +1,178 @@
+.hiw-section {
+  padding: 90px 5% 100px;
+  background: #f8f9fb;
+  position: relative;
+  overflow: hidden;
+  font-family: 'Inter', sans-serif;
+}
+
+.hiw-section::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: repeating-linear-gradient(
+    -55deg,
+    transparent,
+    transparent 60px,
+    rgba(93, 63, 211, 0.025) 60px,
+    rgba(93, 63, 211, 0.025) 61px
+  );
+  pointer-events: none;
+}
+
+/* ── Header ── */
+.hiw-header {
+  text-align: center;
+  max-width: 520px;
+  margin: 0 auto 56px;
+}
+
+.hiw-label {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: #5d3fd3;
+  background: #f3f0ff;
+  border: 1px solid #dcd3ff;
+  padding: 5px 14px;
+  border-radius: 100px;
+  margin-bottom: 18px;
+}
+
+.hiw-title {
+  font-size: clamp(1.8rem, 3.5vw, 2.5rem);
+  font-weight: 800;
+  color: #1a1a1a;
+  letter-spacing: -0.03em;
+  line-height: 1.2;
+  margin-bottom: 12px;
+}
+
+.hiw-title em {
+  font-style: normal;
+  color: #5d3fd3;
+}
+
+.hiw-subtitle {
+  font-size: 1rem;
+  color: #6b7280;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* ── Grid ── */
+.hiw-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0;
+  max-width: 1100px;
+  margin: 0 auto;
+  position: relative;
+}
+
+/* ── Step ── */
+.hiw-step {
+  position: relative;
+  padding: 32px 28px 32px;
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.5s ease var(--delay, 0ms),
+    transform 0.5s ease var(--delay, 0ms);
+  text-align: center;
+}
+
+.hiw-step.hiw-visible {
+  opacity: 1;
+  transform: none;
+}
+
+/* Arrow connector — positioned absolutely between steps */
+.hiw-arrow {
+  position: absolute;
+  top: 36px;
+  right: -14px;
+  width: 28px;
+  height: 28px;
+  color: #dcd3ff;
+  z-index: 2;
+}
+
+.hiw-arrow svg {
+  width: 100%;
+  height: 100%;
+}
+
+/* ── Icon ── */
+.hiw-icon-wrap {
+  width: 52px;
+  height: 52px;
+  border-radius: 14px;
+  background: #f3f0ff;
+  border: 1px solid #dcd3ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #5d3fd3;
+  margin: 0 auto 14px;
+  transition: background 0.25s ease, box-shadow 0.25s ease;
+}
+
+.hiw-icon-wrap svg {
+  width: 22px;
+  height: 22px;
+}
+
+.hiw-step:hover .hiw-icon-wrap {
+  background: #5d3fd3;
+  color: white;
+  box-shadow: 0 6px 20px rgba(93, 63, 211, 0.3);
+}
+
+/* ── Number ── */
+.hiw-num {
+  display: block;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  color: #c4b5fd;
+  margin-bottom: 10px;
+  font-family: 'Inter', sans-serif;
+}
+
+/* ── Text ── */
+.hiw-card-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 8px;
+  letter-spacing: -0.01em;
+  font-family: 'Inter', sans-serif;
+}
+
+.hiw-card-desc {
+  font-size: 0.88rem;
+  color: #6b7280;
+  line-height: 1.6;
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+/* ── Responsive ── */
+@media (max-width: 860px) {
+  .hiw-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+  }
+
+  .hiw-arrow {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .hiw-grid {
+    grid-template-columns: 1fr;
+  }
+}

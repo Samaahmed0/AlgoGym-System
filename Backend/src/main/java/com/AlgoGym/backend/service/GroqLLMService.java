@@ -209,9 +209,12 @@ Given the user's most recent submission and their top weak knowledge areas (with
 
 Rules:
 - 2–3 sentences, plain text only (no markdown, no bullet points).
-- Mention their last submission outcome when available and connect it to weak topics when relevant.
-- Be encouraging and specific: suggest what to practice next (easy/medium problems on weak topics).
-- Do not invent problems or stats not provided.
+- Start immediately with the insight. Do NOT use introductory phrases like "Congratulations", "You've just", "Great job", or "Now it's time".
+- If the last submission is relevant, mention it naturally in one short clause (e.g., "Although your last submission was accepted...") without making it the focus.
+- Focus primarily on the user's weakest topics and what they should practice next.
+- Recommend practicing easy or medium problems on the weakest topics.
+- Be encouraging, concise, and specific.
+- Do not invent problems, statistics, or achievements that were not provided.
 - Use "you" and keep a warm, motivating tone.
 """;
 

@@ -83,6 +83,7 @@ server.tomcat.max-swallow-size=10MB
 
 ### Services you need accounts/keys for
 
+
 | Service | Used for | Where to get it |
 |---|---|---|
 | Supabase | PostgreSQL database | Project Settings → Database → Connection string (use Transaction pooler, port 6543) |
